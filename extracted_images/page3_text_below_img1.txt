@@ -1,0 +1,11 @@
+Figure 1. Hypoxic stimuli have opposing effects on UC-MSC proliferation. UC-MSCs were cultured
+under different O2 and CoCl2 levels—control (21% O2), and moderate (5% O2 and 10 µM CoCl2)
+and severe (<1% O2 and 250 µM CoCl2) hypoxia—and cultured with INK-128, for 24 and 48 h.
+(A) Representative images of plated UC-MSCs treated under control and experimental conditions,
+captured in a phase-contrast microscope (10× magniﬁcation). (B) Total number of live cells counted
+after 24 and 48 h incubation period, under control and experimental conditions, from a minimum
+of 3 independent experiments. Results are represented as means with SEM. Statistical signiﬁcance
+considered when * p < 0.05%, ** p < 0.01 and *** p < 0.001. (C) Representative ﬂow cytometry dot plot
+and the respective 24 h (D) and 48 h (F) quantiﬁcation of live, early apoptotic, late apoptotic, and
+necrotic populations through Annexin V/PI staining. (E) Enhanced scale of the early apoptosis bars
+of graph D.

@@ -1,0 +1,66 @@
+filename    abstract    result  conclusion
+PMC10000680.pdf	"Abstract: Hypoxia induces the abnormal proliferation of vascular smooth muscle cells (VSMCs),
+resulting in the pathogenesis of various vascular diseases. RNA-binding proteins (RBPs) are involved
+in a wide range of biological processes, including cell proliferation and responses to hypoxia. In
+this study, we observed that the RBP nucleolin (NCL) was downregulated by histone deacetylation
+in response to hypoxia. We evaluated its regulatory effects on miRNA expression under hypoxic
+conditions in pulmonary artery smooth muscle cells (PASMCs). miRNAs associated with NCL were
+assessed using RNA immunoprecipitation in PASMCs and small RNA sequencing. The expression of
+a set of miRNAs was increased by NCL but reduced by hypoxia-induced downregulation of NCL.
+The downregulation of miR-24-3p and miR-409-3p promoted PASMC proliferation under hypoxic
+conditions. These results clearly demonstrate the signiﬁcance of NCL–miRNA interactions in the
+regulation of hypoxia-induced PASMC proliferation and provide insight into the therapeutic value of
+RBPs for vascular diseases.
+Keywords: pulmonary artery smooth muscle cells; nucleolin; hypoxia; microRNA
+1."	"
+
+ANSWER: Yes! Based on the information provided in the abstract, the paper may indeed show the growth status of pulmonary artery smooth muscle cells (PASMCs) under different oxygen concentrations. Here's my reasoning:
+
+Firstly, the abstract mentions ""hypoxia"" which implies that the study involves exposure to low oxygen levels.
+Secondly, the abstract states that the authors investigated the effect of histone deacetylation on the regulation of miRNA expression in PASMCs under hypoxic conditions. This suggests that the study examines how changes in chromatin structure affect gene expression in response to low oxygen levels.
+Thirdly, the abstract highlights the role of RNA-binding protein nucleolin (NCL) in regulating miRNA expression under hypoxic conditions. This indicates that the study focuses on the molecular mechanisms underlying cellular responses to hypoxia.
+Finally, the abstract mentions that the downregulation of specific miRNAs promotes PASMC proliferation under hypoxic conditions. This suggests that the study explores how changes in miRNA expression impact cell growth and proliferation in response to low oxygen levels.
+
+Therefore, based on these clues from the abstract, it seems likely that the paper shows the growth status of PASMCs under different oxygen concentrations."	Yes
+PMC10001186.pdf	"Abstract: The Hypoxia Inducible Factor 1 (HIF-1) plays a major role in the cellular response to
+hypoxia by regulating the expression of many genes involved in adaptive processes that allow cell
+survival under low oxygen conditions. Adaptation to the hypoxic tumor micro-environment is
+also critical for cancer cell proliferation and therefore HIF-1 is also considered a valid therapeutical
+target. Despite the huge progress in understanding regulation of HIF-1 expression and activity by
+oxygen levels or oncogenic pathways, the way HIF-1 interacts with chromatin and the transcriptional
+machinery in order to activate its target genes is still a matter of intense investigation. Recent studies
+have identiﬁed several different HIF-1- and chromatin-associated co-regulators that play important
+roles in the general transcriptional activity of HIF-1, independent of its expression levels, as well
+as in the selection of binding sites, promoters and target genes, which, however, often depends on
+cellular context. We review here these co-regulators and examine their effect on the expression of
+a compilation of well-characterized HIF-1 direct target genes in order to assess the range of their
+involvement in the transcriptional response to hypoxia. Delineating the mode and the signiﬁcance of
+the interaction between HIF-1 and its associated co-regulators may offer new attractive and speciﬁc
+targets for anticancer therapy.
+Keywords: hypoxia; HIF-1; transcriptional regulation; chromatin; cancer
+1."	"
+
+ANSWER: No. Based on the content of the abstract, the paper does not seem to focus on the growth status of cells under different oxygen concentrations. Instead, it discusses the regulation of gene expression by the Hypoxia Inducible Factor 1 (HIF-1) and its interactions with other proteins and molecules. While the study may involve experiments to investigate these mechanisms, the abstract does not mention any specific data or results related to cell growth or proliferation rates under different oxygen conditions. Therefore, it is unlikely that the paper will provide information about the growth status of cells under different oxygen concentrations."	No
+PMC10001350.pdf	"Abstract: Tumor-inﬁltrating lymphocytes (TILs) play a signiﬁcant role in cancer progression and
+prognosis of patients. The tumor microenvironment (TME) may affect the anti-tumor immune re-
+sponse. We examined the TIL and tertiary lymphoid structure (TLS) density in the invading front and
+inner tumor stroma, and the lymphocyte subpopulation (CD8, CD4, FOXP3) density in 60 squamous
+cell carcinomas of the lip. Analysis was performed in parallel with markers of hypoxia (hypoxia-
+inducible factor (HIF1α), lactate dehydrogenase (LDHA)) and angiogenesis. Low TIL density in the
+invading tumor front was related with larger tumor size (p = 0.05), deep invasion (p = 0.01), high
+smooth-muscle actin (SMA) expression (p = 0.01), and high HIF1α and LDH5 expression (p = 0.04).
+FOXP3+ TILs inﬁltration and FOXP3+/CD8+ ratios were higher in inner tumor areas, linked with
+LDH5 expression, and higher MIB1 proliferation index (p = 0.03) and SMA expression (p = 0.001).
+Dense CD4+ lymphocytic inﬁltration in the invading front is related to high tumor-budding (TB)
+(p = 0.04) and angiogenesis (p = 0.04 and p = 0.006, respectively). Low CD8+ TIL density, high CD20+
+B-cell density, high FOXP3+/CD8+ ratio and high CD68+ macrophage presence characterized tumors
+with local invasion (p = 0.02, 0.01, 0.02 and 0.006, respectively). High angiogenic activity was linked
+with high CD4+, FOXP3+, and low CD8+ TIL density (p = 0.05, 0.01 and 0.01, respectively), as well
+as high CD68+ macrophage presence (p = 0.003). LDH5 expression was linked with high CD4+ and
+FOXP3+ TIL density (p = 0.05 and 0.01, respectively). Further research is needed to explore the
+prognostic and therapeutic value of TME/TIL interactions.
+Keywords: lip cancer; tumor inﬁltrating lymphocytes; tertiary lymphoid structures; hypoxia;
+angiogenesis; FOXP3
+1."	"
+
+1. Yes. Based on the title and abstract provided, it appears likely that the paper will discuss the effect of oxygen concentration on the growth of cells, specifically tumor-infiltrating lymphocytes (TILs) and other lymphocyte subpopulations in squamous cell carcinoma of the lip. The study examines the relationship between TIL and tertiary lymphoid structure (TLS) density, markers of hypoxia (HIF1α and LDHA), and angiogenesis in these tumors. Therefore, the paper may indeed show the growth status of cells under different oxygen concentrations."	Yes

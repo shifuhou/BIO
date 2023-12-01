@@ -1,0 +1,9 @@
+Figure 3. Effect of hypoxia on UC-MSCs is linked to the mTOR pathway. UC-MSCs underwent control
+(21% O2 and INK-128) and experimental conditions (5% O2, <1% O2, 10 µM CoCl2, and 250 µMCoCl2)
+for 24 and 48 h, after which protein analysis was carried out via Western blot. (A–C) Protein band
+quantiﬁcation of two mTORC1 targets (p-4EBP1/4EBP1 and p-S6K1/S6K1) and a mTORC2 target
+(p-Akt/Akt), normalized to the loading control calnexin (CNX). The ratio between phosphorylated
+and total forms could be used to infer protein function. (D) Representative immunoblot of the
+total and of the respective phosphorylated form of the 4EBP1, S6K1, and Akt proteins. Results are
+represented as means with SEM of a minimum of 3 independent experiments. Statistical signiﬁcance
+considered when * p < 0.05%, ** p < 0.01, and *** p < 0.001.

@@ -1,0 +1,23 @@
+Abstract
+Tissues and organs in vivo are under a hypoxic condition; that is, the oxygen tension is typically much lower than in ambient
+air. However, the effects of such a hypoxic condition on tendon stem cells, a recently identified tendon cell, remain
+incompletely defined. In cell culture experiments, we subjected human tendon stem cells (hTSCs) to a hypoxic condition
+with 5% O2, while subjecting control cells to a normaxic condition with 20% O2. We found that hTSCs at 5% O2 had
+significantly greater cell proliferation than those at 20% O2. Moreover, the expression of two stem cell marker genes, Nanog
+and Oct-4, was upregulated in the cells cultured in 5% O2. Finally, in cultures under 5% O2, more hTSCs expressed the stem
+cell markers nucleostemin, Oct-4, Nanog and SSEA-4. In an in vivo experiment, we found that when both cell groups were
+implanted with tendon-derived matrix, more tendon-like structures formed in the 5% O2 treated hTSCs than in 20% O2
+treated hTSCs. Additionally, when both cell groups were implanted with Matrigel, the 5% O2 treated hTSCs showed more
+extensive formation of fatty, cartilage-like and bone-like tissues than the 20% O2 treated cells. Together, the findings of this
+study show that oxygen tension is a niche factor that regulates the stemness of hTSCs, and that less oxygen is better for
+maintaining hTSCs in culture and expanding them for cell therapy of tendon injuries.
+Citation: Zhang J, Wang JH-C (2013) Human Tendon Stem Cells Better Maintain Their Stemness in Hypoxic Culture Conditions. PLoS ONE 8(4): e61424.
+doi:10.1371/journal.pone.0061424
+Editor: Sudha Agarwal, Ohio State University, United States of America
+Received January 24, 2013; Accepted March 13, 2013; Published April 16, 2013
+Copyright: � 2013 Wang, Zhang. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This project was funded by National Institutes of Health grants AR049921 and AR06139. The funders had no role in study design, data collection and
+analysis, decision to publish, or preparation of the manuscript.
+Competing Interests: The authors have declared that no competing interests exist.
+* E-mail: wanghc@pitt.edu
