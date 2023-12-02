@@ -10,6 +10,7 @@ import requests
 import PyPDF2
 from PyPDF2 import PageObject
 import time
+import gc
 
 
 def download_pdf_with_retry(url, file_path, headers=None, num_retries=3):
@@ -49,7 +50,7 @@ def extract_introduction_from_pdf(pdf_path):
                     if end_idx != -1:
 
                         introduction += text[start_idx:end_idx]
-
+                        pdf.close()
                         return introduction
                     
                 if len(introduction)==0:
@@ -61,7 +62,9 @@ def extract_introduction_from_pdf(pdf_path):
                 end_idx = text.find(end_word)
                 if end_idx!= -1:
                     introduction += text[:end_idx]
+                    pdf.close()
                     return introduction
+            pdf.close()
             return introduction
         
 def extract_images_and_text_below(pdf_path, output_folder):
@@ -76,12 +79,14 @@ def extract_images_and_text_below(pdf_path, output_folder):
         if (page_num ==0):
             continue
         page = pdf_img.pages[page_num]
+
         im = page.to_image(resolution=300)  # 高分辨率转换页面为图片
         pil_image = im.original
         pil_height = pil_image.height
         images = []
         text_blocks = []
-        
+
+
 
         # 获取图像和文本块的位置信息
         for element in page_layout:
@@ -99,6 +104,7 @@ def extract_images_and_text_below(pdf_path, output_folder):
             elif isinstance(element, LTTextBox):
                 text_blocks.append((element.bbox, element.get_text()))
         page = pdf[page_num]
+
         for i, (img_bbox,img) in enumerate(images):
             # 找到距离图片最近的文本块
             nearest_text = None
@@ -117,15 +123,25 @@ def extract_images_and_text_below(pdf_path, output_folder):
                 text_filepath = os.path.join(output_folder, text_filename)
                 with open(text_filepath, "w", encoding="utf-8") as f:
                     f.write(nearest_text)
+                    f.close()
 
                 img_filename = f"page{page_num + 1}_img{i + 1}.png"
                 img_filepath = os.path.join(output_folder, img_filename)
                 img.save(img_filepath)
+                img.close()
 
                 output_texts.append(nearest_text)
                 output_imgs.append(img)
+        del im ,page
+        gc.collect()
     pdf.close()
+    pdf_img.close()
+    
     print("==============================")
     print(f"{len(output_imgs)} figures and legends extracted.")
+
+    del pdf_img,pdf
+    gc.collect()
     return output_texts,output_imgs
+
 

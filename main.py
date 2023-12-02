@@ -3,6 +3,8 @@ from Bio import Entrez
 import requests
 import pandas as pd
 import json
+from LLM_prompts import analysis_introduction,analysis_citation
+import re
 
 if __name__ == '__main__':
     df = pd.read_csv('pmc_queue.csv',header=None)
@@ -24,6 +26,7 @@ if __name__ == '__main__':
         title = xml_data['PubmedArticle'][0]['MedlineCitation']['Article']['ArticleTitle']
         ref = xml_data["PubmedArticle"][0]["PubmedData"]["ReferenceList"][0]["Reference"]
 
+        article.close()
 
 
         formatted_data = json.dumps(xml_data, indent=4)
@@ -53,15 +56,35 @@ if __name__ == '__main__':
             success_download_flag = False
 
         if success_download_flag:
-            try:
-                introduction = extract_introduction_from_pdf(file_path)
-                img_path = os.path.join(img_folder, f"PMC{pmc_id}")
-                print(img_path)
-                legends,imgs = extract_images_and_text_below(file_path,img_path)
+            # try:
+            introduction = extract_introduction_from_pdf(file_path)
+            img_path = os.path.join(img_folder, f"PMC{pmc_id}")
+            print(img_path)
+            legends,imgs = extract_images_and_text_below(file_path,img_path)
+            pattern = r'\[\d+([–-]\d+)?(,\d+([–-]\d+)?)*\]'
+            matches = re.finditer(pattern, introduction)
+            start = 0
+            citation = []
+            citation_nums = []
+            for m in matches:
+                print("==========================================")
+                citation_nums.append(m.group())
+                citation.append(introduction[start:m.end()])
+                start = m.end()+1
+                print(citation_nums[len(citation)-1],'\n',citation[len(citation)-1])
+                
+                result = analysis_citation(citation[len(citation)-1])
+                print("-------------------------------------------")
+                print(result)
 
-            except:
-                pass
+            # result = analysis_introduction(introduction)
+            # print("introduction ==================")
+            # # print(introduction)
+            # print("gpt_result   ------------------")
+            # print(result)
 
+            # except:
+            #     pass
 
         # df = df.drop(df.index[0])
         break

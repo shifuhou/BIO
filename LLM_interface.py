@@ -3,7 +3,7 @@ import pandas as pd
 import requests
 
 from openai_key import *
-import openai
+from openai import OpenAI
 
 def textgen_api(prompt, url = 'http://localhost:5000/api/v1/generate'):
   request = {
@@ -53,5 +53,45 @@ def textgen_api(prompt, url = 'http://localhost:5000/api/v1/generate'):
       result = response.json()['results'][0]['text']
   return result
 
-def gpt_3_turbo(prompt):
-   
+def gpt_3_turbo_completions(prompt):
+   client = OpenAI(api_key=gpt_key,)
+   response = client.completions.create(
+    model = "gpt-3.5-turbo-instruct",
+    prompt = prompt,
+    max_tokens = 1500
+    )
+
+   return response.choices[0].text.strip()
+
+
+def gpt_3_turbo_chat(prompt):
+    client = OpenAI(api_key=gpt_key,)
+    response = client.chat.completions.create(
+        messages=[
+            {
+                "role": "user",
+                "content": prompt,
+            }
+        ],
+        model = "gpt-3.5-turbo",
+        max_tokens = 1500
+        )
+    # print(response.choices[0])
+    # print(response.choices[0].message.content)
+    return response.choices[0].message.content
+
+def gpt_4_turbo_chat(prompt):
+    client = OpenAI(api_key=gpt_key,)
+    response = client.chat.completions.create(
+        messages=[
+            {
+                "role": "user",
+                "content": prompt,
+            }
+        ],
+        model = "gpt-4",
+        max_tokens = 1500
+        )
+    # print(response.choices[0])
+    # print(response.choices[0].message.content)
+    return response.choices[0].message.content

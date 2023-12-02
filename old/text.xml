@@ -1,11 +1,12 @@
 {
-    "PubmedBookArticle": [],
     "PubmedArticle": [
         {
             "MedlineCitation": {
-                "GeneralNote": [],
-                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
                 "OtherAbstract": [],
+                "SpaceFlightMission": [],
                 "KeywordList": [
                     [
                         "cobalt chloride",
@@ -15,10 +16,8 @@
                         "metabolism"
                     ]
                 ],
-                "CitationSubset": [
-                    "IM"
-                ],
                 "OtherID": [],
+                "GeneralNote": [],
                 "PMID": "35409106",
                 "DateCompleted": {
                     "Year": "2022",
@@ -31,9 +30,6 @@
                     "Day": "08"
                 },
                 "Article": {
-                    "Language": [
-                        "eng"
-                    ],
                     "ArticleDate": [
                         {
                             "Year": "2022",
@@ -44,6 +40,9 @@
                     "ELocationID": [
                         "3749",
                         "10.3390/ijms23073749"
+                    ],
+                    "Language": [
+                        "eng"
                     ],
                     "Journal": {
                         "ISSN": "1422-0067",
@@ -527,5 +526,6 @@
                 ]
             }
         }
-    ]
+    ],
+    "PubmedBookArticle": []
 }
