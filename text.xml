@@ -1,0 +1,531 @@
+{
+    "PubmedArticle": [
+        {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "KeywordList": [
+                    [
+                        "cobalt chloride",
+                        "hypoxia",
+                        "mTOR",
+                        "mesenchymal stem cells",
+                        "metabolism"
+                    ]
+                ],
+                "OtherID": [],
+                "GeneralNote": [],
+                "PMID": "35409106",
+                "DateCompleted": {
+                    "Year": "2022",
+                    "Month": "04",
+                    "Day": "13"
+                },
+                "DateRevised": {
+                    "Year": "2023",
+                    "Month": "03",
+                    "Day": "08"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2022",
+                            "Month": "03",
+                            "Day": "29"
+                        }
+                    ],
+                    "ELocationID": [
+                        "3749",
+                        "10.3390/ijms23073749"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1422-0067",
+                        "JournalIssue": {
+                            "Volume": "23",
+                            "Issue": "7",
+                            "PubDate": {
+                                "Year": "2022",
+                                "Month": "Mar",
+                                "Day": "29"
+                            }
+                        },
+                        "Title": "International journal of molecular sciences",
+                        "ISOAbbreviation": "Int J Mol Sci"
+                    },
+                    "ArticleTitle": "Differential Oxygen Exposure Modulates Mesenchymal Stem Cell Metabolism and Proliferation through mTOR Signaling.",
+                    "Abstract": {
+                        "AbstractText": [
+                            "Mesenchymal stem cells reside under precise hypoxic conditions that are paramount in determining cell fate and behavior (metabolism, proliferation, differentiation, etc.). In this work, we show that different oxygen tensions promote a distinct proliferative response and affect the biosynthetic demand and global metabolic profile of umbilical cord-mesenchymal stem cells (UC-MSCs). Using both gas-based strategies and CoCl2 as a substitute for the costly hypoxic chambers, we found that specific oxygen tensions influence the fate of UC-MSCs differently. While 5% O2 potentiates proliferation, stimulates biosynthetic pathways, and promotes a global hypermetabolic profile, exposure to <1% O2 contributes to a quiescent-like cell state that relies heavily on anaerobic glycolysis. We show that using CoCl2 as a hypoxia substitute of moderate hypoxia has distinct metabolic effects, when compared with gas-based strategies. The present study also highlights that, while severe hypoxia regulates global translation via mTORC1 modulation, its effects on survival-related mechanisms are mainly modulated through mTORC2. Therefore, the experimental conditions used in this study establish a robust and reliable hypoxia model for UC-MSCs, providing relevant insights into how stem cells are influenced by their physiological environment, and how different strategies of modulating hypoxia may influence experimental outcomes."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "CNC-Centre for Neuroscience and Cell Biology, CIBB-Centre for Innovative Biomedicine and Biotechnology, University of Coimbra, Azinhaga de Santa Comba, Polo 3, 3000-548 Coimbra, Portugal."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-0381-4101"
+                            ],
+                            "LastName": "Moniz",
+                            "ForeName": "In\u00eas",
+                            "Initials": "I"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "CNC-Centre for Neuroscience and Cell Biology, CIBB-Centre for Innovative Biomedicine and Biotechnology, University of Coimbra, Azinhaga de Santa Comba, Polo 3, 3000-548 Coimbra, Portugal."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Life Sciences, University of Coimbra, Cal\u00e7ada Martim de Freitas, 3000-456 Coimbra, Portugal."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-1172-4018"
+                            ],
+                            "LastName": "Ramalho-Santos",
+                            "ForeName": "Jo\u00e3o",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "CNC-Centre for Neuroscience and Cell Biology, CIBB-Centre for Innovative Biomedicine and Biotechnology, University of Coimbra, Azinhaga de Santa Comba, Polo 3, 3000-548 Coimbra, Portugal."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-0415-3560"
+                            ],
+                            "LastName": "Branco",
+                            "ForeName": "Ana F",
+                            "Initials": "AF"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "Stem@REST",
+                            "Agency": "Funda\u00e7\u00e3o para a Ci\u00eancia e Tecnologia",
+                            "Country": ""
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Switzerland",
+                    "MedlineTA": "Int J Mol Sci",
+                    "NlmUniqueID": "101092791",
+                    "ISSNLinking": "1422-0067"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "EC 2.7.1.1",
+                        "NameOfSubstance": "MTOR protein, human"
+                    },
+                    {
+                        "RegistryNumber": "EC 2.7.11.1",
+                        "NameOfSubstance": "TOR Serine-Threonine Kinases"
+                    },
+                    {
+                        "RegistryNumber": "S88TT14065",
+                        "NameOfSubstance": "Oxygen"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cell Differentiation"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cell Hypoxia"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cell Proliferation"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cells, Cultured"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans"
+                    },
+                    {
+                        "QualifierName": [
+                            "metabolism"
+                        ],
+                        "DescriptorName": "Hypoxia"
+                    },
+                    {
+                        "QualifierName": [
+                            "metabolism"
+                        ],
+                        "DescriptorName": "Mesenchymal Stem Cells"
+                    },
+                    {
+                        "QualifierName": [
+                            "metabolism"
+                        ],
+                        "DescriptorName": "Oxygen"
+                    },
+                    {
+                        "QualifierName": [
+                            "metabolism"
+                        ],
+                        "DescriptorName": "TOR Serine-Threonine Kinases"
+                    }
+                ],
+                "CoiStatement": "The authors declare no conflict of interest exists."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Han Y., Li X., Zhang Y., Han Y., Chang F., Ding J. Mesenchymal Stem Cells for Regenerative Medicine. Cells. 2019;8:886. doi: 10.3390/cells8080886.",
+                                "ArticleIdList": [
+                                    "10.3390/cells8080886",
+                                    "PMC6721852",
+                                    "31412678"
+                                ]
+                            },
+                            {
+                                "Citation": "Marino L., Castaldi M.A., Rosamilio R., Ragni E., Vitolo R., Fulgione C., Castaldi S.G., Serio B., Bianco R., Guida M., et al. Mesenchymal Stem Cells from the Wharton\u2019s Jelly of the Human Umbilical Cord: Biological Properties and Therapeutic Potential. Int. J. Stem Cells. 2019;12:218\u2013226. doi: 10.15283/ijsc18034.",
+                                "ArticleIdList": [
+                                    "10.15283/ijsc18034",
+                                    "PMC6657936",
+                                    "31022994"
+                                ]
+                            },
+                            {
+                                "Citation": "Galipeau J., Sens\u00e9b\u00e9 L. Mesenchymal Stromal Cells: Clinical Challenges and Therapeutic Opportunities. Cell Stem Cell. 2018;22:824\u2013833. doi: 10.1016/j.stem.2018.05.004.",
+                                "ArticleIdList": [
+                                    "10.1016/j.stem.2018.05.004",
+                                    "PMC6434696",
+                                    "29859173"
+                                ]
+                            },
+                            {
+                                "Citation": "Carreau A., Hafny-Rahbi B.E., Matejuk A., Grillon C., Kieda C. Why Is the Partial Oxygen Pressure of Human Tissues a Crucial Parameter? Small Molecules and Hypoxia. J. Cell. Mol. Med. 2011;15:1239\u20131253. doi: 10.1111/j.1582-4934.2011.01258.x.",
+                                "ArticleIdList": [
+                                    "10.1111/j.1582-4934.2011.01258.x",
+                                    "PMC4373326",
+                                    "21251211"
+                                ]
+                            },
+                            {
+                                "Citation": "Lee S.-H., Golinska M., Griffiths J.R. HIF-1-Independent Mechanisms Regulating Metabolic Adaptation in Hypoxic Cancer Cells. Cells. 2021;10:2371. doi: 10.3390/cells10092371.",
+                                "ArticleIdList": [
+                                    "10.3390/cells10092371",
+                                    "PMC8472468",
+                                    "34572020"
+                                ]
+                            },
+                            {
+                                "Citation": "Drela K., Sarnowska A., Siedlecka P., Szablowska-Gadomska I., Wielgos M., Jurga M., Lukomska B., Domanska-Janik K. Low Oxygen Atmosphere Facilitates Proliferation and Maintains Undifferentiated State of Umbilical Cord Mesenchymal Stem Cells in an Hypoxia Inducible Factor-Dependent Manner. Cytotherapy. 2014;16:881\u2013892. doi: 10.1016/j.jcyt.2014.02.009.",
+                                "ArticleIdList": [
+                                    "10.1016/j.jcyt.2014.02.009",
+                                    "24726658"
+                                ]
+                            },
+                            {
+                                "Citation": "Obradovic H., Krstic J., Trivanovic D., Mojsilovic S., Okic I., Kukolj T., Ilic V., Jaukovic A., Terzic M., Bugarski D. Improving Stemness and Functional Features of Mesenchymal Stem Cells from Wharton\u2019s Jelly of a Human Umbilical Cord by Mimicking the Native, Low Oxygen Stem Cell Niche. Placenta. 2019;82:25\u201334. doi: 10.1016/j.placenta.2019.05.005.",
+                                "ArticleIdList": [
+                                    "10.1016/j.placenta.2019.05.005",
+                                    "31174623"
+                                ]
+                            },
+                            {
+                                "Citation": "Lee J.H., Yoon Y.M., Lee S.H. Hypoxic Preconditioning Promotes the Bioactivities of Mesenchymal Stem Cells via the HIF-1\u03b1-GRP78-Akt Axis. Int. J. Mol. Sci. 2017;18:1320. doi: 10.3390/ijms18061320.",
+                                "ArticleIdList": [
+                                    "10.3390/ijms18061320",
+                                    "PMC5486141",
+                                    "28635661"
+                                ]
+                            },
+                            {
+                                "Citation": "Park S.E., Kim H., Kwon S., Choi S., Oh S., Ryu G.H., Jeon H.B., Chang J.W. Pressure Stimuli Improve the Proliferation of Wharton\u2019s Jelly-Derived Mesenchymal Stem Cells under Hypoxic Culture Conditions. Int. J. Mol. Sci. 2020;21:7092. doi: 10.3390/ijms21197092.",
+                                "ArticleIdList": [
+                                    "10.3390/ijms21197092",
+                                    "PMC7583852",
+                                    "32993025"
+                                ]
+                            },
+                            {
+                                "Citation": "Nekanti U., Dastidar S., Venugopal P., Totey S., Ta M. Increased Proliferation and Analysis of Differential Gene Expression in Human Wharton\u2019s Jelly-Derived Mesenchymal Stromal Cells under Hypoxia. Int. J. Biol. Sci. 2010;6:499\u2013512. doi: 10.7150/ijbs.6.499.",
+                                "ArticleIdList": [
+                                    "10.7150/ijbs.6.499",
+                                    "PMC2945278",
+                                    "20877435"
+                                ]
+                            },
+                            {
+                                "Citation": "Zhang B., Ye H., Yang A. Mathematical Modelling of Interacting Mechanisms for Hypoxia Mediated Cell Cycle Commitment for Mesenchymal Stromal Cells. BMC Syst. Biol. 2018;12:35. doi: 10.1186/s12918-018-0560-3.",
+                                "ArticleIdList": [
+                                    "10.1186/s12918-018-0560-3",
+                                    "PMC5879778",
+                                    "29606139"
+                                ]
+                            },
+                            {
+                                "Citation": "Hussein A.M., Wang Y., Mathieu J., Margaretha L., Song C., Jones D.C., Cavanaugh C., Miklas J.W., Mahen E., Showalter M.R., et al. Metabolic Control over MTOR-Dependent Diapause-like State. Dev. Cell. 2020;52:236\u2013250.e7. doi: 10.1016/j.devcel.2019.12.018.",
+                                "ArticleIdList": [
+                                    "10.1016/j.devcel.2019.12.018",
+                                    "PMC7204393",
+                                    "31991105"
+                                ]
+                            },
+                            {
+                                "Citation": "Fenelon J., Lef\u00e8vre P., Banerjee A., Murphy B. Regulation of Diapause in Carnivores. Reprod. Domest. Anim. 2017;52:12\u201317. doi: 10.1111/rda.12835.",
+                                "ArticleIdList": [
+                                    "10.1111/rda.12835",
+                                    "28025841"
+                                ]
+                            },
+                            {
+                                "Citation": "T\u00fcmpel S., Rudolph K.L. Quiescence: Good and Bad of Stem Cell Aging. Trends Cell Biol. 2019;29:672\u2013685. doi: 10.1016/j.tcb.2019.05.002.",
+                                "ArticleIdList": [
+                                    "10.1016/j.tcb.2019.05.002",
+                                    "31248787"
+                                ]
+                            },
+                            {
+                                "Citation": "Laplante M., Sabatini D.M. MTOR Signaling at a Glance.  [(accessed on 18 March 2022)];J. Cell Sci. 2009 122:3589\u20133594. doi: 10.1242/jcs.051011. Available online:  https://journals.biologists.com/jcs/article/122/20/3589/30940/mTOR-signaling-at-a-glance.",
+                                "ArticleIdList": [
+                                    "10.1242/jcs.051011",
+                                    "PMC2758797",
+                                    "19812304"
+                                ]
+                            },
+                            {
+                                "Citation": "Correia B., Sousa M.I., Ramalho-Santos J. The MTOR Pathway in Reproduction: From Gonadal Function to Developmental Coordination. Reproduction. 2020;159:R173\u2013R188. doi: 10.1530/REP-19-0057.",
+                                "ArticleIdList": [
+                                    "10.1530/REP-19-0057",
+                                    "31786539"
+                                ]
+                            },
+                            {
+                                "Citation": "Coller H.A. The Paradox of Metabolism in Quiescent Stem Cells. FEBS Lett. 2019;593:2817\u20132839. doi: 10.1002/1873-3468.13608.",
+                                "ArticleIdList": [
+                                    "10.1002/1873-3468.13608",
+                                    "PMC7034665",
+                                    "31531979"
+                                ]
+                            },
+                            {
+                                "Citation": "Sousa M.I., Correia B., Rodrigues A.S., Ramalho-Santos J. Metabolic Characterization of a Paused-like Pluripotent State. Biochim. Biophys. Acta (BBA)\u2014Gen. Subj. 2020;1864:129612. doi: 10.1016/j.bbagen.2020.129612.",
+                                "ArticleIdList": [
+                                    "10.1016/j.bbagen.2020.129612",
+                                    "32272203"
+                                ]
+                            },
+                            {
+                                "Citation": "Ferro F., Spelat R., Shaw G., Duffy N., Islam M.N., O\u2019Shea P.M., O\u2019Toole D., Howard L., Murphy J.M. Survival/Adaptation of Bone Marrow-Derived Mesenchymal Stem Cells After Long-Term Starvation Through Selective Processes. Stem Cells. 2019;37:813\u2013827. doi: 10.1002/stem.2998.",
+                                "ArticleIdList": [
+                                    "10.1002/stem.2998",
+                                    "30835892"
+                                ]
+                            },
+                            {
+                                "Citation": "Bhandi S., Al Kahtani A., Mashyakhy M., Alsofi L., Maganur P.C., Vishwanathaiah S., Testarelli L., Del Giudice A., Mehta D., Vyas N., et al. Modulation of the Dental Pulp Stem Cell Secretory Profile by Hypoxia Induction Using Cobalt Chloride. J. Pers. Med. 2021;11:247. doi: 10.3390/jpm11040247.",
+                                "ArticleIdList": [
+                                    "10.3390/jpm11040247",
+                                    "PMC8066657",
+                                    "33808091"
+                                ]
+                            },
+                            {
+                                "Citation": "Valcourt J., Lemons J., Haley E., Kojima M., Demuren O., Coller H.A. Staying Alive: Metabolic adaptations to quiescence. Cell Cycle. 2012;11:1680\u20131696. doi: 10.4161/cc.19879.",
+                                "ArticleIdList": [
+                                    "10.4161/cc.19879",
+                                    "PMC3372394",
+                                    "22510571"
+                                ]
+                            },
+                            {
+                                "Citation": "Sengupta S., Peterson T.R., Sabatini D.M. Regulation of the MTOR Complex 1 Pathway by Nutrients, Growth Factors, and Stress. Mol. Cell. 2010;40:310\u2013322. doi: 10.1016/j.molcel.2010.09.026.",
+                                "ArticleIdList": [
+                                    "10.1016/j.molcel.2010.09.026",
+                                    "PMC2993060",
+                                    "20965424"
+                                ]
+                            },
+                            {
+                                "Citation": "So W.-K., Cheung T.H. Methods in Molecular Biologyl. Volume 1686. Springer; Berlin/Heidelberg, Germany: 2018. Molecular Regulation of Cellular Quiescence: A Perspective from Adult Stem Cells and Its Niches; pp. 1\u201325.",
+                                "ArticleIdList": [
+                                    "10.1007/978-1-4939-7371-2_1",
+                                    "29030809"
+                                ]
+                            },
+                            {
+                                "Citation": "Mu\u00f1oz-S\u00e1nchez J., Ch\u00e1nez-C\u00e1rdenas M.E. The Use of Cobalt Chloride as a Chemical Hypoxia Model. J. Appl. Toxicol. 2019;39:556\u2013570. doi: 10.1002/jat.3749.",
+                                "ArticleIdList": [
+                                    "10.1002/jat.3749",
+                                    "30484873"
+                                ]
+                            },
+                            {
+                                "Citation": "Zeng H.-L., Zhong Q., Qin Y.-L., Bu Q.-Q., Han X.-A., Jia H.-T., Liu H.-W. Hypoxia-Mimetic Agents Inhibit Proliferation and Alter the Morphology of Human Umbilical Cord-Derived Mesenchymal Stem Cells. BMC Cell Biol. 2011;12:32. doi: 10.1186/1471-2121-12-32.",
+                                "ArticleIdList": [
+                                    "10.1186/1471-2121-12-32",
+                                    "PMC3166919",
+                                    "21827650"
+                                ]
+                            },
+                            {
+                                "Citation": "Ren H., Cao Y., Zhao Q., Li J., Zhou C., Liao L., Jia M., Zhao Q., Cai H., Han Z.C., et al. Proliferation and Differentiation of Bone Marrow Stromal Cells under Hypoxic Conditions. Biochem. Biophys. Res. Commun. 2006;347:12\u201321. doi: 10.1016/j.bbrc.2006.05.169.",
+                                "ArticleIdList": [
+                                    "10.1016/j.bbrc.2006.05.169",
+                                    "16814746"
+                                ]
+                            },
+                            {
+                                "Citation": "Pacary E., Legros H., Valable S., Duchatelle P., Lecocq M., Petit E., Nicole O., Bernaudin M. Synergistic Effects of CoCl2 and ROCK Inhibition on Mesenchymal Stem Cell Differentiation into Neuron-like Cells. J. Cell Sci. 2006;119:2667\u20132678. doi: 10.1242/jcs.03004.",
+                                "ArticleIdList": [
+                                    "10.1242/jcs.03004",
+                                    "16772336"
+                                ]
+                            },
+                            {
+                                "Citation": "Papandreou I., Cairns R.A., Fontana L., Lim A.L., Denko N.C. HIF-1 Mediates Adaptation to Hypoxia by Actively Downregulating Mitochondrial Oxygen Consumption. Cell Metab. 2006;3:187\u2013197. doi: 10.1016/j.cmet.2006.01.012.",
+                                "ArticleIdList": [
+                                    "10.1016/j.cmet.2006.01.012",
+                                    "16517406"
+                                ]
+                            },
+                            {
+                                "Citation": "Semenza G.L. Dynamic Regulation of Stem Cell Specification and Maintenance by Hypoxia-Inducible Factors. Mol. Asp. Med. 2016;47\u201348:15\u201323. doi: 10.1016/j.mam.2015.09.004.",
+                                "ArticleIdList": [
+                                    "10.1016/j.mam.2015.09.004",
+                                    "26549347"
+                                ]
+                            },
+                            {
+                                "Citation": "Rodrigues A.S., Correia M., Gomes A., Pereira S.L., Perestrelo T., Sousa M.I., Ramalho-Santos J. Dichloroacetate, the Pyruvate Dehydrogenase Complex and the Modulation of MESC Pluripotency. PLoS ONE. 2015;10:e0131663. doi: 10.1371/journal.pone.0131663.",
+                                "ArticleIdList": [
+                                    "10.1371/journal.pone.0131663",
+                                    "PMC4493017",
+                                    "26147621"
+                                ]
+                            },
+                            {
+                                "Citation": "Kim J., Tchernyshyov I., Semenza G.L., Dang C.V. HIF-1-Mediated Expression of Pyruvate Dehydrogenase Kinase: A Metabolic Switch Required for Cellular Adaptation to Hypoxia. Cell Metab. 2006;3:177\u2013185. doi: 10.1016/j.cmet.2006.02.002.",
+                                "ArticleIdList": [
+                                    "10.1016/j.cmet.2006.02.002",
+                                    "16517405"
+                                ]
+                            },
+                            {
+                                "Citation": "Sart S., Song L., Li Y. Controlling Redox Status for Stem Cell Survival, Expansion, and Differentiation. Oxid. Med. Cell. Longev. 2015;2015:105135. doi: 10.1155/2015/105135.",
+                                "ArticleIdList": [
+                                    "10.1155/2015/105135",
+                                    "PMC4530287",
+                                    "26273419"
+                                ]
+                            },
+                            {
+                                "Citation": "Scognamiglio R., Cabezas-Wallscheid N., Thier M.C., Altamura S., Reyes A., Prendergast \u00c1.M., Baumg\u00e4rtner D., Carnevalli L.S., Atzberger A., Haas S., et al. Myc Depletion Induces a Pluripotent Dormant State Mimicking Diapause. Cell. 2016;164:668\u2013680. doi: 10.1016/j.cell.2015.12.033.",
+                                "ArticleIdList": [
+                                    "10.1016/j.cell.2015.12.033",
+                                    "PMC4752822",
+                                    "26871632"
+                                ]
+                            },
+                            {
+                                "Citation": "Saxena K., Jolly M.K. Acute vs. Chronic vs. Cyclic Hypoxia: Their Differential Dynamics, Molecular Mechanisms, and Effects on Tumor Progression. Biomolecules. 2019;9:339. doi: 10.3390/biom9080339.",
+                                "ArticleIdList": [
+                                    "10.3390/biom9080339",
+                                    "PMC6722594",
+                                    "31382593"
+                                ]
+                            },
+                            {
+                                "Citation": "Bulut-Karslioglu A., Biechele S., Jin H., Macrae T.A., Hejna M., Gertsenstein M., Song J.S., Ramalho-Santos M. Inhibition of mTOR induces a paused pluripotent state. Nature. 2016;540:119\u2013123. doi: 10.1038/nature20578.",
+                                "ArticleIdList": [
+                                    "10.1038/nature20578",
+                                    "PMC5143278",
+                                    "27880763"
+                                ]
+                            },
+                            {
+                                "Citation": "Brewer J.H., Allgeier D.L. Safe Self-Contained Carbon Dioxide-Hydrogen Anaerobic System. Appl. Microbiol. 1966;14:985\u2013988. doi: 10.1128/am.14.6.985-988.1966.",
+                                "ArticleIdList": [
+                                    "10.1128/am.14.6.985-988.1966",
+                                    "PMC1058453",
+                                    "16349706"
+                                ]
+                            },
+                            {
+                                "Citation": "Divakaruni A.S., Paradyse A., Ferrick D.A., Murphy A.N., Jastroch M. Chapter Sixteen\u2014Analysis and Interpretation of Microplate-Based Oxygen Consumption and PH Data. In: Murphy A.N., Chan D.C., editors. Methods in Enzymology. Volume 547. Mitochondrial Function; Academic Press; New York, NY, USA: 2014. pp. 309\u2013354.",
+                                "ArticleIdList": [
+                                    "25416364"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2022",
+                        "Month": "2",
+                        "Day": "22"
+                    },
+                    {
+                        "Year": "2022",
+                        "Month": "3",
+                        "Day": "22"
+                    },
+                    {
+                        "Year": "2022",
+                        "Month": "3",
+                        "Day": "25"
+                    },
+                    {
+                        "Year": "2022",
+                        "Month": "4",
+                        "Day": "12",
+                        "Hour": "1",
+                        "Minute": "12"
+                    },
+                    {
+                        "Year": "2022",
+                        "Month": "4",
+                        "Day": "13",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2022",
+                        "Month": "4",
+                        "Day": "14",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "35409106",
+                    "PMC8998189",
+                    "10.3390/ijms23073749",
+                    "ijms23073749"
+                ]
+            }
+        }
+    ],
+    "PubmedBookArticle": []
+}
