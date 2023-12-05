@@ -1,0 +1,8 @@
+Figure 2 Primary hAMSCs cultured in hypoxia grow faster, have higher viability, and can be passaged for more generations in vitro. (a) hAMSCs-H had shorter P1 and P2
+passage times. The passage time of P0 was calculated once cells reached 80% confluence, after 2 g of fat tissue was digested and seeded at a density of 0.6 × 104/cm2 in hypoxic
+or normoxic conditions separately. The passage time of P1 and P2 was determined when 80% confluence was achieved. (b) Passage doubling time assay. hAMSCs-H had a
+constant PDT (o4 days) for up to 20 passages. PDT = τ Ln (2)/Ln (Nτ/N0), where τ = time from plating to counting the cells, Nτ = number of cells when counted and N0 = initial
+number of cells. (c) MTTassay was used to determine the effects of hypoxia on the proliferative capacity of hAMSCs. (d and e) Ki-67 immunostaining was performed to quantify
+the number of proliferating cells. Representative images (scale bar, 100 μm) and proliferating percentage of hAMSCs are shown. (f and g) Flow cytometric apoptosis analysis for
+Annexin V–FITC-positive and PI-negative cells. Representative histograms and quantification are shown. (h and i) PI staining was used to test the cell cycle and necrosis
+percentage of the cells. Representative histograms and quantification are shown. Error bars represent S.E.M. *Po0.05, **Po0.01, N.S., not significant

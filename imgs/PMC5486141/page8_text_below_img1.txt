@@ -1,0 +1,14 @@
+Figure 6. Hypoxic preconditioning facilitates survival, proliferation, and angiogenic cytokine
+secretion of transplanted MSCs in a murine hind-limb ischemia model. After establishing the
+murine hind-limb ischemia model, ischemic-injured tissues were collected at postoperative day 3.
+(A) Immunoﬂuorescence staining for cleaved caspase-3 (green) and human nuclear antigen (HNA;
+red). Scale bar = 50 µm; (B) Apoptosis of transplanted MSCs was quantiﬁed as the number of cleaved
+caspase-3 and HNA double-positive cells or ND (none detected). Values represent the mean ± SEM
+(n = 3). ** p < 0.01 vs. PBS, ## p < 0.01 vs. Nor-MSC, $$ p < 0.01 vs. Hypo-MSCs; (C) Immunoﬂuorescence
+staining for Ki-67 (green) and HNA (red). Scale bar = 50 µm; (D) Proliferation of transplanted MSCs
+was quantiﬁed as the number of Ki67 and HNA double-positive cells or ND. Values represent the
+mean ± SEM (n = 3). ** p <0.01 vs. PBS, ## p < 0.01 vs. Nor-MSC, $$ p < 0.01 vs. Hypo-MSCs; (E–G)
+Expression of human vascular endothelial growth factor (hVEGF) (E), human hepatocyte growth
+factor (hHGF) (F), and human ﬁbroblast growth factor (hFGF) (G) in ischemic limb tissue lysates was
+determined by ELISA. Values represent the mean ± SEM (n = 3). ** p < 0.01 vs. PBS, ## p < 0.01 vs.
+Nor-MSC, $$ p < 0.05 vs. Hypo-MSC.

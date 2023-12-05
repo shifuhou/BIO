@@ -1,0 +1,9 @@
+Figure 2. Hypoxic preconditioning enhances cell proliferation-associated signaling through the
+expression of GRP78. (A) Western blot analysis of Akt, mTOR, and p70S6k phosphorylation in MSCs
+exposed to hypoxia for 0, 6, 12, 24, or 48 h; (B) The expression levels of p-Akt, p-mTOR, and p-p70S6k
+were normalized to those of Akt, mTOR, and p70s6k, respectively. Values represent the mean ± SEM
+(n = 3).* p < 0.05 and ** p < 0.01 vs. normoxia; (C) Western blot analysis of Akt, mTOR, and p70S6k
+phosphorylation in MSCs exposed to hypoxia for 12 h after pretreatment with anti-GRP78 antibody
+(GRP78 Ab; 100 ng/mL); (D) The expression levels of p-Akt, p-mTOR, and p-p70S6k were normalized
+to those of Akt, mTOR, and p70S6k, respectively. Values represent the mean ± SEM (n = 3).* p < 0.05
+and ** p < 0.01 vs. normoxia, ## p < 0.01 vs. hypoxia.

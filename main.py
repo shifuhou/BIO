@@ -5,10 +5,21 @@ import pandas as pd
 import json
 from LLM_prompts import analysis_introduction,analysis_citation
 import re
-
+import logging,datetime
+def process_gpt(citation_nums, citation):
+    result = analysis_citation(citation)
+    logger.info('\n\ncitation: ==========================\n',citation)
+    logger.info('GPT respond:------------------------\n',result)
+    
+    
 if __name__ == '__main__':
-    df = pd.read_csv('pmc_queue.csv',header=None)
-    print(df)
+    df = pd.read_csv('pmc_queue_start.csv')
+
+
+    current_time = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    log_file = f"log\log_{current_time}.log"
+    logger = setup_logger(log_file)
+    logger.info("\n\nStart!\n\n")
 
     your_email = "shou@nd.edu"  # 请用您的邮箱地址替换
     download_folder = "pdfs"
@@ -19,12 +30,14 @@ if __name__ == '__main__':
 
     while (len(df)!=0):
         success_download_flag = False
-        pubmed_id = str(df.iloc[0][0])
+        pubmed_id = str(list(df.iloc[:,0])[0])
         article = Entrez.efetch(db="pubmed", id=pubmed_id, retmode="xml")
         xml_data = Entrez.read(article)
         abstract = xml_data['PubmedArticle'][0]['MedlineCitation']['Article']['Abstract']['AbstractText']
         title = xml_data['PubmedArticle'][0]['MedlineCitation']['Article']['ArticleTitle']
-        ref = xml_data["PubmedArticle"][0]["PubmedData"]["ReferenceList"][0]["Reference"]
+        refs = xml_data["PubmedArticle"][0]["PubmedData"]["ReferenceList"][0]["Reference"]
+
+        logger.info("Article info:\n",title,pubmed_id)
 
         article.close()
 
@@ -48,43 +61,83 @@ if __name__ == '__main__':
                 download_pdf_with_retry(pdf_url, file_path, headers=headers, num_retries=3)
                 success_download_flag =True
             else:
-                print(f"No PMC article available for PubMed ID: {pubmed_id}")
+                logger.error(f"No PMC article available for PubMed ID: {pubmed_id}")
                 success_download_flag = False
 
         except Exception as e:
-            print(f"Error occurred for PubMed ID {pubmed_id}: {e}")
+            logger.error(f"Error occurred for PubMed ID {pubmed_id}: {e}")
+
             success_download_flag = False
 
         if success_download_flag:
             # try:
             introduction = extract_introduction_from_pdf(file_path)
+
+            logger.info('Introduction:&&&&&&&&&&&&&&&&&&&&&&&&&\n',introduction)
+            
             img_path = os.path.join(img_folder, f"PMC{pmc_id}")
-            print(img_path)
             legends,imgs = extract_images_and_text_below(file_path,img_path)
-            pattern = r'\[\d+([–-]\d+)?(,\d+([–-]\d+)?)*\]'
-            matches = re.finditer(pattern, introduction)
-            start = 0
-            citation = []
-            citation_nums = []
-            for m in matches:
-                print("==========================================")
-                citation_nums.append(m.group())
-                citation.append(introduction[start:m.end()])
-                start = m.end()+1
-                print(citation_nums[len(citation)-1],'\n',citation[len(citation)-1])
-                
-                result = analysis_citation(citation[len(citation)-1])
-                print("-------------------------------------------")
-                print(result)
+            if introduction!= None:
+                pattern = r'\[\d+([–-]\d+)?(,\d+([–-]\d+)?)*\]'
+                matches = re.finditer(pattern, introduction)
+                start = 0
 
-            # result = analysis_introduction(introduction)
-            # print("introduction ==================")
-            # # print(introduction)
-            # print("gpt_result   ------------------")
-            # print(result)
+                for m in matches:
+                    citation_nums = m.group()
+                    citation = introduction[start:m.end()]
+                    start = m.end()+1
+                    
+                    result = analysis_citation(citation)
 
-            # except:
-            #     pass
+                    logger.info('\n\ncitation: ==========================\n',citation)
 
-        # df = df.drop(df.index[0])
-        break
+                    logger.info('GPT respond:------------------------\n',result)
+                    
+                    cites = []
+                    conclusion_pattern = r"Conclusion.{0,5}Yes"
+                    is_conclusion_yes = re.search(conclusion_pattern, result, re.IGNORECASE)
+                    if is_conclusion_yes:
+                        if '–' in citation_nums:
+                            s = citation_nums[1:-1].split('–')[0]
+                            e = citation_nums[1:-1].split('–')[1]
+                            for i in range(int(s),int(e)+1):
+                                cites.append(i)
+
+                        elif '-' in citation_nums:
+                            s = citation_nums[1:-1].split('-')[0]
+                            e = citation_nums[1:-1].split('-')[1]
+                            for i in range(int(s),int(e)+1):
+                                cites.append(i)
+
+                        elif ',' in citation_nums:
+
+                            for i in citation_nums[1:-1].split(','):
+                                cites.append(int(i))
+                        else:
+                            cites.append(int(citation_nums[1:-1]))
+
+                        logger.info("cite nums:{}".format(cites))   
+
+                        for cite in cites:
+                            ref = refs[cite-1]
+                            has_pmc = False
+                            pb_id = -1
+                            logger.info(cite, ref['ArticleIdList'])
+                            for t in ref['ArticleIdList']:
+                                if t.attributes['IdType'] == 'pmc':
+                                    has_pmc = True
+                                if t.attributes['IdType'] =='pubmed':
+                                    pb_id = t
+
+                            if has_pmc and pb_id!= -1:
+                                df = pd.concat([df, pd.DataFrame([{'pubmed_id':int(pb_id)}])])
+                                        
+                                logger.info('\nNew Article Info: !!!\n',int(pb_id),ref['Citation'], df.iloc[:,0])
+                            
+
+        df = df[1:]
+        df.to_csv('pmc_queue.csv',header=None,index=None)
+        logger.info('队列信息：')
+        logger.info(list(df.iloc[:,0]))
+        
+        input("按回车键继续...")

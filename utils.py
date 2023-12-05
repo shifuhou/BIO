@@ -11,7 +11,39 @@ import PyPDF2
 from PyPDF2 import PageObject
 import time
 import gc
+import logging
+class CustomLogger(logging.Logger):
+    def __init__(self, name, level=logging.NOTSET):
+        super().__init__(name, level)
 
+    def _log(self, level, msg, args, **kwargs):
+        if args:
+            placeholders = ' '.join(['{}'] * len(args))
+            msg = (str(msg) + ' ' + placeholders).strip()
+            msg = msg.format(*args)
+        super()._log(level, msg, (), **kwargs)
+
+def setup_logger(log_file):
+    # 创建一个自定义Logger对象
+    logger = CustomLogger(__name__)
+    logger.setLevel(logging.INFO)  # 设置日志级别为INFO或其他适当级别
+
+    # 创建一个文件处理程序，用于将日志写入指定的文件
+    file_handler = logging.FileHandler(log_file, encoding='utf-8')
+
+    # 创建一个终端处理程序，用于将日志消息输出到终端
+    stream_handler = logging.StreamHandler()
+
+    # 创建一个格式化程序，用于指定日志的格式
+    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    file_handler.setFormatter(formatter)
+    stream_handler.setFormatter(formatter)
+
+    # 将文件处理程序和终端处理程序添加到Logger对象
+    logger.addHandler(file_handler)
+    logger.addHandler(stream_handler)
+
+    return logger
 
 def download_pdf_with_retry(url, file_path, headers=None, num_retries=3):
     retries = 0
@@ -136,7 +168,7 @@ def extract_images_and_text_below(pdf_path, output_folder):
         gc.collect()
     pdf.close()
     pdf_img.close()
-    
+
     print("==============================")
     print(f"{len(output_imgs)} figures and legends extracted.")
 

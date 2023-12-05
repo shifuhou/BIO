@@ -76,8 +76,7 @@ def gpt_3_turbo_chat(prompt):
         model = "gpt-3.5-turbo",
         max_tokens = 1500
         )
-    # print(response.choices[0])
-    # print(response.choices[0].message.content)
+
     return response.choices[0].message.content
 
 def gpt_4_turbo_chat(prompt):

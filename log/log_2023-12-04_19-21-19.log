@@ -1,0 +1,58 @@
+2023-12-04 19:21:19,433 - utils - INFO - 
+
+Start!
+
+
+2023-12-04 19:21:20,089 - utils - INFO - Article info:
+ Differential Oxygen Exposure Modulates Mesenchymal Stem Cell Metabolism and Proliferation through mTOR Signaling. 35409106
+2023-12-04 19:21:22,490 - utils - INFO - Introduction:&&&&&&&&&&&&&&&&&&&&&&&&&
+ Introduction
+Mesenchymal stem cells (MSCs) have been consistently reported as promising candi-
+dates in functional tissue engineering and regenerative therapies [1–3]. The umbilical cord
+comprises a speciﬁc stem cell niche where precise oxygen (O2) levels are paramount to
+maintain and optimize stem cell function. In this tissue, umbilical cord-mesenchymal stem
+cells (UC-MSCs) reside under hypoxic conditions, ranging from less than 1% O2 (severe
+hypoxia) to 5% O2 (moderate hypoxia) [4].
+The hypoxia-inducible factor 1 (HIF-1) complex has emerged as one of the main
+components of hypoxia response in most cell lines [5,6]. One of its isomers, HIF-1α, is a
+transcriptional factor regulated by O2 and mobilized by hypoxia, with the crucial role of
+suppressing mitochondrial respiration while increasing glycolytic enzyme expression [6].
+Given that MSCs reside under these hypoxic physiological settings, in vitro culture un-
+der atmospheric oxygen concentrations (21% O2, normoxia) can be detrimental to the
+therapeutic value of MSCs, by hindering their plasticity, proliferation, and clonogenic
+capacity [7].
+In recent years, hypoxia preconditioning has been acknowledged as an adequate
+priming technique to both enhance and preserve MSC bioactivity and biological identity,
+respectively [8]. Nevertheless, studies on hypoxia preconditioning predominantly show
+the effects of moderate hypoxia on MSC differentiation and expansion—with several au-
+thors reporting an increase in proliferation following hypoxic treatment [9–11]. However,
+Int. J. Mol. Sci. 2022, 23, 3749. https://doi.org/10.3390/ijms23073749
+https://www.mdpi.com/journal/ijms
+Int. J. Mol. Sci. 2022, 23, 3749
+2 of 13
+severe hypoxia may have underlying advantages and might be key to promoting a hypo-
+proliferative state that safeguards the cell and guarantees its longevity. In fact, numerous
+organisms and cell lines temporarily cease cellular activity as a protective mechanism
+against adverse environmental conditions (e.g., nutrient depletion) [12,13]. This transitory
+arrest allows the cell to escape cellular senescence, DNA damage and oxidative stress asso-
+ciated with oxidative phosphorylation (OXPHOS) [14], and this preconditioning technique
+might be beneﬁcial for the long-term survival of MSCs.
+Quiescence is frequently associated with a suppression in global protein synthesis,
+metabolic activity, and energetic demand [14]. In this regard, the mammalian target of
+rapamycin (mTOR) pathway plays a key role acting as a sensor and integrator of a large
+variety of environmental cues (e.g., growth factors, nutrients, and O2 tension) that are linked
+to cell cycle arrest, metabolic quiescence, and biosynthetic requirements [15]. Moreover,
+the pharmacological inhibition of both mTOR complexes (mTORC1 and mTORC2) with
+INK-128 has been proven to induce a reversible “paused-like” state in mouse embryonic
+stem cells (mESCs) and bone marrow MSCs (BM-MSCs) [16–19].
+While hypoxic settings are primarily induced by decreasing O2 concentrations, some
+chemical hypoxia-mimetic agents (e.g., cobalt chloride) have been indiscriminately used as
+a substitute for physical hypoxia, despite the still elusive effects prompted by this alternate
+method [20]. The use of CoCl2 also allows us to distinguish the hypoxic effects produced
+speciﬁcally by HIF-1α-related pathways.
+Based on these theoretical considerations, in the present study, we aimed to perform a
+comparative characterization of different hypoxic settings on the behavior of UC-MSCs,
+focusing on proliferation and metabolism. We also aimed to determine whether severe
+hypoxia, either physical or chemical, could prompt a mTOR-dependent quiescent state in
+UC-MSCs.
+2. 

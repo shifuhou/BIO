@@ -1,0 +1,6 @@
+Figure 1 Effects of hypoxia preconditioning on the proliferation of mesenchymal stem cells (MSCs). (a) MSCs were differentiated into adipocytes, osteocytes, and
+chondrocytes under normoxic or hypoxic conditions in vitro. Adipogenic, osteogenic, and chondrogenic differentiation was examined by oil red O, alkaline phosphatase, and
+safranin O staining, respectively. Scale bar = 200 μm. (b) Adipogenic, osteogenic, and chondrogenic differentiation was examined by fabp2, osteopontin, and sox9 gene
+expression using quantitative real-time PCR. (c) Schematic of single-cell assays using MSCs. Scale bar = 200 μm. (d) Normoxic MSCs (Nor-MSC) and hypoxia-preconditioned
+MSCs (Hypo-MSC) were grown in single-cell cultures for 0, 5, and 10 days, stained with Giemsa (Scale bar = 100 μm), and (e) the percentage of single MSCs undergoing at least
+one cell division after 1, 5, and 10 days of culture. Values represent means ± S.E.M. **Po0.01 versus Nor-MSC

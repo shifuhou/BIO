@@ -1,0 +1,9 @@
+Fig. 1. Growth kinetics and senescence in WJ-MSCs cultured under normoxia and hypoxia. (A) Growth curves of WJ-MSCs 
+cultured under normoxia and hypoxia are demonstrated (B) Comparison of cumulative population doubling (PD) at each 
+passage  between  different  culture  conditions:  Normoxia  and  Hypoxia.  Significant  differences  were  observed  between 
+normoxia and hypoxia at later passages (p < 0.05). (C) Analysis of mean PD time in hour±SEM of WJ MSCs cultured under 
+hypoxia and normoxia. (D) Senescence associated β- galactosidase staining of WJ-MSCs at passage 10 under normoxia and 
+hypoxia. (E) Histogram of WJ-MSC area when cultured under hypoxia and normoxia at early (P2-P5) and late passages (P10). 
+Area of individual cells was quantified via automated image analysis from bright-field images. Results represent the average of 
+at least three culture replicates (n=3) with SEM. Scale bar=50µm. Abbreviation: WJ-MSCs, Wharton’s jelly-derived me-
+senchymal stem cells; SEM- standard error mean.  

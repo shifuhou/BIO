@@ -1,0 +1,15 @@
+Fig. 2 Principles of PET. 18F radiotracer is intra-
+venously  injected.  The  tracer  decays  by  emit-
+ting a positron, which annihilates with a nearby
+electron to produce two (cid:4)-rays. The PET scan-
+ner  can  detect  the  coincident  (cid:4)-rays,  and
+images can be reconstructed showing the loca-
+tion(s) and concentration of the tracer of inter-
+est.  Sectional  PET  image  is  shown:  normal
+uptake in brain (Br) and myocardium (C), and
+renal excretion into the urinary bladder (B) are
+visible. Also seen is a tumour (T) in the lungs
+that takes up more 18F radiotracer than the sur-
+rounding  tissues.  Adapted  with  permission
+from  Macmillan  Publishers  Ltd:  Nature
+Reviews Cancer, Gambhir, copyright 2002 [5].

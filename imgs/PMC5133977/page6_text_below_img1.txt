@@ -1,0 +1,8 @@
+Figure 4 Assessment of functional recovery in a murine hindlimb ischemia model. (a) Western blot analysis of PrPC expression in MSCs pretreated with PrPC-specific shRNA
+(sh-PRNP). (b) Blood flow recovery was evaluated via laser Doppler imaging analysis of the ischemic sites of mice injected with PBS, normoxic mesenchymal stem cells (Nor-
+MSC), hypoxia-preconditioned MSCs (Hypo-MSC), hypoxia-preconditioned MSCs transfected with PrPC-specific shRNA (sh-PRNP Hypo-MSCs), and hypoxia-preconditioned
+MSCs transfected with scrambled shRNA (Scr shRNA Hypo-MSCs) at 0, 5, 10, 15, 20, and 25 days post surgery. (c) The ratio of blood perfusion (blood flow in the left ischemic
+limb/blood flow in the right non-ischemic limb) was measured in each of the five treatment groups. Values represent means ± S.E.M. **Po0.01 versus PBS; ##Po0.01 versus
+Nor-MSCs and sh-PRNP Hypo-MSCs. (d) Representative images illustrating the different outcomes (foot necrosis, toe loss, and limb salvage) observed for ischemic limbs in the
+five treatment groups at postoperative day 25. Distribution of the different outcomes in each group. (e) Necrosis of muscle tissues in the ischemic hindlimb was confirmed by
+hematoxylin and eosin staining. Scale bar = 100 μm

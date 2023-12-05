@@ -1,11 +1,8 @@
 {
-    "PubmedBookArticle": [],
     "PubmedArticle": [
         {
             "MedlineCitation": {
-                "GeneralNote": [],
-                "SpaceFlightMission": [],
-                "OtherAbstract": [],
+                "OtherID": [],
                 "KeywordList": [
                     [
                         "cobalt chloride",
@@ -15,10 +12,12 @@
                         "metabolism"
                     ]
                 ],
+                "OtherAbstract": [],
                 "CitationSubset": [
                     "IM"
                 ],
-                "OtherID": [],
+                "SpaceFlightMission": [],
+                "GeneralNote": [],
                 "PMID": "35409106",
                 "DateCompleted": {
                     "Year": "2022",
@@ -31,8 +30,9 @@
                     "Day": "08"
                 },
                 "Article": {
-                    "Language": [
-                        "eng"
+                    "ELocationID": [
+                        "3749",
+                        "10.3390/ijms23073749"
                     ],
                     "ArticleDate": [
                         {
@@ -41,9 +41,8 @@
                             "Day": "29"
                         }
                     ],
-                    "ELocationID": [
-                        "3749",
-                        "10.3390/ijms23073749"
+                    "Language": [
+                        "eng"
                     ],
                     "Journal": {
                         "ISSN": "1422-0067",
@@ -67,20 +66,23 @@
                     },
                     "AuthorList": [
                         {
+                            "Identifier": [
+                                "0000-0002-0381-4101"
+                            ],
                             "AffiliationInfo": [
                                 {
                                     "Identifier": [],
                                     "Affiliation": "CNC-Centre for Neuroscience and Cell Biology, CIBB-Centre for Innovative Biomedicine and Biotechnology, University of Coimbra, Azinhaga de Santa Comba, Polo 3, 3000-548 Coimbra, Portugal."
                                 }
                             ],
-                            "Identifier": [
-                                "0000-0002-0381-4101"
-                            ],
                             "LastName": "Moniz",
                             "ForeName": "In\u00eas",
                             "Initials": "I"
                         },
                         {
+                            "Identifier": [
+                                "0000-0002-1172-4018"
+                            ],
                             "AffiliationInfo": [
                                 {
                                     "Identifier": [],
@@ -91,22 +93,19 @@
                                     "Affiliation": "Department of Life Sciences, University of Coimbra, Cal\u00e7ada Martim de Freitas, 3000-456 Coimbra, Portugal."
                                 }
                             ],
-                            "Identifier": [
-                                "0000-0002-1172-4018"
-                            ],
                             "LastName": "Ramalho-Santos",
                             "ForeName": "Jo\u00e3o",
                             "Initials": "J"
                         },
                         {
+                            "Identifier": [
+                                "0000-0002-0415-3560"
+                            ],
                             "AffiliationInfo": [
                                 {
                                     "Identifier": [],
                                     "Affiliation": "CNC-Centre for Neuroscience and Cell Biology, CIBB-Centre for Innovative Biomedicine and Biotechnology, University of Coimbra, Azinhaga de Santa Comba, Polo 3, 3000-548 Coimbra, Portugal."
                                 }
-                            ],
-                            "Identifier": [
-                                "0000-0002-0415-3560"
                             ],
                             "LastName": "Branco",
                             "ForeName": "Ana F",
@@ -195,7 +194,6 @@
             "PubmedData": {
                 "ReferenceList": [
                     {
-                        "ReferenceList": [],
                         "Reference": [
                             {
                                 "Citation": "Han Y., Li X., Zhang Y., Han Y., Chang F., Ding J. Mesenchymal Stem Cells for Regenerative Medicine. Cells. 2019;8:886. doi: 10.3390/cells8080886.",
@@ -477,7 +475,8 @@
                                     "25416364"
                                 ]
                             }
-                        ]
+                        ],
+                        "ReferenceList": []
                     }
                 ],
                 "History": [
@@ -527,5 +526,6 @@
                 ]
             }
         }
-    ]
+    ],
+    "PubmedBookArticle": []
 }

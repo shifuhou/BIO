@@ -1,0 +1,5 @@
+Figure 4. Stemness confirmation of Wharton’s jelly-derived mesenchymal stem cells (WJ-MSCs) exposed
+to the 5% hypoxia with 2.0 PSI pressure conditions. (A) The expression of MSC-positive markers
+(CD44, CD73, CD90, CD105, and CD166) was evaluated. (B) The expression of MSC-negative markers
+(CD11b, CD19, CD14, CD45, and HLA-DR) was evaluated. (C) WJ-MSCs were induced to differentiate
+into three-lineage cell types (adipogenic, osteogenic, and chondrogenic). Scale bar = 100 µm.

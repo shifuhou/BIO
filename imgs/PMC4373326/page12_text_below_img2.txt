@@ -1,0 +1,18 @@
+between  cells  and  the  surrounding  extracellular  matrix.  CAMs
+belong to different protein families, including integrins, cadherins,
+selectins, addresins and immunoglobulin-like cell molecules [87]
+and  their  expression  is  restricted  to  specific  cell  types.  Besides
+playing a key homeostatic role in maintaining the architecture of
+quiescent tissues, CAMs have also to adapt to the microenviron-
+mental changes that occur during some physiological and patho-
+logical processes [88]. We have previously shown that endothelial
+CAMs  are  modulated  by  nitric  oxide  [89]  whose  production  is
+dependent on oxygen pressure. To visualize the direct impact of
+oxygen tension on the cell surface phenotype of endothelial cells,
+we studied intercellular adhesion molecules (ICAM) and vascular
+cell adhesion molecule (VCAM) which are involved in inflamma-
+tory  processes:  ICAM-1/CD54,  ICAM-2/CD102  and  VCAM-
+1/CD106. As shown in Figure 7, ICAM-1/CD54 expression is sta-
+ble whatever was the oxygen level. But skin physioxia (26.6 mmHg
+or  3.5%  O2)  decreases  VCAM-1/CD106  whereas  only  hypoxia
+(less than 7.6 mmHg or 1% O2) is able to inhibit ICAM-2/CD102.

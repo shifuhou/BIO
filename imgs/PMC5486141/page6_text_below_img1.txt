@@ -1,0 +1,10 @@
+Figure 4. Hypoxic preconditioning augments cell proliferation and migration via GRP78-Akt axis.
+(A) Single-cell cultures of normoxic MSCs, hypoxia-preconditioned MSCs, and hypoxia-preconditioned
+MSCs pretreated with anti-GRP78 antibody (GRP78 Ab; 100 ng/mL) or Akt inhibitor (10−6 M) were
+stained with Giemsa after 10 days of cultivation. Scale bar = 200 µm; (B) Percentage of single MSCs
+undergoing at least one cell division after 10 days. Values represent the mean ± SEM (n = 3).* p <
+0.05 and ** p < 0.01 vs. normoxia, ## p < 0.01 vs. hypoxia; (C) Scratch wound-healing migration assay
+of normoxic MSCs, hypoxia-preconditioned MSCs, and hypoxia-preconditioned MSCs pretreated
+with anti-GRP78 antibody (GRP78 Ab; 100 ng/mL) or Akt inhibitor (10−6 M). Scale bar = 200 µm;
+(D) Standard quantiﬁcation of migrating cells is presented as the number of migrated cells per ﬁeld.
+Values represent the mean ± SEM (n = 3).* p < 0.05 and ** p < 0.01 vs. normoxia, ## p < 0.01 vs. hypoxia.

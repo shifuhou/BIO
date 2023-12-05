@@ -20,9 +20,9 @@ def analysis_citation(citation):
     prompt += 'Please analyze first before giving a yes/no conclusion.\n'
 
     prompt += 'Output Format Example:\n'
-    prompt += ' Analysis process | Coclusion:Yes/No.\n'
+    prompt += ' Analysis process: <fill> \nCoclusion:<Yes/No>.\n'
     # prompt += 'Please note that <reference index number in the paper> refers to the citation number that appears in the article.'
 
-
+    # print(prompt)
     result = gpt_3_turbo_chat(prompt)
     return result

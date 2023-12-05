@@ -1,0 +1,11 @@
+The main strategy for tracer imaging of tissue hypoxia to date
+has  involved  the  use  of  compounds  that  are  preferentially
+absorbed and trapped within cells in the reduced state. As the first
+such  agent  to  be  developed,  18F-  fluoromisonidazole  is  the  gold
+standard and has been used to identify hypoxic tumours in human
+patients [6]. Because it has many disadvantages (slow clearance
+and low cellular uptake), newer radiotracers for hypoxia imaging
+have  been  intensively  investigated.  For  example,  Copper(II)-
+diacetyl-bis(N4-methylthiosemicarbazone)  (Cu-ATSM) 
+is  a
+hypoxia-targeted  PET  agent,  which  displays  a  higher  uptake 

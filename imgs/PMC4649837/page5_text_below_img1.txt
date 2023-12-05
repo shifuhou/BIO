@@ -1,0 +1,11 @@
+Figure 3 Hypoxia-cultured primary human adipose-derived mesenchymal stem cells (hAMSCs-H) retain a greater proliferation capacity compared with normoxia-cultured
+primary hAMSCs (hAMSCs-N) when exposed to GBM media. hAMSCs-H maintain stem cell characteristics when exposed to GBM media. (a) Representative MRI of GBM from a
+patient. (b) Schema showing the collection of GBM CM and culture of hAMSCs in filtered GBM CM for proliferation and migration assays. (c) MTT assay was used to determine
+the effects of hypoxic conditions on the proliferative capacity of primary hAMSCs in GBM CM. In GBM CM, hAMSCs-H showed greater proliferation at day 10 and 15 compared
+with hAMSCs-N. (d) Ki-67 immunostaining was performed to quantify the number of proliferating cells in GBM CM. Proliferative capacities of hAMSCs-H and hAMSCs-N are
+shown in GBM CM (normalized to hAMSC-N proliferative capacity in control media). In GBM CM, hAMSCs-H had a greater proportion of proliferating cells than hAMSCs-N. (e)
+Differentiation assay. hAMSCs were cultured in control media, differentiation media, and GBM CM for 3 weeks, 10 days after the second passage. Three stainings were performed
+to assess the differentiation capabilities (scale bar, 100 μm). Both hAMSCs-N and hAMSCs-H maintained tri-lineage differentiation capability in GBM CM. (f) Flow cytometric
+analysis for CD31, CD34, CD45, CD73, CD90, and CD105 in hAMSC-N and hAMSC-H cultures after exposure to GBM CM for 20 days. hAMSCs-H maintained MSC phenotypic
+markers in GBM CM (negative for CD31, CD34, and CD45, and positive for CD73, CD90, and CD105). Error bars represent S.E.M. Error bars represent S.E.M. *Po0.05,
+**Po0.01, N.S., not significant

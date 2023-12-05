@@ -1,0 +1,16 @@
+Figure 1. GRP78 (78-kDa glucose-regulated protein)expression is regulated by hypoxia-inducible factor
+(HIF)-1α in hypoxia-preconditioned mesenchymal stem cells (MSCs). (A) Western blot analysis of
+HIF-1α expression in MSCs exposed to hypoxia for 0, 6, 12, 24, or 48 h. The expression level of HIF-1α
+was normalized to that of β-actin. Values represent the mean ± standard errors of the means (SEM)
+(n = 3). * p < 0.05 and ** p < 0.01 vs. normoxia; (B) Western blot analysis of GRP78 expression in MSCs
+exposed to hypoxia for 0, 6, 12, 24, or 48 h. The expression level of GRP78 was normalized to that
+of β-actin. Values represent the mean ± SEM (n = 3). ** p < 0.01 vs. normoxia; (C) Flow-cytometric
+analysis of anti-GRP78 after exposure to normoxia or hypoxia for 12 h. The bottom panel shows
+standard quantiﬁcation of the percentage of GRP78-positive cells. Values represent the mean ± SEM.
+** p < 0.01 vs. normoxia (n = 3); (D) Western blot analysis of HIF-1α expression in MSCs exposed to
+hypoxia for 12 h after pretreatment with HIF-1α-speciﬁc siRNA (siHIF-1α). The expression level of
+HIF-1α was normalized to that of β-actin. Values represent the mean ± SEM (n = 3). * p < 0.05 and
+** p < 0.01 vs. normoxia, # p < 0.05 vs. hypoxia; (E) Western blot analysis of GRP78 expression in MSCs
+exposed to hypoxia for 12 h after pretreatment with siHIF-1α. The expression level of GRP78 was
+normalized to that of β-actin. Values represent the mean ± SEM (n = 3). * p < 0.05 and ** p < 0.01 vs.
+normoxia, ## p < 0.01 vs. hypoxia.

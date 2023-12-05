@@ -1,0 +1,8 @@
+Figure 1. HIF-1 in normoxia and hypoxia. (A) In normoxia, HIF-1α is hydroxylated by prolyl
+and asparaginyl hydroxylases in the cytoplasm in an oxygen-dependent manner. It then forms a
+complex with VHL and other proteins, allowing it to be ubiquitnylated and degraded by proteosomes.
+(B) In hypoxia, the lack of oxygen-dependent hydroxylation and proteasomal degradation of HIF-1α
+causes it to accumulate. It then translocates to the nucleus and complexes with HIF-1β to form a
+transcription factor complex that binds to hypoxia response elements (HRE) within the promoter
+regions of target genes involved in cell proliferation, metastasis, glycolysis, angiogenesis, growth,
+and survival.

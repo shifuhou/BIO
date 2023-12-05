@@ -1,0 +1,7 @@
+Figure 6 Hypoxia-preconditioned mesenchymal stem cells (Hypo-hMSCs) promote enhanced neovascularization in a murine hindlimb ischemia model. (a) The expression of
+hEGF, hVEGF, hFGF, and hHGF in ischemic limb tissue lysates was determined by ELISA. Values represent the mean ± S.E.M. **Po0.01 versus PBS; ##Po0.01 versus Nor-
+MSCs; $Po0.05 versus sh-PRNP Hypo-MSCs $$Po0.01 versus sh-PRNP Hypo-MSCs. (b) Capillary density was evaluated in ischemic tissues at 25 days post MSC
+transplantation by immunostaining for CD31. Scale bar = 50 μm. (c) Capillary density was quantified as the number of human CD31-positive cells. Values represent the
+mean ± S.E.M. **Po0.01 versus PBS; ##Po0.01 versus Nor-MSC; $$Po0.01 versus sh-PRNP Hypo-MSC. (d) Arteriole density in ischemic tissues was evaluated at 25 days
+post MSC transplantation by immunostaining with an α-SMA antibody. Scale bar = 50 μm. (e) Arteriole density was quantified as the number of α-SMA-positive cells. Values
+represent the mean ± S.E.M. **Po0.01 versus PBS; ##Po0.01 versus Nor-MSC; $$Po0.01 versus sh-PRNP Hypo-MSCs
