@@ -1,4 +1,0 @@
-Figure 1. Schematic diagram illustrating the dual regulation of hypoxia-inducible factor (HIF) by
-oxygen-dependent prolyl and asparaginyl hydroxylation.
-Pro, proline; OH Pro, hydroxyproline; Asn, asparagine; Asn OH, hydroxyasparagine; p300/CBP, E1A binding protein
-p300/CREB-binding protein.

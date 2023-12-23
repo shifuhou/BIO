@@ -1,3 +1,0 @@
-Fig. 7 The shape of characterisation curves. a Sample curves for characterisation curves convexity factor k. The curves are selectively extracted
-from QMC simulation results for representation. b The frequency plot of the effect of parameter n_deg on factor k from compiled 39,000 sets of
-QMC simulation results

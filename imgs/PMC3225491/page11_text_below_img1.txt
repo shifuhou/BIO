@@ -1,3 +1,0 @@
-Fig. 1.
-Co-registered CT and FMISO-PET images in transaxial, sagittal, and coronal projections for
-BOT example patient.

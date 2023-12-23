@@ -1,9 +1,0 @@
-Fig. 2. Gene expression proﬁling and FACS analysis of self(cid:1)tumor-reactive
-CD8(cid:1) TCM vs. TEM. (A) A selected summary of microarray results. Shown in green
-are the genes involved in trafﬁcking to 2° lymphoid organs; the hatched green
-bar indicates a gene (mcl1) that has antiapoptotic activity; shown in red are
-genes involved in effector functions; and hatched red bars indicate proapo-
-ptotic genes. (B) Cytoﬂuorometric validation of microarray results of pmel TCM
-and TEM. Surface expression of CD62L and integrin (cid:4)E are shown with the
-percentages of CD8(cid:1) lymphocytes in each quadrant or the mean ﬂuorescence
-intensity (MFI) for intracellular granzyme B.

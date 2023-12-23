@@ -1,7 +1,0 @@
-Figure 5 Primary hAMSCs are not tumorigenic and do not transform into TAFs in vitro or in vivo. (a) hAMSCs were cultured in GBM CM or control media for 2 weeks and
-western blottings (GAPDH served as a control) were performed to quantify TAF markers (vimentin and sm-actin). (b) Schematic of the experiment where PBS (n = 6), hAMSCs-H
-(n = 7), or hAMSCs-N (n = 8) (both of hAMSCs groups labeled with GFP/Luciferase) were injected into mice. The mice (n = 3 in each group) were separated and killed at day 10.
-Bioluminescence for the rest of mice in each group was checked on day 1, 7, 14, and 28, then killed at day 60. (c–f) Live animal imaging of hAMSCs. Bioluminescent radiance was
-maintained between day 1 and day 7 for hAMSCs-H (P = 0.165), whereas a significant decrease occurred in hAMSCs-N (Po0.01). (g and h) Vimentin, sm-actin, GFP, and
-human nuclear stains for hypoxia and normoxia groups. No hAMSCs were seen at day 60 either in hAMSCs-N or hAMSCs-H group. No positive stains for hAMSC markers (GFP/
-Ki-67 with human nuclei) or TAF markers (vimentin and sm-actin) were observed on day 60. Error bars represent SEM. *Po0.05, **Po0.01, N.S., not significant

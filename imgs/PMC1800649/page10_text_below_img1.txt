@@ -1,6 +1,0 @@
-FIG. 6. VHL activity is required for E-cadherin transcription. (A) ChIP using anti-RNA Pol II antibody was performed on sheared chromatin
-from 786-O cell lines (VHL(cid:6)/(cid:6)) that had been stably transfected with wild-type VHL (open bar) or mutant VHL(C162F) (solid bar). IP DNA was
-determined for the promoter and exon 10 of E-cadherin and the promoter of cyclophilin A using real-time PCR, and the value in VHL(WT) cells
-was arbitrarily set to 1.0. (B) RNA Pol II ChIPs were performed in 786-VHL(WT) cells exposed to 4 or 20 h of hypoxia (1% oxygen). IP DNA
-for exon 10 of E-cadherin was normalized to the IP DNA for the cyclophilin A promoter (left). Normoxia was arbitrarily set to 1.0. Expression of
-VEGF was assessed by real-time PCR as internal control for hypoxia treatment (right).

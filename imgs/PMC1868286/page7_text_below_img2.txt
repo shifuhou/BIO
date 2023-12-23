@@ -1,8 +1,0 @@
-Figure 5. Western blot analysis showing the effect of hypoxia on HIF-1(cid:1)and
-E-cadherin proteins in OSE cells and in two ovarian cancer cell lines. A:
-Specific bands for HIF-1(cid:1) and E-cadherin were detected, and the band
-density of HIF-1(cid:1) is increased in two ovarian cancer cells, but not in OSE
-cells under hypoxia. E-cadherin expression is remarkably decreased in two
-ovarian cancer cells, but not in OSE cells under hypoxia. B: The density of the
-E-cadherin bands was quantified by densitometric analysis. Data are pre-
-sented after normalization with the (cid:4)-actin bands.

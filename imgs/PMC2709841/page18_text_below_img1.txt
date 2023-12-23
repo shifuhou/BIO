@@ -1,8 +1,0 @@
-Figure 4. Repressed, active and poised genes in memory CD8 T cell subsets
-(A) Comparison of H3K4me3 levels in repressed gene loci between naïve and memory CD8
-T cell subsets. The mean H3K4me3 of 105 common repressed genes in memory CD8 T cell
-subsets and naïve CD8 T cells was compared.
-(B) Two representative common repressed genes (SH3BGRL2, SYT3) in memory CD8 T cells
-are presented, indicating their gene loci, the levels of H3K4me3 and H3K27me3 in resting
-CD8 T cells, and mRNA expression at resting and after 16 hours anti-CD3/28 stimulation in
-naïve and memory CD8 T cell subsets (a complete list of genes can be found in Table S2).

@@ -1,9 +1,0 @@
-Figure 5. Phorbol Ester-Induced Ear Inflammation Is Differentially Regulated by Members of 
-the Hypoxic Response Pathway in Myeloid Cells
-Ears of (A) WT, (B) HIF-1α-, (C) VEGF-, and (D) VHL-LysM-CRE mice were painted 
-once with 2.5 µg TPA in acetone carrier solution. 24 hr later, ears were harvested and fixed 
-in 4% PFA. The leukocyte common antigen (CD45) was immunolocalized on paraffin 
-sections and detected with DAB. (E) Ears were treated with TPA as outlined above, and 24 
-hr later a defined area of 6mm was punched out. Weight was determined as a measurement 
-of edema formation. (F) Tissue was homogenized and myeloperoxidase activity assayed by 
-spectophotometrically monitored conversion of o-dianisidine. (G and H). Total RNA was 

@@ -1,9 +1,0 @@
-Figure 6. Therapeutic eﬀects of WJ-MSCs on C2C12 cell death in an in vitro model. WJ-MSCs exposed
-to high-pressure and/or hypoxia were co-cultured with C2C12 cells in an in vitro cell death model.
-(A) After 24 h, microscopic images were taken of the C2C12 cells in each group, and their cell conﬂuency
-was measured from these images. Scale bar: Scale bar = 100 µm. (B) The anti-apoptotic eﬀects of
-WJ-MSCs on the C2C12 cells were conﬁrmed by Western blot using cleaved PARP and cleaved caspase-3
-antibodies. The bands were normalized to beta actin. The band intensities were quantiﬁed using
-Image J software. Control: C2C12 cells; C: co-cultured with control WJ-MSCs. C+H: co-cultured with
-WJ-MSCs exposed to hypoxia; C+H+P: co-cultured with WJ-MSCs exposed to high pressure and
-hypoxia. ** p-value < 0.01, *** p-value < 0.001. Six batches per groups were assigned and tested.

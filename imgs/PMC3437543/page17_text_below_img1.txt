@@ -1,9 +1,0 @@
-Figure 1. Regulation of Glucose Metabolism
-Under hypoxic conditions, HIF-1 activates the transcription of genes encoding: glucose
-transporters and glycolytic enzymes, which increase flux of glucose to pyruvate; PDK1
-(encoding pyruvate dehydrogenase kinase), which inactivates PDH (pyruvate
-dehydrogenase), the mitochondrial enzyme that converts pyruvate to acetyl CoA for entry
-into the tricarboxylic acid (TCA/citric acid/Krebs) cycle; LDHA, which converts pyruvate to
-lactate; and BNIP3 and BNIP3L, which induce mitochondrial autophagy. The shunting of
-substrate away from the mitochondria reduces ATP production but prevents excess ROS
-production that occurs due to inefficient electron transport under hypoxic conditions.

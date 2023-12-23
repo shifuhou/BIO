@@ -1,3 +1,0 @@
-Figure 5 Enhancers of Tcf7 and Klf2 progressively acquire repressive H3K27me3 modifications. (A) Distribution of H3K27me3 and H3K4me3
-modifications at putative enhancer regions (identified by enrichment of H3K4me1 marks in data set from ref. 31) of Tcf7 and Klf2 in the following
-antigen-experienced CD81 T-cell subsets: naı¨ve (TN), stem cell memory (TSCM), central memory (TCM), and effector memory (TEM).

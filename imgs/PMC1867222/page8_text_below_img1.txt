@@ -1,9 +1,0 @@
-Figure 4. VEGF, VEGFR-2, and macrophages are associated with skeletal muscle regeneration. a– h: Sections from regenerating rabbit tibialis anterior muscle
-where ischemia was induced 7 days earlier by excision of femoral artery. a: Strong VEGF immunostaining in regenerating myocytes on the left (arrowheads)
-but not in nonregenerating muscle cells on the right (anti-VEGF from Santa Cruz). b: The same regenerating myocytes are also positive for VEGFR-2
-immunostaining (anti-VEGFR-2 from Santa Cruz). c: Unlike in the nonregenerating area, capillaries are dilated (arrowheads) and increased in number near
-regenerating and VEGF-expressing myofibers (CD31 immunostaining). d: Macrophages (arrowheads) are also associated with skeletal muscle regeneration and
-VEGF expression (RAM11 immunostaining). e: In situ hybridization with [33P]UTP-labeled VEGF anti-sense riboprobe. Signal from VEGF mRNA is found in the
-same area as VEGF protein (arrowheads). f: Corresponding sense control riboprobe. g: In situ hybridization with [33P]UTP-labeled VEGFR-2 anti-sense riboprobe
-showing signal from regenerating myocytes. Bright-field image in the box. h: Corresponding sense control riboprobe. i: VEGF is present at the edges of myocytes
-in early skeletal muscle regeneration (arrowheads) in adductor muscle 7 days after induction of ischemia (anti-VEGF from Santa Cruz). Scale bars, 100 (cid:2)m.

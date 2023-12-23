@@ -1,7 +1,0 @@
-Extended Data Fig. 6. αKG increases Nanog expression
-a, Representative histogram of GFP intensity of Nanog-GFP cells treated with or without 
-DM-αKG for three days. Grey represents background staining. b, ESC-1 cells were cultured 
-in S/L medium with DM-αKG for four passages and then switched to medium containing 
-the indicated amounts of DM-αKG (0.5 – 4 mM) or vehicle control (S/L) for three days. 
-GFP expression (mean fluorescence intensity, M.F.I.) was determined by FACS. Data are 
-presented as the mean ± s.d. of triplicate wells from a representative experiment.

@@ -1,7 +1,0 @@
-Figure 3.
-Schematic suggesting hypoxia-regulated biological processes and mechanisms through
-which HIF activation may promote renal fibrogenesis. HIF signaling appears to play a
-pivotal role in the regulation of inflammatory responses,55 however the role of HIF
-activation with regard to renal injury mediated by inflammatory cells is unclear. Because of
-its important role in the initiation and maintenance of kidney injury we have included
-`inflammation' in this schematic.

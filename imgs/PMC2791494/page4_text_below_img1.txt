@@ -1,5 +1,0 @@
-Figure 2 (a) mRNA expression of POU5F1, SOX2 and NANOG cultured under 5% and 20% oxygen using relative quantiﬁcation real-time RT-PCR.
-All data have been normalised to UBC and to 1 for 5% oxygen **P!0.01 (nZ6). (b) Immunocytochemistry of POU5F1 (A and E), SOX2 (B and F),
-TRA-1-60 (C and H) and TRA-1-81 (D and G) of hES cells cultured under 5% (A–D) and 20% (E–H) oxygen. Scale barZ100 mm. (c) Representative
-western blot of POU5F1 expression in hES cells cultured under 5% and 20% oxygen. (d) Quantiﬁcation of POU5F1 western blots. Data were
-normalised to b-actin and to 1 for 5% oxygen. **P!0.01 signiﬁcantly different to 5% oxygen (nZ3).

@@ -1,5 +1,0 @@
-Extended Data Figure 5. S-2HG treatement promotes HIF-1α stability and alters the phenotypic 
-and functional properties of CD8+ T-lymphocytes in a HIF-1α-independent manner.
-a-b/ Immunoblot analysis of nuclear and cytosolic fractions, prepared from CD8+ T-
-lymphocytes cultured in (a) 21% and (b) 1% oxygen, for HIF-1α, HDAC1, phospho-PDH 
-E1α (S232) and total PDH-E1α. Cells were activated for 48 h with αCD3+αCD28 

@@ -1,9 +1,0 @@
-Figure 4. Prolyl Hydroxylation of PKM2 Stimulates HIF-1 Transactivation
-(A) GST-E10 was incubated with WCLs to induce hydroxylation and tryptic peptides were
-analyzed by mass spectrometry. The fragmentation spectrum
-of 401LAPITSDPTEATAVGAVEASFK422 revealed the presence of peptides with
-hydroxylation of Pro-403 or Pro-408.
-(B) HEK293 cells were transfected with WT FLAG-HIF-1α or double mutant (DM) FLAG-
-HIF-1α(P402A/P564A) and treated with the proteasome inhibitor MG132 (10 μM) for 4 h.
-IP was performed with anti-FLAG antibody, followed by immunoblot assay. The intensity
-of hydroxylated FLAG-HIF-1α was quantified by densitometry and normalized to WT.

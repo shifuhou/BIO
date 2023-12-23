@@ -1,8 +1,0 @@
-Figure 6
-The effects of IL-3 on the expansion of total cells (a), HPCs (b), and LTR-HSCs (c). A total of 1 · 104 CB CD34+ cells were cultured with
-SCF+FL+TPO+IL-6/sIL-6R in the presence or absence of IL-3, and the numbers of total cells and colony-forming cells were analyzed at day
-7 of culture. Cells cultured from 6 different samples were also transplanted into NOD/SCID mice (n = 12), and the proportions of human
-CD45+ cells in recipient BM cells were analyzed by flow cytometry 12 weeks after the transplantation. (c) The effects of the addition of IL-3
-on the proportions of CD45+ cells in recipient BM cells in 4 samples whose progenies cultured with SCF+FL+TPO+IL-6/sIL-6R exhibited
-repopulating ability. The percentages of CD45+ cells in BM cells of the recipients transplanted with the cells cultured with IL-3 were lower
-than those without IL-3 (P < 0.01, Mann-Whitney U test). EX, experiment.

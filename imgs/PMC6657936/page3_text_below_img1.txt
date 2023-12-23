@@ -1,3 +1,0 @@
-Fig.  1. MSCs mediate immunosuppression  of B,  T and  Natural Killer (NK)  cells via different  mechanisms. Soluble factors secreted by  MSCs 
-such  as  IDO,  PGE2,  sHLA-G5  can  suppress  T  and  NK  cell  functions.  In  addition,  MSCs  can  indirectly  mediate  immunosuppression  by 
-inhibiting  dendritic  cells  (DCs)  and  inducing  the  expansion  of  regulatory  T  cells  (Tregs).

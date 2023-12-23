@@ -1,8 +1,0 @@
-Fig. 2. Regulation of Myogenic Differentiation by the KDM6A H3K27 Demethylase.
-(A-B) Immunofluorescence analysis of C2C12 cells that were lentivirally transduced to 
-express the shRNAs targeting Kdm6A (A) or Kdm6B (B) and then cultured in 
-differentiation media for 4 days. (C-E) Immunoblot analysis of C2C12 cells lentivirally 
-transduced to express the indicated sgRNAs and cultured for 4 days either in growth media 
-(GM) or differentiation media (DM), as indicated. (E) Immunoblot analysis of C2C12 cells 
-expressing, where indicated, Kdm6a sg2 [described in (C) and (D)] that were lentivirally 
-transduced to produce either GFP (control) or wild-type human KDM6A [6A(WT)] and then 

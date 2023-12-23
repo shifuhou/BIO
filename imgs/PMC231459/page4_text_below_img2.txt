@@ -1,7 +1,0 @@
-FIG. 4. Identiﬁcation of a hypoxia response element in the VEGF 5(cid:57)-ﬂanking
-region. (A) VEGF sequences contained within constructs. Indicated VEGF se-
-quences were cloned 5(cid:57) to an SV40 promoter-luc transcription unit. (B) The
-47-bp hypoxia response element. Wild-type (P11w) and mutant (P11m) se-
-quences are shown, with the site of the 3-bp substitution in P11m indicated (bar).
-(C) Cotransfection assays. Mean values (SEM (cid:35)20%) from three transfections
-are shown.

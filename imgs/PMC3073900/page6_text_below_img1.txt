@@ -1,4 +1,0 @@
-Figure 5 Genetic reprogramming of MSC under hypoxia. MSC from 3 donors were cultured until P0 and P2. RNA was extracted from each
-culture, processed and hybridized on Agilent DNA microarrays. Diagram A shows the GO analysis of differentially expressed transcripts at P0. Six
-transcripts were chosen and amplified by qPCR in order to validate gene array results obtained after long term hypoxia using the same extracts.
-Mean +/- SD from 3 experiments.

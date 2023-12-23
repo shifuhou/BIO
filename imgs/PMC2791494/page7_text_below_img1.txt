@@ -1,8 +1,0 @@
-colony size of double knockdown combinations of
-HIF1A and HIF2A or HIF1A and HIF3A or the triple
-knockdown due to the absence of colony formation
-occurring in these populations. Virtually all cells were
-positive for Ki67 when either HIF1A or HIF3A expression
-was silenced whereas Ki67 expression decreased to
-w85% when HIF2A was knocked down (P!0.001,
-Fig. 7c and d).

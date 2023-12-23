@@ -1,4 +1,0 @@
-Figure 2. Result of applying the image analysis algorithm to an image of a
-day 6 spheroid. The blue boundary shows the anoxic boundary rn and the red
-boundary yields the spheroid radius ro, each calculated relative to the centroid
-in a full rotation in 18 steps around the spheroid.

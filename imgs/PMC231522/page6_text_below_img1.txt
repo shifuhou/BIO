@@ -1,8 +1,0 @@
-FIG. 5. Inhibition of dioxin responsiveness by CoCl2 treatment of HepG2 cells. (A) HepG2 cells were transfected with the parental reporter gene pT81 or the
-XRE-containing reporter pTX.DIR, as indicated. Luciferase activity was monitored from cells treated with 50 nM TCDF in the absence or presence of 150 (cid:109)M CoCl2
-for 48 h. Each error bar represents the standard deviation from three independent experiments. Cell extracts were normalized with regard to the protein content. TK,
-thymidine kinase promoter. (B) Northern blot analysis of HIF-1(cid:97), aldolase A (ALDA), EPO, and (cid:98)-actin mRNA levels in HepG2 cells. The cells were treated with
-either vehicle alone (lane 1) or 50 nM TCDF for 8 h (lane 2). The cells were also pretreated with 150 (cid:109)M CoCl2 for 16 h prior to addition of TCDF (lane 3) and
-incubation for an additional 8 h or treated with CoCl2 alone for 24 h (lane 4). (C) Inhibition of P-4501A1 mRNA induction by CoCl2. HepG2 cells were treated with
-solvent alone (lane 1), 50 nM TCDF for 8 h (lane 2), or 150 (cid:109)M CoCl2 for 16 h (lane 4). In lane 3, cells were treated with 150 (cid:109)M CoCl2 for 16 h prior to addition
-of TCDF for an additional 8 h.

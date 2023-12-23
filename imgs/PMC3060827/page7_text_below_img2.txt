@@ -1,8 +1,0 @@
-SFEM (Stem Cell Technologies), heparin (5 U/ml, Sigma), TPO
-(100 ng/ml), human recombinant SCF (100 ng/ml), FLT3L
-(100 ng/ml), IL-3 (10 ng/ml), IL-6 (10 ng/ml), all from Invitro-
-gen. After 4 days erythroid cells were expanded in SFEM medium
-containing 0.3% Excyte (Serologicals), Holo-Transferrin (1 mg/
-ml, Sigma), Hydrocortisone (1mM, Sigma), Insulin (20 ng/ml,
-Sigma), SCF (50 ng/ml, R&D Systems), EPO (2 U/ml, R&D
-Systems), IL-3 (5 ng/ml), IL-6 (10 ng/ml) and TPO (50 ng/ml,

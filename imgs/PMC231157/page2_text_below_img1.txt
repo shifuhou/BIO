@@ -1,3 +1,0 @@
-site of pGBT9, digested with PstI, blunt ended, and ligated with the XbaI
-termination linkers to obtain pGBTArnt(1–617). pGBTmSim(1–325) was con-
-structed similarly and will be described elsewhere (11).

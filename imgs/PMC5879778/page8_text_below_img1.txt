@@ -1,3 +1,0 @@
-Fig. 3 Simulation results showing the dynamic change of selected cell cycle regulators under 2% oxygen. This simulation was completed with
-the nominal model parameter setting. E2F threshold level (E2F_TH) is shown as the horizontal forest green line. The vertical red line indicates
-commitment time marking the time when E2F level exceeds the threshold level

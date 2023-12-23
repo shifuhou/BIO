@@ -1,9 +1,0 @@
-FIG. 5. mRNA expression of HIF1(cid:97), HLF, and VEGF in the process
-of lung development. (A–C) RNA blot analysis was performed by using
-total RNAs (15 (cid:109)g) from the lungs of embryos of 13.5 dpc (E13.5 dpc)
-to adult mouse with probes for HIF1(cid:97)(A), HLF (B), and VEGF (C). (D)
-Ethidium bromide-staining of RNA electrophoresed on agarose gel.
-(E–G) In situ hybridization analysis of mouse lung of the postnatal day 0
-(P0) by the cRNA probes for HIF1(cid:97) (E), HLF (F), and VEGF (G).
-Coloring reaction was done for 1 day for F and 3 days for E and G.
-Arrowheads indicate the expression of alveolar epithelial cells.

@@ -1,8 +1,0 @@
-FIG. 3. Multilineage differentiation of human CD34(cid:49) CD38(cid:50) cells in NOD(cid:121)SCID mice. Bone marrow from a highly engrafted mouse
-transplanted with 5,000 CD34(cid:49) CD38(cid:50) CB cells was stained with various human-specific monoclonal antibodies and analyzed by flow cytometry.
-(A) Histogram of CD45 (pan-leukocyte marker) expression indicating that 35% of the cells present in the murine bone marrow are human. (B)
-Analysis of lineage markers was done on cells within gate R1 (CD45(cid:49)). (C) Cells in R1 were further gated based on forward and side scatter
-properties into lymphoid (R2), blast (R3) and myeloid (R4) windows. (D) Isotype control for nonspecific IgG staining of PE and FITC fluorescence.
-(E–I) Expression of the following markers is shown: E, myeloid marker CD33 and monocytic marker CD14 (R3 and R4); F, myeloid marker CD13
-and mature granulocyte marker CD15 (R3 and R4); G, pan-B cell markers CD19 and CD20 (R2 and R3); H, CD19 and mature B cell marker sIgM
-(R2 and R3); I, CD38 and the immature hematopoietic marker CD34 on cells from R2, R3, and R4.

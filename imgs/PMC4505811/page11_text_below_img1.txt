@@ -1,8 +1,0 @@
-Fig. 3. 
-hARD1 interacts with HIF-1α. (A) MCF-7 cells were cotransfected by plasmids encoding 
-HA-HIF-1α and Xp-hARD1 (or Xp-lacZ as a negative control). Immunoprecipitates of the 
-cell lysates using anti-Xp were analyzed by Western blotting with anti-HA to detect HA-
-HIF-1α. (B) GST (negative control) or GST-ODD beads were incubated with NusA-hARD1 
-or NusA-ABD (negative control). After washing steps, the beads were analyzed by SDS–
-PAGE and Coomassie staining to determine the level of retained NusA-hARD1/ABD. (C) 
-As (B) using pure hARD1 and analysis by Western blotting and anti-hARD1.

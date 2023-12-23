@@ -1,5 +1,0 @@
-FIG. 2. Cotransfection of VEGF-luc reporter and HIF-1 expression vectors.
-VEGF-luc and pSV(cid:98)gal plasmids were cotransfected into Hep3B cells with or
-without rHIF-1 (HIF-1(cid:97) and HIF-1(cid:98) expression vectors), incubated for 24 h at
-20% O2, and then incubated at 20 or 1% O2 for an additional 24 h. Mean values
-(SEM (cid:35)25%) from three transfections are shown.

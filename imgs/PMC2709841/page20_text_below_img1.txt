@@ -1,9 +1,0 @@
-Figure 5. Genes with bivalent chromatins in memory CD8 T cell subsets
-(A) Genes with bivalent chromatins of TCM and/or TEM CD8 T cells are categorized by cellular
-function (the criteria for the bivalent genes were described in the Results and Methods. A
-complete list of bivalent genes can be found in Table S5).
-(B) One representative common bivalent gene (MLK4) is shown with its gene locus and the
-levels of H3K4me3 and H3K27me3 at resting in naïve and memory CD8 T cell subsets.
-(C) Changes in the levels of H3K4me3 and mRNA expression in the MLK4 gene at 0 and 72
-hours after anti-CD3/28 stimulation in CD8 TCM and TEM are shown. The mean values and
-SEM are presented from 5 independent donors.

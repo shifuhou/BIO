@@ -1,7 +1,0 @@
-FIG. 6. Inhibition of dioxin receptor function by overexpression of HIF-1(cid:97).
-HepG2 cells were transiently cotransfected with the parental pT81 or the XRE-
-containing pTX.DIR reporter plasmids together with the HIF-1(cid:97) expression
-plasmid pHIF-1(cid:97)/CMV4 or an empty pCMV4 vector. Luciferase activity was
-assayed 48 h after transfection. Each bar represents the standard deviation of the
-relative luciferase activity from three independent experiments, with values nor-
-malized relative to the protein content of each extract.

@@ -1,9 +1,0 @@
-FIG. 6. Gel shift assays of Hep3B nuclear extracts for binding of HIF-1 to EPO and VEGF sequences. (A) Oligonucleotide sequences. The coding-strand sequence
-of each double-stranded oligonucleotide is shown. Sites of 3-bp substitutions in oligonucleotides MUT VEGF and MUT EPO are indicated by bars. (B) Comparison
-of DNA-binding activities recognized by EPO and VEGF probes. Oligonucleotide WT EPO (lanes 1 to 4) or WT VEGF (lanes 5 to 12) was 32P labeled and incubated
-with 5-(cid:109)g aliquots of nuclear extract from hypoxic Hep3B cells. For competition assays (lanes 1 to 8), 50 ng of unlabeled oligonucleotide was included in the binding
-reaction mixture as indicated: 0, no competitor (lanes 1 and 5); V, WT VEGF (lanes 2 and 6); E, WT EPO (lanes 3 and 7); Em, MUT EPO (lanes 4 and 8). For
-supershift assays (lanes 9 to 12), antiserum (AB) raised against recombinant HIF-1(cid:97) (lane 9) or HIF-1(cid:98) (lane 11) or the respective preimmune serum (lanes 10 and
-12) was added to the binding reaction mixture. Complexes containing HIF-1 or the constitutive binding activity (C) and the location of free probe (FP) are indicated
-at left. (C) Speciﬁcity of HIF-1 binding to the VEGF probe. Aliquots (5 (cid:109)g) of nuclear extract from untreated (U; lane 1) or hypoxic (lanes 2 to 6) Hep3B cells were
-incubated with the WT VEGF probe in the presence or absence of unlabeled oligonucleotide WT VEGF (V) or MUT VEGF (Vm). COMP, competitor.

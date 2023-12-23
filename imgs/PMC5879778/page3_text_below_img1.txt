@@ -1,4 +1,0 @@
-Fig. 1 Assumed simplified mechanisms for the effects of hypoxia on cell cycle commitment. Hypoxia varies the active amount of Hif1α and Hif2α
-proteins, through which cell cycle regulating proteins are regulated. The variation in cell cycle regulators positively (cyclin D, cyclin E, Myc) or
-negatively (p21/p27 and Rb) controls the downstream protein level of E2F. The progression of cell cycle G1-phase into S-phase commitment is
-controlled by the accumulation of E2F protein exceeding a set threshold level. Different biological interactions are shown in the figure

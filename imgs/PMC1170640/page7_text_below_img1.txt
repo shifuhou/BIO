@@ -1,7 +1,0 @@
-Fig. 6. Analysis of PGK expression in embryos and characterization of hypoxia and apoptosis in E8.5 embryos. (A) Whole mount in situs of wild-
-type and HIF-1a null embryos showing intense expression of PGK in the neural tube region and complete loss of this expression in null embryos
-(arrows). (B) Vibratome sections of a wild-type and null embryo stained for PGK expression, demonstrating the neural-speciﬁc pattern of expression
-(arrows) in the wild-type embryo and lack of such expression in the null embryo (arrow). (C) EF5 staining of frozen sections from wild-type and
-null embryos. When exposure time is held constant for the null and wild-type embryos, it becomes clear that there is a signiﬁcant difference in the
-level of hypoxia in the null embryo. (D) Whole mount TUNEL assay on wild-type and null embryos. There are a few scattered apoptotic cells in the
-head of the wild-type embryo while the neural folds of the null embryo are littered with darkly staining apoptotic cells (close up, arrows).

@@ -1,4 +1,0 @@
-FIG. 1. Effects of hypoxia on myogenesis. (A, B, and C) C2C12 cells were differentiated at different pO2 levels for 3 days. Cells were ﬁxed and
-stained either with hematoxylin (A) or for MHC (green) by immunoﬂuorescence with propidium iodide (red) as a nuclear counterstain (B). Panel
-C represents the average number of MHC-positive nuclei from four random ﬁelds. (D) C2C12 cells were differentiated for up to 3 days at 21 or
-0.01% O2. Cellular viability was analyzed by trypan blue staining. Bar, 50 (cid:4)m.

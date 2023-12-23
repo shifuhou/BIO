@@ -1,9 +1,0 @@
-FIG. 3. Inhibition of the cytochrome P-450IA1 mRNA induction
-response by protein kinase inhibitors. Keratinocytes were treated
-for the indicated times with 50 nM TCDF in the absence or presence
-of the following protein kinase inhibitors: A, 100 ,uM H-7 (24 h); B
-200 nM staurosporine (STAURO) (8 h). (C) Cells were pretreated
-(see Materials and Methods for details) with 1 pM calphostin C
-(CALPH) prior to the addition of TCDF and incubation for an
-additional 6 h. Subsequently, the cells were analyzed for expression
-of cytochrome P-450IA1 or GAPDH mRNA by RNA blot analysis.

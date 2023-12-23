@@ -1,3 +1,0 @@
-Fig 4. Simulated oxygen partial pressure profiles in 3D spheroids. Simulation of the oxygen partial pressure
-profile after six days of growth at 5% (blue) and 21% (green) oxygen according to the model proposed in [12]. The
-blue and green arrows and the dotted lines indicate the IDP50 at 5% and 21%, respectively (data from Fig 2).

@@ -1,8 +1,0 @@
-Figure 4
-Expression of HIF in BM progenitors and stem cells. (a) RT-PCR
-analysis of ARNT and HIF-1α performed on RNA extracted from BM
-Lin–CD34+CD38–, Lin–CD34–CD38–, and K562 cells (as a positive
-control).  (b)  Western  blot  analysis  of  cell  extracts  from  BM
-Lin–CD34+ cells cultured overnight under hypoxic (H) or normoxic
-(N) conditions using antibodies against ARNT and HIF-1α. All gels
-are representative of at least three experiments.

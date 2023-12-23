@@ -1,9 +1,0 @@
-Extended Data Figure 4. Kinetics of 2HG labelling in 21% and 1% oxygen, by U-13C-glucose 
-and U-13C-glutamine.
-a/ Proposed mechanism by which HIF-1α controls S-2HG production in CD8+T-
-lymphocytes and 13C-labelling strategy using U-13C-glucose (m+6) and U-13C-glutamine 
-(m+5) to label endogenous 2HG. Red and green represent pathways promoted and inhibited 
-respectively by HIF-1α in hypoxia.
-b/ Isotopologue distribution of 2HG (as a percentage of the total pool) in CD8+ T-
-lymphocytes, after labelling with U-13C-glucose for 1, 5 and 24 h in both 21% and 1% 
-oxygen conditions; n=3 mice per time point. Error bars denote s.d.

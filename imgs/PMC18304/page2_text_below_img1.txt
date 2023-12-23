@@ -1,9 +1,0 @@
-Effect of C-terminal deletions on HIF-1aprotein expression. 293 cells
-Fig. 1.
-were transfected with expression vectors encoding HIF-1aconstructs and 36 h
-later were exposed to 20% O2 or 1% O2 (hypoxia) for 4 h before nuclear extract
-preparation. Fifteen-microgram aliquots were fractionated by SDSyPAGE and
-subjected to immunoblot assay by using an anti-HIF-1a Ab. The constructs
-analyzed encoded the following residues of HIF-1a: (A) 1– 826, 1–754, 1– 681,
-1– 608; and (B) 1–729, 1–726, 1–703. Migration of full-length (FL) and deleted
-(D) forms of HIF-1a are indicated (Right).

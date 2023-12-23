@@ -1,3 +1,0 @@
-Fig. 9 Simulations of various ROS-mediated protein deactivation activation oxygen level. The simulations were completed with activation oxygen
-level of 5% (left), 10% (central) and 15% (right). Each simulation was completed with the same 1000 QMC parameter value sets. The red dots represent
-the optimal oxygen level for each parameter set, showing the minimum commitment time in each simulation

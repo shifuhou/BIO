@@ -1,8 +1,0 @@
-Figure 1. Generation and initial characterization of HIF-1(cid:1) transgenic mice. (a) Constructs used to target wild-type human HIF-1(cid:1)
-or mutant HIF-1(cid:1)(cid:3)ODD (deletion of the oxygen-dependent degradation domain; Huang et al. 1998) to basal keratinocytes (Munz et al.
-1999). Amino acids spanning the ODD are indicated. (b) Redness and prominent vasculature of ear skin and roughness of coat are
-evident in the K14-HIF-1(cid:1)(cid:3)ODD transgenic mice. K14-HIF-1(cid:1) transgenic mice are indistinguishable from nontransgenic controls. (c)
-Histopathology of ears reveals an increase in blood vessels (see green arrowheads) in the dermis of K14-HIF-1(cid:1)(cid:3)ODD transgenic mice.
-No inflammation or edema is detectable. (d) In situ hybridization with a 35S-labeled riboprobe specific for human HIF-1(cid:1). Both HIF-1(cid:1)
-and HIF-1(cid:1)(cid:3)ODD transgenes are expressed in basal keratinocytes of interfollicular epidermis and the hair follicle outer root sheath,
-and appear to be expressed at the same level, as visually estimated from silver grain density. Bars in c and d are 20 µm.

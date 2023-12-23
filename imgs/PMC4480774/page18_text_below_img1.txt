@@ -1,9 +1,0 @@
-Figure 2. Functional Inactivation of Hypoxic Response-Related Genes Significantly Impairs 
-Gene Expression Patterns of Macrophages
-(A) Peritoneal macrophages were cultured under normoxic (open bars) or hypoxic (closed 
-bars) conditions for 8 hr, and total RNA was isolated and VEGF mRNA expression 
-determined by real-time PCR. Values were normalized to RT-PCR results for ribosomal 
-RNA. Normoxic WT levels were arbitrarily set as one. VEGF RNA was not analyzed in 
-VEGF mutants due to the expression of a nontranslatable transcript in these cells. (B) 
-Peritoneal macrophages were cultured under normoxic (open bars) or hypoxic (closed bars) 
-conditions for 24 hr, and conditioned supernatant was harvested and VEGF protein analyzed 

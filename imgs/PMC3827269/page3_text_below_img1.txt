@@ -1,6 +1,0 @@
-Figure 1. Hypoxia response in human embryonic stem cells. A)
-Western blot analysis of HIF1a and HIF2a. B) Western blot analysis of
-PHD1, PHD2 and PHD3. C) RT-PCR validation of EGLN3 (PHD3). D) RT-
-PCR validation of GLUT1. * = p,0.05, *** = p,0.001. RT-PCR data from
-two replicate cultures of hESC line H9.
-doi:10.1371/journal.pone.0078847.g001

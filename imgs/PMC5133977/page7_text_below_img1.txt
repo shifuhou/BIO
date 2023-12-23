@@ -1,9 +1,0 @@
-Figure 5 Hypoxia preconditioning enhances the survival and proliferation of transplanted mesenchymal stem cells (MSCs). (a and b) Western blot analysis of p-NF-κB and
-cleaved caspase-3 expression in ischemic sites of mice injected with PBS, normoxic mesenchymal stem cells (Nor-MSC), hypoxia-preconditioned MSCs (Hypo-MSCs), hypoxia-
-preconditioned MSCs transfected with PrPC-specific shRNA (sh-PRNP Hypo-MSCs), and hypoxia-preconditioned MSCs transfected with scrambled shRNA (Scr shRNA Hypo-
-MSCs) at day 3. (c) The levels of MSC apoptosis were evaluated at 3 days after transplantation by immunostaining of ischemic limb tissues for human nuclear antigen (HNA) and
-cleaved caspase-3 expression. Scale bar = 50 μm. (d) The levels of apoptosis of transplanted MSCs were quantified as the HNA and cleaved caspase-3 double-positive cells/
-HNA-positive cells. Values represent the mean ± S.E.M. **Po0.01 versus PBS; ##Po0.01 versus Nor-MSC; $$Po0.01 versus sh-PRNP Hypo-MSCs. (e) MSC proliferation was
-evaluated by immunostaining for HNA and Ki67 expression in ischemic limb tissues at 3 days after hMSC transplantation. Scale bar = 50 μm. (f) Proliferation of transplanted
-MSCs was quantified as the number of HNA and Ki67 double-positive cells. Values represent the mean ± S.E.M. **Po0.01 versus PBS; ##Po0.01 versus Nor-MSC; $$Po0.01
-versus sh-PRNP Hypo-MSCs

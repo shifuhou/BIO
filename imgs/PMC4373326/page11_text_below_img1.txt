@@ -1,6 +1,0 @@
-Fig. 6 Relative HIF-1 and HIF-2 contributions to the hypoxic response over
-time at 1% (A) and 5% (B) oxygen as demonstrated in human neuroblas-
-toma cells. Model based on a summary of data obtained from protein level
-variations (Western blot), chromatin immunoprocipitations (ChIP) and acti-
-vation  of  target  genes  (cid:7) siRNA  treatment. Reproduced with permission
-from Lofstedt et al., Cell Cycle, 2007 [80].

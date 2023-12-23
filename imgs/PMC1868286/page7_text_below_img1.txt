@@ -1,5 +1,0 @@
-Figure 4. Northern blot analysis showing the effect of hypoxia on E-cadherin
-mRNA in OSE cells and in two ovarian cancer cell lines. A: The specific bands
-for E-cadherin mRNAs are decreased under hypoxia in SKOV3 and OVCAR3,
-but not in OSE. B: The density of the bands was quantitated by densitometric
-analysis. Data are presented after normalization with the G3PDH bands.

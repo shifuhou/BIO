@@ -1,8 +1,0 @@
-Effect of missense mutations on expression of HIF-1a(1–391y512– 826). (A) Immunoblot assay of nuclear extracts from 293 cells transfected with
-Fig. 3.
-expression vectors encoding HIF-1a(1–391y512– 826) (lanes 1–2), HIF-1a(1–391y512– 826yC520 M) (lanes 3– 4), or HIF-1a(1–391y521– 826) (lanes 5– 6). (B) Analysis
-of nuclear extracts from cells transfected with empty vector (EV; lanes 1–2) or HIF-1aconstructs consisting of residues 1– 826 (lanes 3– 4) or 1–391y512– 826 that
-was either wild type (lanes 5– 6) or contained S515AyS517A (lanes 7– 8) or Y519F (lanes 9 –10) missense mutations. (C) Analysis of nuclear extracts from cells
-transfected with HIF-1a constructs consisting of residues 1–391y521– 826 (lanes 1–2), 1–391y517– 826 (lanes 3– 4), or 1–391y512– 826 that was either wild type
-(lanes 5– 6) or contained P513GyP516G (lanes 7– 8) or E512GyE518G (lanes 9 –10) missense mutations. (D) Summary of the data. The amino acid (AA) sequence
-of HIF-1a residues 512–521 and the effect of missense mutations and deletions (2) on O2-regulated expression are shown.

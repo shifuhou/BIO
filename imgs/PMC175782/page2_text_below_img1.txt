@@ -1,6 +1,0 @@
-Fig. 1. Speciﬁc silencing of PHD isoforms using siRNAs. Northern blot
-showing total RNA isolated from HeLa cells after 48 h of transfection
-with the indicated siRNAs (20 nM). Blots were hybridized with 32P-
-labelled probes speciﬁc for PHD1, PHD2, PHD3 or 36B4 (loading
-control). Inset shows localization of the PHD region targeted by the
-two independent sets of siRNAs (ﬁlled squares and double asterisks).

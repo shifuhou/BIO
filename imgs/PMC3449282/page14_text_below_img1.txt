@@ -1,9 +1,0 @@
-Figure 3.
-Pro-metastatic effects of proteins secreted by hypoxic breast cancer cells. Breast cancer cells
-in the primary tumor are subjected to hypoxia, which induces the expression of LOX and
-ANGPTL4. (a) In the primary tumor, LOX is secreted into the circulation (i) and crosslinks
-collagen in the lungs, leading to the recruitment of bone marrow-derived cells that together
-define the pre-metastatic nice (ii). (b) A circulating tumor cell from the hypoxic primary
-tumor that has adhered to endothelial cells (ECs) in a pulmonary blood vessel secretes
-ANGPTL4, which inhibits EC–EC interaction, thereby facilitating the extravasation of the
-breast cancer cells into the lung parenchyma.

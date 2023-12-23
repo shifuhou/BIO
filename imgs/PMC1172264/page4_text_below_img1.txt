@@ -1,9 +1,0 @@
-Enhanced in vivo recall response of tumor-Ag-speciﬁc CD8(cid:1) TCM over TEM. (A–C) Sublethally irradiated WT mice bearing 9-day established B16 tumors
-Fig. 4.
-were left untreated as controls (F) or received the tripartite combination of rFPhgp100, exogenous IL-2, and 1 (cid:4) 106 pmel TCM (■
-) or TEM ((cid:1)). Absolute numbers
-of adoptively transferred pmel-1 cells (identiﬁed by CD8(cid:1)V(cid:2)13(cid:1) lymphocytes) were enumerated in the spleens or blood of treated animals as a function of time.
-Each data point represents the average of at least two mice per group. For comparison, the mean absolute lymphocyte count ((cid:5) SEM) of ﬁve nonirradiated
-tumor-bearing WT mice is shown (Œ). (D) Comparison of the intrinsic proliferative capacity of restimulated pmel TCM vs. TEM. Pmel-thy1.1 cells expanded under
-TCM (light lines) or TEM (bold lines) conditions were CFSE-labeled, then restimulated with irradiated WT splenocytes pulsed with hgp10025–33 peptide in complete
-media containing IL-2. CFSE dilution was determined by daily FACS analysis after gating on CD8(cid:1)thy1.1(cid:1) lymphocytes.

@@ -1,5 +1,0 @@
-Figure 7 The tropism of primary hAMSCs-H to GBM CM in vitro and GBM in vivo is increased. (a) Schematic of a Boyden chamber transwell assay. (b and c) Representative
-images and quantification graphs shown for a Boyden chamber transwell assay. hAMSCs (2 × 104) were seeded in the top well, while either GBM CM or control media was placed
-in the bottom well. After 24-h incubation, cells on the bottom were stained and quantified. (d) Schematic of the in vivo experiment. (e) Mice brain sections were immunostained for
-GFP and human nuclei to test the tropism of the primary hAMSCs for GBM276 tumor bulk in vivo. hAMSCs-H have enhanced tropism toward tumor bulk compared with hAMSCs-
-N. Scale bars, 100 μm. (f) Quantification of percentage of GFP+/human nuclei+ cells per field. Error bars represent S.E.M. *Po0.05, **Po0.01, N.S., not significant

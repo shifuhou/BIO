@@ -1,9 +1,0 @@
-FIG. 10. Effects of hypoxia on transcription activity of the myoD promoter. C2C12 cells that stably express the indicated myoD promoter-driven
-luciferase reporter gene were allowed to undergo myogenic differentiation at 21 or 0.5% O2. Luciferase assays were performed at the indicated
-time. (A) To better reﬂect the effects of hypoxia on myoD promoter activity, the hypoxia/normoxia ratio for each of the myoD promoter constructs
-was normalized to the hypoxia/normoxia ratio for SV40 promoter-driven luciferase (pGL2). (B) C2C12 cells were induced to differentiate under
-the indicated conditions. Total cell lysates were prepared in SDS sample buffer and subjected to polyacrylamide gel electrophoresis and Western
-blotting for acetylated H3 and H4. Actin served as a loading control. Cells treated with 5 mM sodium butyrate (NaBut) served as a positive control
-for acetylated histones, with 1/5 of the amount loaded in the other lanes. (C) C2C12 cells were induced to differentiate under the indicated
-conditions. ChIP assays were performed with the rabbit anti-acetylated H3 or control rabbit IgG. The myoD promoter was ampliﬁed by PCR with
-nested primers. The band intensities were analyzed with NIH Image 1.63 from two independent gel analyses (D).

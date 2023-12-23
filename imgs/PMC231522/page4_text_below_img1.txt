@@ -1,6 +1,0 @@
-FIG. 3. Arnt is required for HIF-1(cid:97) function. (A) HeLa cells were transiently cotransfected as described in Materials and Methods with pGLHIF1.3 and expression
-vectors for HIF-1(cid:97), Arnt, and Arnt(cid:68)b. Luciferase activity was assayed after 48 h. (B) HeLa cells were transfected with the XRE-containing reporter gene pTX.DIR
-and indicated expression plasmids. Luciferase activity obtained was determined following treatment with 50 nM TCDF for 48 h. The results show relative induction
-obtained in cells transfected with expression plasmids relative to the activity obtained in cells transfected with the empty pCMV4 expression vector, and cell extracts
-were normalized on the basis of protein content. Each bar represents the standard deviation of the relative induction obtained from three independent experiments.
-SV40, simian virus 40; TK, thymidine kinase.

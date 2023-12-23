@@ -1,5 +1,0 @@
-Fig. 2.
-Isodose display on axial slices for SIB IMRT plan showing conformal 70-Gy dose around
-primary PTV (red) and 60-Gy dose around affected nodes (pink and blue). Hypoxic GTV
-(green) is covered by 80-Gy isodose. Parotid glands (orange and lilac) are avoided by high
-isodose lines.

@@ -1,9 +1,0 @@
-Figure 4 The hAMSC media promotes GBM differentiation in vitro. The proliferation and migration abilities of GBM remain unchanged in hAMSC media. In vivo, GBM cells
-exposed to primary hAMSCs-H show increased differentiation into astrocytic lineage (increased GFAP levels and decreased Nestin levels). (a) MTTassay was used to determine
-the effects of hAMSC media on the proliferative capacity of GBM. No difference in GBM proliferative capacity between hAMSC-H or hAMSC-N media and control media was
-observed. (b) Ki-67 immunostaining was performed to quantify the number of proliferating GBM cells in hAMSC media. No difference in proportion of proliferating GBM cells was
-found between control media, hAMSC-N CM, and hAMSC-H CM. (c) Immunostaining for Nestin, GFAP, and Tuj1 was performed on GBM cells in AMSC CM. (d–f) Quantification
-of Nestin, GFAP, and Tuj1 markers for GBM cells in hAMSC CM. GBM showed greater differentiation in hAMSC-H CM than in control media as shown by decreased nestin,
-increased GFAP, and increased Tuj1 expression. (g) Mice brain sections were immunostained for Nestin, GFAP, and Tuj1, to test the differentiation of GBM276 cells in vivo.
-GBM276 cells in mice injected with hAMSCs-H showed greater differentiation toward an astrocytic lineage compared with those in mice injected with hAMSCs-N. Scale bars,
-100 μm. (h–j) Quantification of GFAP+/human nuclei+, Nestin+, GFAP+, and Tuj1+ cells

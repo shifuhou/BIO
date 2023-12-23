@@ -1,8 +1,0 @@
-Fig. 1. Proliferation indices of human lymphocytes stimulated with CD3(cid:1)
-CD28 crosslinking and Con A are higher at 20% oxygen. Human PBMC stained
-with CFDA-SE were cultured at 5%, 10%, and 20% oxygen for 5 days (see
-Materials and Methods). Shown are lymphocytes stimulated by CD3(cid:1)CD28
-crosslinking (Upper) and with Con A (20 (cid:1)g(cid:1)ml, Lower). Statistics were calcu-
-lated by using JMP software by least-square-ﬁt model with sample and oxygen
-as independent variables (see Materials and Methods). Each set of connected
-points represents one subject (n (cid:1) 8).

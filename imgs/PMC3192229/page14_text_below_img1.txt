@@ -1,8 +1,0 @@
-Figure 1. Identification of TSCM cells in human blood
-a, Flow cytometry analysis of sorted human CD45RO−CD62L+ naïve CD8+ T cells prior to 
-and 14 days after stimulation with α-CD3/CD2/CD28-coated beads and IL-2 in the presence 
-or absence of 5µM TWS119. Numbers indicate the percentage of cells in the 
-CD45RO−CD62L+ gate. b, Flow cytometry analysis of TWS119-generated 
-CD45RO−CD62L+ naïve-like CD8+ T cells overlaid with CD45RO−CD62L+ naïve and 
-memory (non-CD45RO− CD62L+) cells from a healthy donor (HD). c, Flow cytometry 
-analysis of PBMC from a healthy donor. Dot plots show the gating strategy to identify 

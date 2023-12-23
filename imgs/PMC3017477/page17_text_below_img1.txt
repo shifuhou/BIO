@@ -1,8 +1,0 @@
-Figure 3.
-HGF treatment stimulates Erk but not p38 or JNK signaling pathways. Mesenchymal stem
-cells were cultured in serum-free medium in hypoxia or normoxia in the presence or absence
-of 25 ng/ml HGF for 16 hours. Cell lysates were collected and separated on SDS-
-polyacrylamide gel electrophoresis gel and probed for Erk∼P, Erk (A), JNK∼P, JNK (B),
-and p38∼P, p38 (C) antibodies. Pictured are representative results of five (A) and four (B,
-C) separate experiments. Abbreviation: HGF, hepatocyte growth factor; JNK, Jun N-
-terminal Kinase.

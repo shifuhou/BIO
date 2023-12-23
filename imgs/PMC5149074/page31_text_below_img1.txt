@@ -1,7 +1,0 @@
-Figure 5. S-2HG alters global H3K27me3 in CD8+ T-lymphocytes
-a/Immunoblot analysis for H3K27me2 and H3K27me3 in cells treated with S-2HG.
-b/ H3K27me3 in OT-I cells treated with S-2HG. n=6 mice.
-c/ H3K27me3 abundance in Hif1αfl/fl (n=4) and Hif1αfl/fl dlckcre (n=4) cells treated with 
-S-2HG.
-d/ CD62L expression by cells with shUtx #3.
-e/In vivo H3K27me3 levels in CD8+ populations. n=6 mice.

@@ -1,6 +1,0 @@
-Figure 1. Hypoxia induces downregulation of miR-34a expres-
-sion in HK2 cells. qRT-PCR analysis of miR-34a expression after 2, 6,
-12, 24, 48 and 72 h of hypoxia and the relative amount of miRNA was
-normalized to U6 snRNA. Triplicate assays were performed for each RNA
-sample. #p,0.05 and *p,0.01 compared with normoxic controls.
-doi:10.1371/journal.pone.0030771.g001

@@ -1,8 +1,0 @@
-Figure 3. H3K27me3domains in naïve and memory CD8 T cells
-(A) Enriched H3K27me3 regions in naïve CD8 T cells. The chromosomal locations, residing
-gene loci, and their transcriptional orientations are shown (the scanning method for the
-selection is discussed in the Experimental Procedures).
-(B) One representative H3K27me3 island in naïve CD8 T cells.
-(C) Enriched H3K27me3 regions in memory CD8 (TEM) T cells. The chromosomal locations,
-residing gene loci, and their transcriptional orientations are shown.
-(D) One representative H3K27me3 island in CD8 TEM cells.

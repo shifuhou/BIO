@@ -1,9 +1,0 @@
-Figure 3. Differential regulation of HIF1α and HIF2α by SIRT1
-(A) High levels of NAD+ inactivate SIRT1, resulting in decreased HIF1α transcriptional
-activity and enhanced HIF2α stimulation of target genes like erythropoietin. (8) Distinct
-effects of HIF1α and HIF2α on MYC complex formation and promoter occupancy.
-Hypoxic cells exclusively expressing HIF1α exhibit decreased MYC activity due to
-diminished association with MAX and SP1, as well as reduced MYC stability. HIF1α also
-induces MXI1 expression, which inhibits MYC target gene expression (see text for details).
-Cells expressing HIF2α exhibit increased MYC complex formation and target gene
-activation, although the mechanisms involved are not fully understood.

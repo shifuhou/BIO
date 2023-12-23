@@ -1,6 +1,0 @@
-Figure 3. Characterization of the developmental potential of hESC-derived hematopoietic progenitors. FACS analysis and
-corresponding cytospins of mature cells generated in culture from hESC-derived progenitors induced with defined factors. Images were taken at
-406magnification. Cytospins of erythroid cells, dendritic cells, macrophages and neutrophils were stained with Wright. Cytospins of megakaryocytes
-were stained for GPIIb/IIIa (CD41a). Cytospins of mast cells were stained for tryptase. The yield hESC:mature cell indicates the number of each mature
-cell type generated per each hESC induced to differentiate.
-doi:10.1371/journal.pone.0017829.g003

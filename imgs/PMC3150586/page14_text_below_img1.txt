@@ -1,9 +1,0 @@
-Figure 3.
-Proposed model for HIF activity in generating cancer stem cells. Cells in hypoxic tumor
-regions stabilize HIFs and activate adaptive gene expression (see Figure 1). HIF activity in a
-rare subset of hypoxic tumor cells could also enhance the activity or expression of Notch,
-Oct4, c-Myc, ABC transporters (ABC-Ts), and telomerase. Increased expression of KLF4,
-Sox2, and other factors could promote further dedifferentiation and confer stem cell-like
-properties, such as self-renewal (circular green arrow), on what was originally a transformed
-cell with limited replicative potential. Inhibition of HIF activity in the resultant cancer stem
-cells might block, or reverse, this effect.

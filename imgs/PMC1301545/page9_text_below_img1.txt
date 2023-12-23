@@ -1,9 +1,0 @@
-FIGURE 9
-pO2 profiles for (A) granulocytic loci and (B) lymphocytic
-nodules in the multilayer Kroghian model with modified boundary condi-
-tions (f
-1 values for granulocytic loci of 3, 7, and 11 cell diameters are
-0.516, 1.20, and 1.89, respectively; f
-1 values for lymphocytic nodules of
-9, 19, 29, and 35 cell diameters are 0.488, 1.03, 1.57, and 1.90, respec-
-tively).

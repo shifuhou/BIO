@@ -1,8 +1,0 @@
-Figure 2. Proliferation of hTSCs cultured under hypoxic and
-normaxic culture conditions. hTSCs were grown in DMEM growth
-medium with FBS under hypoxic or normaxic conditions and colony
-formation was determined by counting cells stained with methyl violet.
-While the cells grew at both culture conditions, at all time points (days
-1, 2, 6, and 12), hTSCs at 5% O2 grew significantly quicker than at 20%
-O2.
-doi:10.1371/journal.pone.0061424.g002

@@ -1,8 +1,0 @@
-Figure 3. Blastocyst quality after culture in each culture system. (A) Expanded blastocysts cultured for 96 h under each culture system. (a)
-Control, (b) Air-Oven, (c) DeO2-Oven and (d) MixG-Oven. (B) Immunostaining of blastocysts at 96 h after IVF for Oct3/4 (red) (a, e, i, m), a marker for
-the inner cell mass (ICM); for CDX2 (green) (b, f, j, n), a marker for trophectoderm (TE); and with DAPI for staining DNA (c, g, k, o). Merged images are
-shown for Oct3/4 and CDX2 (d, h, i, p). (a–d) Control. (e–h) Air-Oven: the bag was filled with air and kept in the oven at 37uC. (i–l) DeO2-Oven: the
-deoxidizing agent was put into the bag, which was then kept in the oven. (m–p) MixG-Oven: the bag was filled with a gas mixture (see methodology)
-and kept in the oven. Original magnification 6400. (C) Numbers of ICM and TE cells compared between culture systems. (D) Numbers of apoptotic
-cells in blastocysts cultured in each culture system. Within columns, values with different letters are significantly different (P,0.05, Student’s t-tests).
-doi:10.1371/journal.pone.0047512.g003

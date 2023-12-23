@@ -1,8 +1,0 @@
-FIGURE 5
-pO2 profiles for two-dimensional Kroghian models at the far
-(A, j 5 0.736) and close (B, j 5 0.292) positions for mature granulocytes
-(GM) as the predominant cell type and a megakaryocyte (Mk) as the
-5
-secondary cell type (R1
-0.652, f
-2

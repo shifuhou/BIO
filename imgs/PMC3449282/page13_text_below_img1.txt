@@ -1,4 +1,0 @@
-Figure 2.
-Mechanisms by which L1CAM mediates cell–cell interactions. L1CAM-expressing cells
-have been reported to interact with other cells via homophilic interactions (a) or by
-heterophilic interactions with neuropilin 1 (NRP1), integrins (b), or CD24 (c).

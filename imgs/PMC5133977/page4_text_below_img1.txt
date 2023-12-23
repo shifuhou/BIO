@@ -1,8 +1,0 @@
-Figure 2 Hypoxia preconditioning increases cell proliferation through HIF-1α-mediated expression of cellular prion protein (PrPC). (a) Western blot analysis of HIF-1α and
-PrPC expression in mesenchymal stem cells (MSCs) subjected to hypoxia preconditioning for 0, 6, 12, and 24 h. (b) Western blot analysis of HIF-1α and PrPC expression in
-MSCs subjected to hypoxia preconditioning for 12 h and pretreated with HIF-1α-specific siRNA (si-HIF-1α). (c) Western blot analysis of PrPC expression in MSCs pretreated with
-PrPC-specific siRNA (si-PRNP). (d) Western blot analysis of JAK2 and STAT3 phosphorylation, and cyclin D1 and c-Myc expression in MSCs and MSCs treated with PrPC-
-specific siRNA after hypoxia preconditioning for 0, 6, 12, and 24 h. (e) Single-cell cultures of normoxic MSCs (Nor-MSC), hypoxia-preconditioned MSCs (Hypo-MSC), hypoxia-
-preconditioned MSCs transfected with PrPC-specific siRNA (si-PRNP Hypo-MSC), and hypoxia-preconditioned MSCs transfected with scrambled siRNA (Scr siRNA Hypo-MSC)
-were stained with Giemsa after 10 days of cultivation. Scale bar = 100 μm. (f) Percentage of single MSCs undergoing at least one cell division after 10 days of culture. Values
-represent means ± S.E.M. **Po0.01 versus Nor-MSC; ##Po0.01 versus Hypo-MSC; $$Po0.01 versus si-PRNP Hypo-MSC

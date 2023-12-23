@@ -1,6 +1,0 @@
-Figure 4 Culture in hypoxia enhanced the potential of MSC to differentiate in adipocytes (A) and osteocytes (O). MSC were cultured in
-hypoxia or normoxia until P2, and shifted to adipocyte- or osteocyte-specific differentiation conditions respectively for 2-4 more weeks. The
-aspect of differentiated colonies under hypoxia is shown (A). In 2 independent experiments (B), MSC were harvested at P2, RNA from normoxic
-(N) or hypoxic (H) cells was extracted, reverse-transcribed and amplified by PCR with primers specific for control GAPDH and the indicated
-genes, representative of adipocytic (LPL, PPARg) and osteocytic (ALPL, Runx2) lineages. The same cells were grown in osteocytic and adipocytic-
-specific medias and colonies were counted and compared to the numbers of CFU-F generated in MSC-specific medium (C).

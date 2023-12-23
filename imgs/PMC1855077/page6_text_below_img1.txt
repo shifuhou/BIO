@@ -1,5 +1,0 @@
-Figure 5. Dye-labeled MSCs transplanted in 2-day-old chicken embryo and detected in organs of 5-day-old chicken embryo by epifluorescence
-microscopy. (A) Examples of hypoxia-exposed/CMFDA-labeled (green) and normoxic condition-exposed/CMTMR cells (red) in the heart, brain or
-spine area. 4’,6-Diamidino-2-phenylindole (DAPI) stain was used to identify nuclei (mag: 4006). (B) Cells per 4006powered field. Results are mean6SD
-of more than 20 power fields from different embryos. (*, p,0.05, Student’s t test).
-doi:10.1371/journal.pone.0000416.g005

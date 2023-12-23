@@ -1,2 +1,0 @@
-FIGURE 2 Graphical representation of cellular architectures used in the two-dimensional Kroghian model. (A) The secondary cell type is located far away
-from the sinus (far position); (B) the secondary cell type is located next to the sinus (close position); (C) finite elements of the tissue cylinder.

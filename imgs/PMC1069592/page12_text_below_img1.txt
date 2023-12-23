@@ -1,5 +1,0 @@
-FIG. 9. Evaluation of the Notch signaling pathway and HES family proteins in hypoxic inhibition of myogenesis. (A) Total RNA was collected
-from differentiating C2C12 cells under the indicated conditions. RT-PCR was performed with gene-speciﬁc primers. (B) Whole-cell lysates were
-prepared from differentiating C2C12 cells under the indicated conditions. The NICD was immunoblotted with an anti-Notch1 monoclonal antibody
-(clone mN1A; Becton Dickinson). (C) C2C12 cells were allowed to differentiate for 3 days at 21% or 0.5% O2 in the presence of DAPT to block
-notch activation. Myoﬁber formation was analyzed by anti-MHC immunoﬂuorescence (green).

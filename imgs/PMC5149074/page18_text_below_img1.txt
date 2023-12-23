@@ -1,5 +1,0 @@
-Extended Data Figure 7. S-2HG does not inhibit mTOR signalling at the doses necessary for the 
-formation of memory-like CD8+ T-lymphocytes.
-Immunoblot analysis on cytosolic extracts for mTOR signalling in CD8+ T-lymphocytes 
-treated with the indicated doses of S-2HG for 24 h. For immunoblot source images, see 
-Supplementary Fig. 1.

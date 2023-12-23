@@ -1,9 +1,0 @@
-Figure 4.
-Hypoxia and HGF treatment do not significantly change the proliferation status of
-mesenchymal stem cells (MSC). MSC were cultured in serum-free medium in hypoxic
-versus normoxic conditions in the presence or absence of 25 ng/ml HGF. Cells were
-collected, fixed, stained with PI, and analyzed with flow cytometry for cell cycle status.
-Fluorescence-activated cell sorting plots are representative results of five separate
-experiments (A). The bar graph shows quantitation of flow cytometry data (B). Differences
-were not significant, according to Student's t-test. Abbreviations: HGF, hepatocyte growth
-factor; PI, propidium iodide.

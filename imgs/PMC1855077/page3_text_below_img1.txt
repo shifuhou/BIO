@@ -1,8 +1,0 @@
-Figure 2. Hypoxia inhibits osteogenesis and adipogenesis. The MSCs were plated at 100 cells/60-cm2 dish, cultured in normoxic (Nor) or hypoxic
-(Hyp) conditions for 7 days, and replaced with osteogenic or adipogenic induction media for additional 7 to 21 days. (A) Total colonies stained with
-Crystal Violet (upper two panels) and osteogenic colonies stained with Alizarin Red-S (lower two panels). (B) The panel shows the numbers of Alizarin
-Red-S and Oil Red-O-positive colonies after culture in osteogenic and adipogenic induction media, respectively. Data are expressed as
-mean6standard deviation (n = 3). (*, p,0.05, Student’s t test). (C) Cells were plated at 10,000 cells/cm2, and then cultured in adipogenic induction
-media under normoxic or hypoxic conditions. Oil Red-O staining was performed at 2 weeks after induction to visualize the level of fat production in
-the cells (red stain).
-doi:10.1371/journal.pone.0000416.g002

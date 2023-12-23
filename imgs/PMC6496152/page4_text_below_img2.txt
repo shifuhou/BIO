@@ -1,6 +1,0 @@
-Figure 1. Identiﬁcation of mRNA encoding EpoR and EpoR protein in rat L6 myoblasts and human myoblasts. L6 and human myoblasts were
-cultured for 48 h in growth medium and mRNA was extracted for PCR analyses. (a) Ampliﬁcation products were visualized using agarose gel electro-
-pohoresis. Size of the ampliﬁcation product of EpoR mRNA was 363 bp for rat myoblasts and 485 bp for human myoblasts, H2O PCR control water,
-RT control without reverse transcriptase, PM molecular weight. (b) Western blotting of Jurkat cells and C2C12 cells used as positive controls and L6 rat
-muscle, stained with anti-mouse EpoR rabbit polyclonal antibody. Western blotting revealed the 59 KDa band in human myoblasts and L6 myoblasts
-(C2C12 cells used as control).

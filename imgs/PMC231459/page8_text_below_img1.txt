@@ -1,5 +1,0 @@
-FIG. 10. Conservation of the hypoxia response element in mammalian VEGF
-genes. The nucleotide sequence (56) of the 47-bp human VEGF hypoxia re-
-sponse element is compared with the corresponding sequences in the mouse
-(50a) and rat (28) genes. Crosses mark sequence identity. The HIF-1 site and
-(A/C)ACAG sequences are overlined.

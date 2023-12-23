@@ -1,3 +1,0 @@
-leaky at baseline, in the absence of an exogenous stimu-
-lus, and somewhat leakage-resistant in response to acute
-inflammation.

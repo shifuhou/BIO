@@ -1,8 +1,0 @@
-5% CO2 at 37°C. Spheroids were prepared as previously described [13]. Briefly, 500 cells/well
-were distributed in ultra-low attachment 96-round bottom well plates. Plates were centrifuged
-(200g for six min) and then placed in a humidified atmosphere of 5% CO2 at 37°C. Cells and
-spheroids were cultured under atmospheric oxygen concentration, or in regulated hypoxia
-confinement (5% oxygen) by using an hypoxia workstation at the EFS French Blood Institute
-hypoxia facility, Toulouse. Spheroid volume was obtained by manually measuring two orthog-
-onal diameters, d1 and d2, using an inverted microscope maintained in the hypoxia worksta-
-tion. Spheroid volume was calculated according to the formula: V = 4πd12d2/3.

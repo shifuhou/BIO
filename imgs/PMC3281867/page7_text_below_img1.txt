@@ -1,6 +1,0 @@
-Figure 3. Hypoxia induces Notch signal protein and mRNA expression in HK2 cells. (A) qRT-PCR analysis of Notch1,Notch2, Jagged1, Snail
-in HK-2 cells after 2 h, 6 h, 12 h, 24 h, 48 h and 72 h of hypoxia and the relative amount of mRNA was normalized to b-actin. (B) Western blot analysis
-of Notch1, Notch2, Jagged1, Snail in HK-2 cells after 2 h, 6 h, 12 h, 24 h and 48 h of hypoxia. A representative blot from three independent
-experiments is shown (upper). The histogram shows the average volume density corrected for the loading control, b-actin (lower). #p,0.05 and
-*p,0.01 compared with normoxic controls.
-doi:10.1371/journal.pone.0030771.g003

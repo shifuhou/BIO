@@ -1,8 +1,0 @@
-FIG. 1. Comparison of primary structures of mouse HLF and
-HIF1(cid:97) gene products. (A) Identical amino acid ((cid:112)) and conservative
-substitutions (.) are indicated. Dashes indicate deletions to maximize
-the sequence similarity. Basic helix–loop–helix region and direct
-repeats of PAS domain are boxed. The entire PAS domain is enclosed
-in brackets. (B) Comparison of the basic amino acid sequence of Arnt
-(33), dSim (17), AhR (34, 35), HIF1(cid:97) (15), HLF, and dTrh (18, 19).
-Amino acids identical to those of HLF are boxed.

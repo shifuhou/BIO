@@ -1,5 +1,0 @@
-Fig 3. Detection of hypoxia with pimonidazole hypochloride. HCT116 spheroid grown in the indicated
-conditions (5% and 21% oxygen) for three (d3) and six days (d6) were incubated with pimonidazole hypochloride
-for 2h. Pimonidazole-positive hypoxic cells were detected in spheroid cryosections with the FITC-conjugated
-MAb1. Nuclei were stained with DAPI. Representative fluorescence microscopy images of spheroids at day 3 and
-6. Pimonidazole-positive hypoxic cells are in green and nuclei in blue. Scale bar, 100 μm.

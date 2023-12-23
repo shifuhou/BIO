@@ -1,8 +1,0 @@
-Figure 7. In vitro invasion assay showing the effect of hypoxia on the
-invasiveness of ovarian cancer cells. a: Photographs showing the cells that
-have passed through the Matrigel-coated membranes; OSE, normoxia. b:
-OSE, hypoxia. c: SKOV3, normoxia. d: SKOV3, hypoxia. e: OVCAR3, nor-
-moxia. f: OVCAR3, hypoxia. Original magnification, (cid:3)200. The number of
-both SKOV3 and OVCAR3 cells invading the Matrigel is significantly in-
-creased under hypoxic condition compared with under normoxia. Hypoxic
-effect was not seen in OSE cells.

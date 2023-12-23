@@ -1,8 +1,0 @@
-Figure 1. Effect of oxygen tensions and initial plating densities on apoptosis and expansion of MSCs. (A) The MSCs at passage 3 were subjected to
-normoxic (Nor), hypoxic (Hyp) or serum free conditions (SF) for 2 days. Apoptosis was evaluated by the APOPercentage assay and the apoptotic cells
-are stained as pink. (B,C) Passage 3 MSCs were plated on 60-cm2 dishes at 50 and 1,000 cells/cm2 and cultured in normoxic and hypoxic conditions.
-The cells were harvested and counted up to 10 days. (B) Total cell numbers per 60-cm2 dish and (C) fold increase are shown. Data are expressed as
-mean6standard deviation (n = 3). (D) Passage 3 MSCs were plated at 100 cells/60-cm2 dish, cultured in normoxic or hypoxic conditions for 10 or
-14 days, and stained with Crystal Violet to give total colony count. Colony numbers, which indicate colony-forming efficiency (%), are shown. Data are
-expressed as mean6standard deviation (n = 3). (*, p,0.05, Student’s t test).
-doi:10.1371/journal.pone.0000416.g001

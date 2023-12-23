@@ -1,6 +1,0 @@
-Extended Data Figure 3. Regulation of histone methylation in 2i/LIF cells
-a, Western blot analysis of ESC-1 cells grown in glutamine-free 2i/L medium for 24 hours 
-with supplementation as indicated (DM-αKG, dimethyl-α-ketoglutarate). b,c, H3K27me3 
-ChIP-PCR of ESC-1 cells cultured in S/L (b) or 2i/L (c) medium with or without 30 μM 
-UTX/JMJD3 inhibitor GSK-J4 for five hours. Data are presented as the mean ± s.e.m. of 
-triplicate samples. *, p < 0.05 by unpaired Student’s two-tailed t-test.

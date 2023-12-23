@@ -1,9 +1,0 @@
-Figure 2.
-BMSCs enhanced cardiomyocyte survival under hypoxia. Panel A and B: Representative
-photographs show typical of Annexin-V positive cells. Red fluorescence shows apoptotic cells
-stained with PE-labeled annexin-V. Nuclei were counterstained with DAPI (blue). A:
-cardiomyocytes; B: co-culture. Panel C and D: Representative FACS of count Annexin-V-PE
-positive cells in cardiomyocytes (C) and co-culture (D), respectively. Panel E: quantitation of
-annexin-V positive cells. Data are shown as mean ± SEM. * p < 0.05 vs cardiomyocytes culture
-alone. Panel F: DNA fragmentation in cardiomyocytes alone or co-cultured with BMSCs
-following hypoxia [lane 1: DNA marker; lane 2: cardiomyocyte (normoxia); lane 3: co-culture

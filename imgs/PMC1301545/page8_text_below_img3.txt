@@ -1,6 +1,0 @@
-FIGURE 8
-Kroghian model with modified boundary conditions (R4
-0.194, b
-3
-5 2.01, x
-x

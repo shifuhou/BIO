@@ -1,7 +1,0 @@
-FIH-1 increases myogenic differentiation. (A) Quantiﬁcation of the
-Fig. 3.
-percentage of GFP-positive cells (expressing either GFP, Notch 1 ICD-GFP, or
-Notch 1 ICD N1945A-GFP) that are also MHC-positive. (B) Quantiﬁcation of the
-percentage of YFP-positive cells that are also MHC-positive (see below). (C)
-Differentiated (MHC-positive, red) C2C12 cells costained for expression of YFP,
-FIH-1-YFP, FIH-1H199A-YFP, or FIH-1D201A-YFP (green).

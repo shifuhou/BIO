@@ -1,8 +1,0 @@
-Figure 4. Notch1 and Jagged1 are directly regulated by miR-34a. (A) Putative binding sites of miR-34a in Notch1, Notch2 and Jagge1 39UTR
-are shown with color letters. (B) Jagged1, Notch1, Notch2, Snail protein level and mRNA level were respectively detected by Western blotting and qRT-
-PCR 48 h after transfection with miR-34a precursor or precursor control in HK2 cells under low oxygen. A representative blot from three independent
-experiments is shown (left). The histogram shows the average volume density normalized to the b-actin (right). (C) Dual luciferase assay was performed
-in HK2 cells under hypoxia co-transfected with luciferase construct (pMIR-Norch1-39UTR, pMIR-Norch2-39UTR, pMIR-Jagged1-39UTR or pMIR-report
-control) and miR-34a precursors or precursor control. Firefly luciferase activity was normalized to Renilla luciferase activity for each sample. The results
-shown represent the mean 6 SD from 3 independent experiments. #p,0.05 and *p,0.01 compared with empty vector or miRNA precursor control.
-doi:10.1371/journal.pone.0030771.g004

@@ -1,3 +1,0 @@
-Fig. 6 Results of QMC simulation with 39,000 sets of parameter values. a. Commitment time at optimal oxygen levels. Each point shows the
-minimum CT in each simulation. b. Frequency plot of optimal oxygen tension. c. Frequency plot of minimum commitment time (CT) across
-hypoxic oxygen tensions

@@ -1,5 +1,0 @@
-Figure 6. Epifluorescent immunohistology of sections from chick embryos infused with GFP+MSCs. (A) Cells (arrows) positive for GFP and
-cardiotin in heart (upper row); cells (arrows) positive for GFP and a-myosin heavy chain (MHC) in heart (middle row); cells (arrows) positive for GFP and
-NF-H in brain (bottom row). (B) Cells (arrows) positive for GFP, but negative for a chicken-specific marker (CSM) in heart (upper row) or brain area
-(lower row). DAPI stain was used to identify nuclei (mag: 4006).
-doi:10.1371/journal.pone.0000416.g006

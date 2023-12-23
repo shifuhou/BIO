@@ -1,4 +1,0 @@
-Fig. 4 a Simulated cell cycle commitment time under different oxygen tensions at the nominal model parameter setting. b Compiled literature
-experimental data of the hypoxic proliferation rate. The ratio between hypoxic and normoxic proliferation rate for each set of the literature data
-(S1-S15) is plotted. A list of the corresponding references is included in the Supporting Information (Additional file 3). The simulation results from
-this study (Sim) are shown for the swept oxygen tensions

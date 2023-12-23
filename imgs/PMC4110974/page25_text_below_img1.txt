@@ -1,7 +1,0 @@
-Figure 7.
-Hypoxic exposure enhances multipotential stromal cell (MSC) colony formation in a HIF
-independent manner. (A) Effects of HIF-1β shRNA against HIF-1α, HIF-2α, and HIF-1β on
-the colony formation of immortalized-MSCs under 1%O2 and 20%O2 conditions. P-values
-are given within the figure. (B) Representative images of colony formation of immortalized-
-MSCs with shRNA against HIF-1α, HIF-2α, and HIF-1b shRNA or HIF-1β. Non-target
-shRNA (NT) served as a control.

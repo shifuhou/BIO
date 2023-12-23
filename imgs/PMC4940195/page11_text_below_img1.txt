@@ -1,9 +1,0 @@
-Figure 2. 
-Low oxygen abolishes replicative senescence of MEFs. C57Bl/6 MEFs were used for all 
-experiments. (a) MEFs were cultured in 20% or 3% oxygen, as indicated, and cell number 
-was determined at each passage. The average and standard deviations of three independent 
-cultures are shown. (b) MEFs cultured in 3% oxygen (black) were shifted at PD8, PD13 or 
-PD19 to 20% oxygen (grey), or maintained in 3% oxygen. Cell number was determined at 
-the indicated times. The average of two cultures is shown. (c) MEFs cultured in 3% or 20% 
-oxygen were assayed for levels of p16, p19ARF and α-tubulin (control) by western blotting. 
-3% oxygen cultures were analysed at early (PD2) and late (PD14 and PD24) passage. A 

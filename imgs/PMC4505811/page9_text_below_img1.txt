@@ -1,5 +1,0 @@
-Fig. 1. 
-The level of hARD1 protein is stable during hypoxia. (A) RCC4 and HT1080 cells were 
-exposed to either normoxia (N) or hypoxia (H) for 18 h and the cell lysates were analyzed 
-by Western blotting with anti-hARD1. (B) As (A) using HeLa and HEK293 cells and CoCl2 
-treatment for 6 h. (C) As (A) adding CoCl2 for the indicated times to MCF-7 cells.

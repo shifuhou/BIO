@@ -1,5 +1,0 @@
-Figure 6 Hypoxia enhances migration ability of primary hAMSCs. (a) 2D-Scratch test. The plates with different groups of hAMSCs were scratched for 5 mm margin space and
-the borderline of the scratch was marked immediately. Then, the photographs were captured with bright-field microscopy at the endpoint of 24 h (scale bar, 200 μm). (b)
-Comparison of migration proportion between hAMSCs-H and hAMSCs-N in zones I, II, and III. (c) Representative tracks of hAMSCs-H and hAMSCs-N group. Cell migration was
-quantified using time-lapse microscopy on 3D nanopattern surface. Images were automatically recorded for 6 h at 10-min intervals. (d–f) Speed, persistence, and distance were
-assessed by tracking 75 cells in each group. Error bars represent S.E.M. *Po0.05, **Po0.01, N.S., not significant
