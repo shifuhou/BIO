@@ -1,0 +1,5 @@
+FIG. 4. Effects of hypoxia on myogenic gene expression and mRNA stability. (A) C2C12 cells were differentiated at different pO2 levels for 1
+to 3 days. Temporal expression of myogenic genes was analyzed by Northern blotting of total RNA. Results are representative of at least three
+independent experiments. (B) C2C12 cells and primary myoblasts were treated for the indicated period of time (in hours) in DM containing 5 (cid:4)g
+of actinomycin D (ActD) per ml at 21% and 0.5% O2, respectively. Total RNA was prepared, and Northern blotting was done as described for
+panel A. Relative band intensity was analyzed with NIH Image 1.63.

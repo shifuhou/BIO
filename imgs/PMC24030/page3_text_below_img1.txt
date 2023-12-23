@@ -1,0 +1,19 @@
+FIG. 2. One or more members of the p300(cid:121)CBP family interact(s)
+with HIF-1(cid:97)in a DNA-bound complex (27). (A) Nuclear extracts from
+Hep-3B cells were analyzed by EMSA using a HIF-site-containing
+probe. Extracts in lanes 1–5 and 7–8 were prepared from cells treated
+for 5 hr with 1% O2, and the extract in lane 6 was prepared from
+normoxic cells. An 100-fold excess of unlabeled wild-type Epo 3(cid:57)
+enhancer probe (WT, lane 5), mutant probe (mut, lane 4), probe
+containing a central midline element (CME, lane 3), probe containing
+a xenobiotic response element (XRE, lane 2), or nonspecific probe
+(NS: myc E2F site, lane 1) were used as competitors. HIF-1(cid:97)antibody
+(OZ15) was tested as a potential supershifting reagent in lane 8. In
+both experiments, free probe was in excess and is not shown. (B)
+Nuclear extracts from Hep-3B cells were analyzed as in A. Extracts in
+lanes 2–4 were prepared from cells treated for 5 hr with 1% O2.
+Extracts in lanes 1 and 5 were prepared from normoxic cells, and lane
+6 contains no cellular protein. HIF-1(cid:97) antibody (OZ15) and p300(cid:121)
+CBP monoclonal antibody (AC240) were analyzed as potential super-
+shifting reagents in lanes 3 and 4–6, respectively. Induced (I) and
+constitutive (C) complexes are indicated.

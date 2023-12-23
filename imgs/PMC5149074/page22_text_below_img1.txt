@@ -1,0 +1,8 @@
+Extended Data Figure 10. S-2HG induces global changes in the content of 5hmC and 5mC in 
+genomic DNA of CD8+ T-lymphocyte genomic DNA.
+a/ Representative flow cytometry plots of CD44 vs CD6L expression on CD8+ T-
+lymphocytes with shRNA-mediated knockdown of Tet2, 7 days after trasnduction. Gated on 
+live, CD8+GFP+ cells. Graph on right shows knockdown hairpin fidelity for Tet2.
+b/ IgG control DIP-qPCR for 5mC and 5hmC at and around the TSS for CD62L, in freshly 
+isolated naïve or activated CD8+ T-lymphocytes treated with or without 500 μM S-2HG for 
+7 days. Each profile shows the fold change over the non-binding control primer. Each dot 

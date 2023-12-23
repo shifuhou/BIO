@@ -1,0 +1,9 @@
+5B). This is consistent with an increased gene expression of
+S100A8 in sorted monocytes of Vhl or Vhl/Vegf double mutant
+mice (Fig. S2E). To test the possibility whether S100A8 pro-
+duction is regulated by HIF-1, we measured serum S100A8 levels
+in Vhl or Vhl/Hif-1α double mutant mice and found that the el-
+evated S100A8 in Vhl mutant was significantly reduced in Vhl/
+Hif-1α double mutant mice (Fig. 5C),
+indicating that HIF-1
+regulates S100A8.

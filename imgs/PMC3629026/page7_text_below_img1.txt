@@ -1,0 +1,10 @@
+Figure 4. Stem cell gene analysis by qRT-PCR. Total RNA extracted
+from hTSCs grown under hypoxic or normaxic conditions was used to
+synthesize cDNA, which was used as a template in qRT-PCR using
+primers specific to Oct-4 and Nanog. GAPDH was used as an internal
+control. Y- axis represents relative gene expression when compared to
+GAPDH expression levels. Ct values were normalized against hTSCs
+cultured under 20% O2. Both stem cell marker genes (Oct-4 and Nanog)
+cultured at 5% O2 culture conditions were expressed at significantly
+higher g005levels than those cultured at 20% O2 culture conditions.
+doi:10.1371/journal.pone.0061424.g004

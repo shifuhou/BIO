@@ -1,0 +1,27 @@
+Figure 7. Tumor Cells Impose a Nutrient Restriction on T Cells that Dampens IFN-γ Production
+(A) T cells were activated with anti-CD3/28 in media containing glucose (Glc) or galactose
+(Gal), and PD-1 expression was measured.
+(B) Activated T cells were cultured in media containing Glc and then differentially cultured
+in either Glc or Gal (Glc→Gal) for 1 additional day. Cells cultured in Gal were then
+recultured in Glc for 1 more day (Glc→Gal→Glc). IFN-γ expression was measured 5 days
+postactivation. Frequencies of IFN-γ producing cells are shown, and plots are representative
+of three independent experiments.
+(C and D) The OCR over ECAR ratio (C) and PD-1 expression (D) of activated T cells
+cultured in indicated media as described in (B) were assessed.
+(E) Activated T cells were cultured in media containing Glc and then differentially cultured
+in either Glc or Gal for 1 additional day (Glc→Gal (1d)) or 2 days (Glc→ Gal (2d)). Cells
+cultured in Gal were then recultured in Glc for 1 more day (Glc→Gal→Glc). PD-1
+expression was measured 5 days postactivation. Data are representative of at least two
+independent experiments (A), (B), and (D), and data are presented as mean ± SEM (error
+bar) from at least three independent experiments (C) and (E). *p = 0.0001.
+(F and G) (F) T cells were activated with anti-CD3/28 under Th1 polarizing conditions for 3
+days. Cells were subsequently incubated overnight with equal numbers of Th1 cells alone or
+in a 50/50 mix of EL4 lymphoma cells: Th1 cells. Cells were restimulated (restim) and IFN-
+γ production (F) and glucose concentration in the media (G) were measured. At the time of
+restimulation, either nothing (no change), 10 mM glucose, or new media were added back to
+the cells. Data (F) and (G) are representative of three independent experiments. Data (G) are
+presented as mean ± SEM (error bar).
+(H) The MFI of PD-1 expression on T cells from the indicated coculture ratios of EL-4
+lymphoma cells:Th1 cells are shown.
+Data are presented as mean ± SEM (error bar) from one experiment (n = 6). *p = 0.0423;
+**p = 0.0001. See also Figure S6.

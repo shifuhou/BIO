@@ -1,0 +1,24 @@
+Figure 3. Reversible Diapause-like State Can Be Induced In Vitro by Starvation or Inhibition of 
+mTOR
+(A) Generation of Lkb1 short only isoform. A schematic of Talen-mediated gene editing of 
+the endogenous Lkb1 locus using donor construct that expresses Lkb1-short form-specific 
+exon 9A (Figure 1F) fused directly in frame with exon 8 followed by 2A peptide. This 
+modified Lkb1 locus expresses only short form of Lkb1.
+(B and C) Pharmacological inhibition of mTOR and starvation can induce a reversible 
+diapause-like state. (B) mTOR inhibition by INK-128, is reversible as indicated by the 
+rephosphorylation of mTOR, S6 and 4EBP1 24 h after removal of INK-128 in R1(LL) and 
+R1(SS) cells. Beta-actin 1: pmTOR, pS6 and p4EBP1, beta-actin 2: mTOR, S6 and 4EBP1. 
+(C). Starvation abolishes phosphorylation of mTOR and its substrates, S6 kinase, S6, ULK1, 
+and 4EBP1 in 24 h. This inhibition is reversible as indicated by the rephosphorylation of 
+those proteins 24 h after removal of starvation media from culture both in R1(LL) and 
+R1(SS) cells. Intriguingly, the mTOR signal in the untreated and the reversed R1(SS) 
+samples is reduced compared to their respective R1(LL) samples. Beta-actin 1: pmTOR, pS6 
+and p4EBP1, beta-actin 2: mTOR, S6 kinase, S6 and 4EBP1, beta-actin 3: pS6 kinase, beta-
+actin 4: pULK1, beta-actin 5: H4K16ac.
+(D) Quantification of pmTOR protein bands from C using ImageJ software. n = 3 for each 
+sample, p = 0.0027 for R1(LL) versus R1(SS) 24h after starvation removal. (E) Western blot 
+of pAMPK in mESCs expressing different forms of Lkb1 splice variants. The 
+phosphorylation of AMPK is increased in response to 2DG both in R1(LL) and R1(SS). 
+However, higher levels of AMPK phosphorylation are observed in R1(SS) even in the 
+absence of 2-DG.
+(F) A schematic representation of the two splice forms of Lkb1.

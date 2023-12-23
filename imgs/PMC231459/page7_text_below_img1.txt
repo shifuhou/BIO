@@ -1,0 +1,7 @@
+FIG. 8. Analysis of Hepa1 cells. (A) Comparison of HIF-1 DNA-binding activity in Hep3B and wild-type Hepa1 cells by oligonucleotide competition assay. Nuclear
+extracts from nonhypoxic (lanes 1 and 7) and hypoxic (lanes 2 to 6 and 8 to 12) Hep3B cells (lanes 1 to 6) and Hepa1 cells (lanes 7 to 12) were analyzed for HIF-1
+DNA-binding activity, using the WT EPO probe in the presence of no competitor (lanes 1, 2, 7, and 8) or 3 ng (lanes 3, 5, 9, and 11) or 30 ng (lanes 4, 6, 10, and 12)
+of unlabeled oligonucleotide WT EPO (open triangles; lanes 3, 4, 9, and 10) or MUT EPO (closed triangles; lanes 5, 6, 11, and 12). (B) Comparison of HIF-1
+DNA-binding activity in Hep3B and wild-type Hepa1 cells by supershift assay. Nuclear extracts from nonhypoxic (lanes 1 and 7) or hypoxic (lanes 2 to 6 and 8 to 12)
+Hep3B cells (lanes 1 to 6) and Hepa1 cells (lanes 7 to 12) were incubated with the WT EPO probe in the absence (lanes 1, 2, 7, and 8) or presence of anti-HIF-1(cid:97)
+(lanes 4 and 10), anti-HIF-1(cid:98) (lanes 6 and 12), or the respective preimmune serum (lanes 3, 5, 9, and 11). S, supershifted complex; FP, free probe.

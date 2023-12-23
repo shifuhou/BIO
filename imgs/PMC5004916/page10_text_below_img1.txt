@@ -1,0 +1,6 @@
+It has been proposed that low oxygen concentrations still allow the proliferation, but
+decrease the differentiation rate of stem cell populations. Cell division in limited oxygen con-
+centration conditions would thus ensure the self-renewal and maintenance of the stem cell
+population, without any commitment to differentiation (reviewed in [1]). Our findings
+strengthen the need to re-explore basic cancer cell biology issues in physioxia and not in artifi-
+cial hyperoxia (21% oxygen concentration).

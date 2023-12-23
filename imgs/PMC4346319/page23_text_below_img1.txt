@@ -1,0 +1,12 @@
+Figure 3. Hypoxia Pathway and Adaptive Immunity
+(A) T cell differentiation. Upon activation, HIF-1α is strongly induced in conditions that 
+favor differentiation of CD4+ Th17 cells. HIF-1α can increase the expression of RORgt, 
+which in turn promotes IL-17 production and Th17 cell development. Th17 and Treg cells 
+also rely on different metabolic pathways. HIF-1α can bind FOXP3 protein and impact its 
+function and degradation, and in some cases, promotes Foxp3 mRNA induction and 
+supports Treg cell function. HIF-1α-driven glycolytic shift supports Th17 cell 
+differentiation, while lack of HIF-1α can support Treg cell differentiation under Th17 cell 
+differentiation conditions. (B) HIF-1α stabilization by activated CD8+ T cells results in 
+increased expression and release of important cytolytic molecules (granzyme B, perforin), 
+increased expression of costimulatory/inhibitory molecules (CTLA-4, GITR, 4-1BB), and 
+altered migration and chemokine receptor expression.

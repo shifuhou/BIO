@@ -1,0 +1,5 @@
+Fig. 4. HIF-1a induced by PHD2 silencing is functionally active. The indicated siRNAs (20 nM) were transfected into HeLa cells with 50 ng of a re-
+porter vector (pRE-Dtk-LUC) containing three copies of the HRE from the erythropoietin gene. In all cases, 100 ng of a plasmid for b-galactosidase
+were co-transfected to normalize for transfection efﬁciency. After 48 h of transfection, luciferase activity was measured. As a control for HIF-1 acti-
+vation, cells were incubated in the presence of Co2+ (200 mM) or in hypoxia (1–2% O2) for 16 h. Results are representative of three independent
+experiments performed in triplicate.

@@ -1,0 +1,7 @@
+Figure 3. Effects of HIF on multiple steps of cancer development
+HIF is stabilized by hypoxia and other nonhypoxic stimuli in many cancers. HIF activity in
+cancer has been associated with 1. putative cancer ‘stem’ cell maintenance and increased
+expression of genes involved in 2. proliferation and survival, 3. metabolism, 4. angiogenesis,
+5. recruitment of infiltrating cells such as tumor-associated macrophages and bone marrow-
+derived cells, and 6. tumor cell metastasis. Some examples of HIF regulated genes and
+oncogenic pathways are given in parentheses.

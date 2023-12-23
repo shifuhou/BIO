@@ -1,0 +1,14 @@
+Figure 4. Multilineage differentiation of human CD34(cid:49)CD38(cid:50) cells in
+NOD/SCID mice after 4 d of ex vivo culture. A representative mouse
+was transplanted with 1,200 expanded CD34(cid:49)CD38(cid:50) CB cells after 4 d
+of ex vivo culture. Mouse BM was extracted 8 wk after transplant into
+NOD/SCID mice and analyzed by multiparameter flow cytometry. (A)
+Histogram of CD45 (human-specific panleukocyte marker) expression in-
+dicating that 0.4% of the cells present in the murine BM are human. Sub-
+sequent analysis of lineage markers was done on CD45(cid:49) cells within gate
+R1. (B) Isotype control for nonspecific IgG staining of mouse BM. (C–F)
+Analysis for the presence of human B cell lineage cells using pan–B cell
+marker CD19 (C) and mature B cell marker CD20 (D), and for the pres-
+ence of human myeloid cells expressing myeloid marker CD33 (E) and
+monocytic marker CD14 (F). Isotype control for lineage markers is indi-
+cated by shaded regions of histogram.

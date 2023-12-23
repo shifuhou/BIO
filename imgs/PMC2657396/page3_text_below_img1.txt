@@ -1,0 +1,24 @@
+ated with hypoxia-induced changes in mRNA expression. Genes
+within 50 kb of a HIF-1-binding site were significantly enriched for
+up-regulated mRNA expression under hypoxic conditions (Fig. 2C,
+HRE(cid:8)). The association between HIF-1 binding and increased
+gene expression was most apparent for binding sites located within
+the promoter of genes but was also highly significant when binding
+was within intragenic or enhancer regions (Fig. S2D). By compar-
+ison, the set of ChIP fragments without identifiable core HREs had
+no demonstrable enrichment in gene expression under hypoxic
+conditions (Fig. 2C, HRE(cid:4)). Likewise, fragments excluded above
+as ‘‘nonspecific’’ (e.g., Fig. 1) did not have enriched expression
+under hypoxia (FDR q value 0.23). The average MAT score (ChIP
+enrichment) of HRE(cid:4) hits was also significantly lower than HRE(cid:8)
+hits (Fig. S2E), and de novo motif search did not identify any
+overrepresented motifs that might suggest an alternative HIF-1
+binding motif . Together, these results suggested that HIF-1 ChIP
+fragments without identifiable core HREs were not direct HIF-1-
+binding sites and may represent indirect binding, such as through
+bridging interactions with coactivator complexes such as p300/CBP
+(8, 9). Furthermore, none of the core HRE-negative hits have been
+previously reported as hypoxia-responsive genes. Therefore, to
+focus our analysis on direct HIF-1-binding sites and transactivation
+targets, all subsequent analysis focused on the 283 high-confidence
+core HRE-containing HIF-1-binding sites (Table S3).

@@ -1,0 +1,12 @@
+Figure 2.
+Hypoxia and HGF treatment activate the Akt signaling pathway and maintain MSC viability.
+Bone marrow mesenchymal stem cells were incubated for 16 hours in serum-free medium
+exposed to hypoxic or normoxic conditions in the presence or absence of 25 ng/ml human
+recombinant HGF. MSC were tested for expression of Akt and its activation by Western
+blotting (A) and for viability by flow cytometry with Annexin V and propidium iodide
+staining (C). Western blot densitometry (B) showed a significant increase in Akt
+phosphorylation when cells were stimulated with hypoxia and HGF, whereas quantitation of
+flow cytometry data (D) demonstrated no significant difference between the different
+treatment groups, using the Student's t test. Shown are representative data of four (A) and
+five (C) separate experiments. Abbreviations: HGF, hepatocyte growth factor; MSC,
+mesenchymal stem cells.

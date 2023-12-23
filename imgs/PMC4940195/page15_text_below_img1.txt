@@ -1,0 +1,13 @@
+Figure 4. 
+MEFs accumulate high levels of oxidative DNA damage in 20% oxygen. (a) The Fpg-comet 
+assay was performed on early passage C57Bl/6 MEFs cultured in 3% or 20% oxygen, 
+immortal MEFs cultures derived and grown in 20% oxygen and mid-lifespan (PD 35) WI-38 
+human fibroblasts cultured for more than 10 population doublings in 20% oxygen. The 
+normalized average tail length is plotted. Each value represents the average of four 
+independent experiments and at least 50 cells per determination. (b) Comet assay controls. 
+WI38 and MEFs grown at the indicated oxygen concentrations and at the indicated 
+population doublings were analysed for comet tail lengths before treatment with fpg. As a 
+positive control, the normalized tail length of MEFs treated with hydrogen peroxide (100 
+μM) is also shown. ( c) C57Bl/6 MEFs were derived and grown in 3% or 20% oxygen for up 
+to 25 passages. The average percentage of metaphases from 4–5 independent cultures 
+containing obvious chromosomal breaks or fragments is plotted. Error bars show s.e.m.

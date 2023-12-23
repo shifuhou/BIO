@@ -1,0 +1,13 @@
+FIG. 5. Effect of a dominant negative form of HIF-1(cid:97) on the transcriptional
+response to hypoxia. (A) Expression of the P11w reporter plasmid. Hep3B cells
+were cotransfected with the P11w reporter and increasing amounts of the ex-
+pression vector pCEP/HIF-1(cid:97)DN. Relative luc activity is expressed as percent-
+age of activity in cells transfected with the parental expression vector pCEP4 only
+(lane 1). Mean values (SEM (cid:35)25%) from three transfections are shown. (B)
+Expression of P1 and P7 reporter plasmids. Hep3B cells were cotransfected with
+either P1 or P7 in the presence of 10 (cid:109)g of either pCEP4 or pCEP/HIF-1(cid:97)DN.
+Transfected cells were exposed to 1% O2 for 48 h prior to harvesting for luc and
+(cid:98)-Gal assays. The mean luc/(cid:98)-Gal ratios from three transfection experiments
+were normalized to the result obtained for P1 cotransfected with pCEP4. For P1
+and P7, the relative expression in the presence of pCEP4 (100%) and pCEP/
+HIF-1(cid:97)DN is also indicated.

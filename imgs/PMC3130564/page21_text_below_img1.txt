@@ -1,0 +1,17 @@
+Figure 5. PHD3 Stimulates the Coactivator Function of PKM2
+(A) Co-IP was performed in HeLa cells co-transfected with PKM2-V5 and PHD3 vectors.
+(B) GST pull-down assays were performed with purified GST, GST-E9, or GST-E10 and
+WCLs from HeLa cells exposed to 1% O2 for 24 h.
+(C) HeLa-shSC, HeLa-shPHD3-704, and HeLa-shPHD2 cells were transfected with PKM2-
+V5 vector and exposed to 20% or 1% O2 for 24 h. IP was performed with anti-V5 agarose,
+followed by immunoblot assay. Hydroxylated PKM2-V5 was quantified by densitometry
+and normalized to total immunoprecipitated PKM2-V5 (mean ± SEM, n =
+3). **p<0.01, ***p<0.001 vs shSC.
+(D) RCC4 cells were co-transfected with GalA(P564A) vector, pG5E1bLuc, pSV-Renilla,
+and the indicated expression vector for 24 h. The ratio of FLuc:RLuc activity was
+normalized to EV (mean ± SEM, n = 4). *p<0.05; **p<0.01; ***p<0.001. mutPHD3,
+PHD3(H135A/D137A); mutPKM2, PKM2(P403/408A).
+(E) HeLa cells were co-transfected with GalA(P564A) vector, pG5E1bLuc, and pSV-
+Renilla, and the indicated expression vector and exposed to 20% or 1% O2 for 24 h. The
+ratio of FLuc:RLuc activity was normalized to shSC at 20% O2 (mean ± SEM, n =
+4). ***p<0.001 vs shSC.

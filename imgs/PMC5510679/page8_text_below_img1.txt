@@ -1,0 +1,7 @@
+moxia/hypoxia and treated or not with AA. Protein extracts
+were immunoprecipitated with an anti-N1ICD antibody and
+SUMOylated proteins were detected using an anti-SUMO1
+antibody. We observed that N1ICD was SUMOylated both in
+normoxia and hypoxia and that treatment with AA decreased
+this post-translational modiﬁcation, especially under hypoxia
+(Fig. 7E).

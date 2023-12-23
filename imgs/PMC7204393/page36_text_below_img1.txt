@@ -1,0 +1,18 @@
+Figure 6. Lipolysis Is Upregulated in Embryonic Diapause, in Diapause-like State, and in Rictor 
+Knockout mESCs
+(A) Abundance of TAG, DAG, FA, and AC in pre-implantation and diapause blastocyst.
+(B) Schematic diagram depicting outline of the Lkb1 splice variant metabolomics 
+experiment and abundance of TAG, DAG, FA, and AC in Lkb1 splice variants,R1(LL) and 
+R1(SS), in control and starvation conditions.
+(C) A simplified diagram of the mTOR signaling pathway, showing components, and 
+downstream targets of mTORC1/2.
+(D) Schematic diagram of CRISPR-Cas9 system–mediated homozygous Rictor (mTORC2 
+specific component) KO in mESCs. Sequence and chromatogram(homozygote) of Rictor 
+KO clone 14 mESCs.
+(E) Screening of Rictor KO clones (top panel) by western blotting and analysis of Rictor 
+knockout effect on mTOR and its downstream targets (bottom panel). (Beta-actin-1: pAkt 
+and pmTOR, Beta-actin-2: pS6 Kinase and pS6, Beta-actin-3: Akt, S6 and 4EBP1, Beta-
+actin-4: mTOR, Beta-actin-5: pULK1 and p4EBP1, Beta-actin-6: S6 Kinase).
+(F) Schematic diagram depicting outline of the Rictor KO metabolomics experiment and 
+Rictor KO effect on lipolysis. TAGs are downregulated in Rictor knockout clones compared 
+to wildtype.

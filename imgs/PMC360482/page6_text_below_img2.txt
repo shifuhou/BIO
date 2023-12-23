@@ -1,0 +1,11 @@
+FIG. 5. DNase I footprint analysis of the hypoxia-inducible
+enhancer. Region AK (Fig. 1A) was amplified by PCR (using
+5'-end-labelled forward primer A), incubated with 0 (lanes 1, 3, and
+4) or 45 ,ug (lane 2) of nuclear extract from nonhypoxic Hep3B cells
+in the presence of 1 pg of poly(dI-dC), digested with 0 (lane 4), 0.05
+(lanes 1 and 3), or 0.5 (lane 2) ,ug of DNase I for 1 min at 25°C, and
+analyzed by 8 M urea-8% polyacrylamide gel electrophoresis (only
+the relevant region of the 256-nt sequence is shown). Dideoxy
+nucleotide sequence analysis of cloned human EPO gene was also
+performed (ACGT) by using 5'-end-labelled primer A. Sequence of
+50-nt enhancer, with footprinted region underlined, is shown at left.

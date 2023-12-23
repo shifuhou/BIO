@@ -1,0 +1,5 @@
+Fig. 5. PHD2 controls HIF-1a stability upon re-oxygenation of hypoxic
+cells. HeLa cells transfected with siRNAs (200 nM) were incubated in
+normoxia (N; 20% O2) or hypoxia (H; 1–2% O2) for 4 h, after which
+hypoxic cells were returned to 20% O2 for 0–180 min. Total cellular
+extracts were immunoblotted with the anti-HIF-1a antibody.

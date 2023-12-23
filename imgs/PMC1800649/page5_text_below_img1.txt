@@ -1,0 +1,9 @@
+FIG. 2. Loss of VHL results in down-regulation of E-cadherin. (A) VHL(cid:6)/(cid:6) 786-O and RCC4 cells stably expressing wild-type VHL or empty
+plasmid (MOCK) were lysed, equal amounts of total cellular lysates were separated by SDS-PAGE, and immunoblotted with the indicated
+antibodies. Anti-(cid:2)-tubulin immunoblotting was performed as an internal loading control. (B) Expression of E-cadherin was measured by
+quantitative real-time PCR in 786-MOCK and 786-VHL cells and normalized to U1AsnRNP1 mRNA level. The E-cadherin level in 786-VHL cells
+was arbitrarily set to 1.0. Error bars represent standard deviations of the relative increases in expression between the indicated cell types over three
+independent experiments. (C) Endogenous VHL in HEK293A cells was knocked down using VHL-speciﬁc siRNA or scrambled nontargeting
+control siRNA. RNA was then extracted for cDNA synthesis and endogenous transcript levels of VHL, E-cadherin, and U1AsnRNP1 measured.
+Error bars represent standard deviations of the relative increases between the expression of the indicated mRNA relative to its expression using
+control siRNA (arbitrarily set to 1.0) over three independent experiments.

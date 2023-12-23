@@ -1,0 +1,6 @@
+Different regions in multicellular spheroids for the integra-
+FIGURE 1
+tion of the differential equation of diffusion: M represents the stirred
+growth medium; G, the diffusion-depleted zone; S, the zone of viable cells;
+and N the necrotic core. (a) Spheroids without necrosis and (b) spheroids
+with necrosis.

@@ -1,0 +1,17 @@
+Figure 4. BM vascular mapping and the effects of cellularity on local pO2 after cytoreductive 
+conditioning
+(a) Vascular connectivity map of a nestin-GFP mouse reveals that nestin+ vessels are 
+upstream of and drain into sinusoids. Arrows indicating blood flow direction, determined by 
+tracking the movement of labeled RBCs with video-rate imaging, are superimposed on a 
+maximum intensity projection image of BM vasculature (red = vascular dye, green = nestin-
+GFP/RBCs, blue = SHG bone signal). A solid green line indicates a vessel with an adjacent 
+nestin+ cell and a dashed white line indicates a nestin- vessel. Scale bar ~100 μm. ( b) In vivo 
+image of the bone marrow of a universal DsRed recipient 5 days after transplantation with 
+25 million total marrow cells from a universal GFP donor. Red = DsRed, Green = GFP, 
+Blue = SHG from bone. Scale bar ~100 μm. ( c) Ki-67 staining of green (donor) and red 
+(host) BM cells by FACS on day 2 (n = 3 mice) and day 5 (n = 2 mice) after transplantation. 
+Each symbol denotes a different mouse. Scale bars (day 2) are the ± standard deviation of 
+the mean. (d) The in vivo pO2 values in regions with large clusters of donor cells (n = 19 
+locations from 4 mice) compared to small donor clusters/single cells (n = 16 locations from 
+4 mice) and host clusters/single cells (n = 40 locations from 5 mice). The mean (black line) 
+and ± standard deviation (shaded box) for each data set is shown.

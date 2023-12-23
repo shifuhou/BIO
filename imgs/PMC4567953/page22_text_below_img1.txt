@@ -1,0 +1,19 @@
+Figure 5. PEP Suppresses SERCA-Mediated ER Calcium Reuptake
+(A) Illustration of the glycolysis pathway and the targets of the indicated glycolytic 
+inhibitors. 2-DG: 2-deoxyglucose; IAA: iodoacetate; OXA: oxalate.
+(B) Heat map shows the normalized concentrations of the indicated glycolytic metabolites in 
+CD4+ T cells stimulated with anti-CD3/anti-CD28 mAbs for 1 hr in the absence or presence 
+of the glycolytic inhibitors described in (A) as measured by LC-QE-MS.
+(C) Intracellular Ca2+ levels were measured in Fluo-4- and Fura-Red-labeled TH1 cells 
+treated with indicated glycolytic inhibitors before and after activation with ionomycin.
+(D–F) TH1 cells were left alone or stimulated with anti-CD3/anti-CD28 mAbs for 5 hr in 10 
+mM glucose in the absence or presence of indicated glycolytic inhibitors and the expression 
+of CD40L (D), IFNγ (E) and TGFβ (Φ) was measured by flow cytometry (D) or ELISA (E 
+and F).
+(G and H) CD4+ T cells were transduced with empty vector control retroviruses (RV, Ctrl-
+KD) or those expressing enolase-1 shRNAi (eno1-KD). RV-infected T cells were left alone 
+or stimulated with ionomycin for 10 min and the cytoplasmic versus nuclear distribution of 
+NFAT1 was determined by Amnis Imagestream as described in Figure 3F (G), or 
+alternatively were stimulated with anti-CD3/anti-CD28 mAbs in vitro in the presence of 10 
+mM glucose for 5 hr and the expression of IFNγ, IL-2 and CD40L was analyzed by flow 
+cytometry (H).

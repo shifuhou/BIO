@@ -1,0 +1,14 @@
+FIG. 7. HIF-1a and SUMO1 increase nuclear translocation of N1ICD in HEK293T cells. (A) Representative
+western blot and quantiﬁcation of N1ICD by densitometry in transiently transfected HEK293T cells (black bars for
+HEK293T and gray bars for N1ICD-293T cells). Data represent mean – SEM of three independent experiments.
+(B) RT-qPCR analysis of Notch downstream genes Hes1, Hey1, and Hey2 in HEK293T (black bars) and N1ICD-
+293T cells (gray bars). Data represent mean – SEM of three independent experiments. (C) Representative western
+blot and quantiﬁcation by densitometry of HIF-1a to assess hypoxia induction and N1ICD in HEK293T and
+N1ICD-293T cells treated or not with AA. (D) RT-qPCR analysis of Notch downstream genes Hes1, Hey1, and
+Hey2 in HEK293T and N1ICD-293T cultured in the presence (+) or absence (2) of hypoxia (Hx) and AA. Data
+represent mean – SEM of three independent experiments. (E) Immunoprecipitation of N1ICD. HEK293T transduced
+with an N1ICD lentiviral vector (N1ICD +) cultured under normoxic or hypoxic conditions (Hx +/-) and treated or
+not with AA (+/-) were lysed and cell extracts were immunoprecipitated with an anti-N1ICD antibody, resolved
+by SDS-PAGE, and immunoblotted with anti-SUMO1 antibody. Molecular weights of protein markers are indi-
+cated at the left side of the panel in kDa. Data represent mean – SEM of three independent experiments. *P < 0.05;
+**P < 0.01, ***P < 0.001.

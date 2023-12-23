@@ -1,0 +1,17 @@
+Figure 2. Disruption of respiration increases ROS levels in association with increased reducing
+equivalents and intracellular oxygen
+(a) Relative ROS levels in the respective cells types quantified by DCF FACS of whole
+cells. SCO2 –/– cells were treated with NAC for 24 h before ROS measurement (n = 3). (b)
+Rescue of SCO2 –/– cell-colony formation by 3 mM NAC in 20% oxygen condition. Colony
+formation of SCO2 –/– cells with or without NAC was quantified (n = 4). (c) Cellular
+NADH levels in attached SCO2 +/+ and SCO2 –/– cells imaged by ultraviolet laser confocal
+microscopy (green fluorescence). Differential interference contrast (DIC) phase images
+show the respective cell densities. Scale bar, 50 μm. (d) Relative intracellular oxygen levels
+([O2]ic) were quantified using high-resolution fluorescent microscopy after transfection of
+the phosphorescent oxygen-sensitive probe IC60N. Measurements were performed in a 5%
+ambient oxygen-controlled chamber. Complex III inhibitor antimycin A (+ AA, 5 μM) was
+added to demonstrate the dependence of [O2]icon active respiration. The [O2]ic levels shown
+are relative to those in non-respiring SCO2 –/– cells in 5% oxygen-saturated medium (n =
+7). (e) Effect of ambient oxygen on ROS production in SCO2 –/– cells. Cells were
+maintained at the indicated oxygen concentration for 7–10 days before DCF FACS analysis
+(n = 3). Values shown as mean and s.e.m.; P-values determined by Student's t-test.

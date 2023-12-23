@@ -1,0 +1,10 @@
+Figure 7.
+Representative LV Pressure-Volume Relationships obtained 4 weeks after LAD occlusion.
+Slope of the regression line (end-systolic pressure volume relationship, red color) represents
+ventricular end-systolic elastance (Ees). Ees of SCF-treated mice (B) was 2-fold greater than
+control group (A). Besides, Ves and Ved of SCF treated mice were obviously less shifted
+rightward which supports the observation that LV contractility of SCF-treated group was
+significantly improved. In SCF treated mice, LV systolic (Pmax, E-max) and diastolic
+functions (Pmin, tau-W) were significantly better than the control group (C). Data are mean ±
+SEM, n = 6 in each group, * p < 0.05 vs. control. Pmax indicates maximum pressure; Pmin,
+minimum pressure; Emax, maximal elastance; Tau-W, Tau-Weiss method.

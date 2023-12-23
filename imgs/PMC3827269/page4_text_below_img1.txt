@@ -1,0 +1,9 @@
+Figure 2. Morphology and expression of pluripotency markers. A) Morphology of hypoxia (4%) and normoxia (21%) cultured colonies after 7
+days of culture for each hESC line (H9, HS360 and HS401) respectively. B–G) Flow cytometry analysis performed after 7 day culture. B) A histogram
+showing SSEA-3 positive cells in hypoxia and normoxia versus negative control P3X and gating example for positive and high positive populations. C)
+Proportion of positive cells expressing pluripotency surface antigens SSEA-3, SSEA-4, TRA-1-81, and TRA-1-60. D) Proportion of positive cells
+expressing differentiation surface antigens SSEA-1 and A2B5. E) Proportion of high positive cells expressing SSEA-3. F) Histogram of TRA-2-54
+expressing cells. G) Proportion of high positive cells expressing TRA-2-54 (alkaline phosphatase). H) Real-time PCR analysis of POU5F1 (OCT4), SOX2
+and NANOG in response to hypoxia (4%) over time (2 h, 24 h, and 7 d) compared to normoxia (21%). Data from two replicate cultures of hESC line H9.
+I) Western blot analysis of protein levels of OCT4, NANOG and SOX2 in hypoxia over time. B-ACTIN was used as a loading control.
+doi:10.1371/journal.pone.0078847.g002

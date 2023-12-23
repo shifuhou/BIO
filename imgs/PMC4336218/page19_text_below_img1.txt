@@ -1,0 +1,11 @@
+Figure 1. 2i is necessary and sufficient to confer glutamine independence
+a–f, Growth curves and representative images of ESCs grown in the absence of glutamine. 
+Growth curves of ESC-V19 cells (a) and V6.5 ESC lines (ESC-1-4) (b) cultured in 
+glutamine-free S/L or 2i/L medium. Phase images showing ESC-1 cells cultured in 
+glutamine-free 2i/L (c) or S/L/2i (e) medium for 3 days. Top, brightfield (BF); bottom, 
+alkaline phosphatase (AP) staining. Bar, 500 μm.  d, Growth curve of ESC-V19 cells in 
+glutamine-free S/L or S/L/2i medium. f, Growth curve of ESC-V19 cells cultured without 
+glutamine in two serum-free media formulations containing N2 and B27 supplements, 2i/L 
+and BMP4/L. g, Intracellular glutamate levels 8 hours after addition of medium with or 
+without glutamine (Q). Data are presented as the mean ± s.d of triplicate wells from a 
+representative experiment.

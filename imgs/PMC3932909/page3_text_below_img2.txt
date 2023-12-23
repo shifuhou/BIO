@@ -1,0 +1,19 @@
+Fig. 2. Angiogenic phenotypes in mice deficient for pVHL in hS100A8 my-
+eloid cells require HIF-1 activation. (A) Inactivation of Hif-1α in Vhl mutant
+mice (Vhl/Hif-1α mutant) suppressed erythema of Vhl single mutant mice
+(black arrowheads). (B) Antibody array analyses as in Fig. 1 for Vhl or the Vhl/
+Hif-1α mutant mice bone marrow lysates. Note that the increased Vegf in
+Vhl mutant mice is significantly reduced in Vhl/Hif-1α mutant mice (red
+arrowheads). (C) Serum VEGF measured by ELISA (n = 5 per group). (D)
+Immunostaining (Upper) and Western blots (Lower) of matrigel implanted
+in Vhl mutant mice, Vhl mutant mice treated with NSC 134754, a HIF-1
+inhibitor, or in Vhl/Hif-1α mutant mice. (Scale bar: 100 μm.) Quantification of
+CD31 area density is shown in the bar graph (n = 10 for Vhl mutant; n = 7 for
+Vhl mutant + NSC; n = 6 for Vhl/Hif-1α mutant). (E) Immunostaining of
+matrigel implanted in WT, Hif-1α mutant, Hif-2α mutant, or Hif-1α /Hif-2α
+mutant mice. Quantification of CD31 area densities in matrigel is shown in
+the bar graph (n = 7 for Vhl littermate; n = 7 for Vhl mutant; n = 6 for Hif-1α
+littermate; n = 10 for Hif-1α mutant; n = 4 for Hif-2α littermate; n = 6 for Hif-
+2α mutant; n = 5 for Hif-1α/Hif-2α littermate; n = 6 for Hif-1α/Hif-2α mutant).
+In C, D, and E, data are the mean ± SEM and *P < 0.05, **P < 0.01, and
+***P < 0.001 determined by one-way ANOVA.

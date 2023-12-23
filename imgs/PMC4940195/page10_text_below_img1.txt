@@ -1,0 +1,18 @@
+Figure 1. 
+Senescent MEFs resemble oxidant-treated human fibroblasts. (a) Replicative lifespan, 
+senescence (arrow) and spontaneous immortalization (resumed increase in cell number) is 
+shown for the average of three independent C57Bl/6 MEF cultures (±s.d. indicated by error 
+bars). (b) The percentage of labelled nuclei for a C57Bl/6 MEF culture were calculated at 
+each passage for 55 days. Three independent cultures gave similar results. (c) Either early 
+passage (PD2) or senescent (PD9) C57Bl/6 MEFs were analysed by western blotting for c-
+Fos and α-tubulin (control). Proteins (30 μg) from proliferating (lane 1), serum-deprived 
+(lanes 2, 4) or serum-stimulated (lanes 3, 5) were analysed. (d) 82-6 human fibroblasts were 
+treated with 400 μM hydrogen peroxide for 2 h. After 7 days, control and treated cells were 
+maintained in 10% FCS (lanes 1 and 4), serum-deprived (lanes 2 and 5) or serum-deprived 
+and stimulated (lanes 3 and 6). Proteins were analysed by western blotting for c-Fos and α-
+tubulin. c-Fos induction was detected 7 and 14 days after treatment with 200, 400 or 550 μM 
+hydrogen peroxide. (e) Human fibroblasts were induced to senesce by infection with 
+pLXSN-p14ARF (ref. 13) or treatment with 20 μg ml −1 bleomycin for 2 h (ref.12). After 7 
+days, control (untreated), infected (ARF) and treated (Bleo) cells were serum-deprived 
+(lanes 1, 3 and 5) or serum-stimulated (lanes 2, 4 and 6) and analysed by western blotting for 
+c-Fos and α-tubulin.

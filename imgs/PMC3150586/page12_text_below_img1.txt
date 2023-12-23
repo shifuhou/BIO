@@ -1,0 +1,10 @@
+Figure 1.
+Traditional view of HIFs in tumor progression. Tumor cells residing closer to blood vessels
+are relatively well oxygenated (red), whereas those at more distant sites become hypoxic
+(blue). Stabilization of HIF-α proteins in these cells stimulates the expression of numerous
+target genes encoding factors that mediate adaptation to the hypoxic stress. Some target
+genes are regulated specifically by HIF-1α, such as those encoding glycolytic enzymes
+ALDA and PGK, whereas others are specific targets of HIF-2α, such as those encoding
+TGF-α and cyclin D1. Most HIF target genes are regulated by both HIF-1α and HIF-2α,
+including those encoding the angiogenic cytokine VEGF and the glucose transporter GLUT1
+(Raval et al., 2005, and references therein).

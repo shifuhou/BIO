@@ -1,0 +1,11 @@
+Figure 2. 2i/L alters glucose and glutamine utilization
+a, Analysis of glucose uptake (left), glutamine uptake (center) and lactate secretion (right). 
+b, Intracellular metabolite levels. Bars, mean of n = 4 (a) or n = 3 (b) replicate wells ± s.d. 
+from representative experiments. c, Schematic of the TCA cycle including entry points for 
+glucose- and glutamine-derived carbons. Isotope tracing was performed for metabolites 
+shown in red. d,e, Fraction of each metabolite labeled by 13C derived from 
+[U-13C]glutamine (13C-gln) (d) or derived from [U-13C]glucose (13C-glc) (e) over time (0–
+12 hours, h). Averages ± s.e.m. of three independent experiments are shown. f,g, Glutamine 
+(f) and glucose (g) flux through αKG and malate pools. Averages ± s.e.m. of flux calculated 
+for three independent experiments (shown in Figs. 2d,e) are shown. *, p < 0.05; **, p < 
+0.005; ***, p < 0.0005. p values determined by unpaired two-tailed Student’s t-tests.

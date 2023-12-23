@@ -1,0 +1,9 @@
+Figure 2. Global correlation between gene expression and histone methylation in CD8 T cell subsets
+(A) The levels of gene expression were positively correlated with the levels of H3K4me3 in
+naïve and memory CD8 T cells subsets at rest.
+(B) The levels of gene expressions were negatively correlated with the levels of H3K27me3
+in naïve and memory CD8 T cells subsets at rest. Each dot in the plots (A and B) represents
+the mean value of 100 genes that were grouped based on their rank of mRNA level from the
+highest to the lowest.
+(C) The numbers of the genes with high levels of H3K4me3 or H3K27me3 in naïve and memory
+CD8 T cell subsets are shown.

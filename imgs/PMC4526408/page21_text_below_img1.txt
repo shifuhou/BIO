@@ -1,0 +1,11 @@
+Figure 3. Potential Mechanisms of L2HG Accumulation in Hypoxia
+(A) Enzymatic and cofactor requirements for L2HG metabolism. (B and C) Intracellular 
+2OG (B) and 2HG (C) in normoxia and hypoxia measured after treatment with a cell-
+permeable 2OG analogue, TFMB-2OG. (D and E) 2OG (D) and 2HG (E) in cells treated 
+with the OGDHC inhibitor KMV (20 mM) ± 0.2% oxygen. (F) Correlation between 2OG 
+and 2HG from experiments illustrated in B-E. (G) Immunoblot of MDH1 and MDH2 in 
+siRNA-treated LF. (H–J) 2OG (H), 2HG (I), and 2OG/2HG (J) in MDH knockdown cells. 
+(K) Relative changes in mRNA levels of 2HG metabolic enzymes in response to hypoxia. 
+(L) Immunoblot of LF cell lysates of proteins involved in L2HG metabolism. (M) 
+Intracellular malate determined by targeted LC-MS. (M) Cellular NADH/NAD+ determined 
+by enzymatic cycling assay. Data are mean ± SEM. See also Figure S3.

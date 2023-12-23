@@ -1,0 +1,11 @@
+FIG. 5. VHL-mediated transcription of E-cadherin is attenuated by Snail and SIP1 via the conserved E2 boxes. (A) Expression levels of
+E-cadherin, Snail, SIP1, VEGF, and GLUT-1 were measured by quantitative real-time PCR in 786-MOCK and 786-VHL cells and normalized to
+U1AsnRNP1 mRNA expression. Solid bars represent expression of the indicated mRNA in 786-MOCK cells relative to its expression in 786-VHL
+cells, which was arbitrarily set to 1.0. (B) Dual-luciferase assays were performed in U2OS cells transfected with the indicated expression plasmids.
+The ﬁreﬂy luciferase construct (E-cad prom-luc) was driven by the human E-cadherin promoter sequence (WT) or the promoter with point
+mutations in both E2 boxes (mutE2). Cytomegalovirus-driven Renilla luciferase was used as an internal transfection control, and the ﬁreﬂy
+luciferase RLUs were normalized against Renilla luciferase RLUs. Experiments and transfections were performed in triplicate with one repre-
+sentative experiment presented. Error bars represent standard deviations. (C) The experiment was performed as described in panel B with
+increasing concentrations of Snail and SIP1 individually mixed into HA-VHL transfection reactions at a ratio of 1:2, 2:2, and 4:2 (Snail or
+SIP1:HA-VHL) or equal quantities of SIP1 and Snail combined into HA-VHL transfection reactions at a ratio of 1:1 (Snail and SIP1:HA-VHL).
+Relative increases in induction (n-fold) were standardized to the E-cad prom-luc activity in the absence of exogenous VHL.

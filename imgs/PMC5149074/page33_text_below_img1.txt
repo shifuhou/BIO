@@ -1,0 +1,10 @@
+Figure 6. S-2HG alters global 5hmC and 5mC in DNA of CD8+ T-lymphocytes
+a/ 5hmC and 5mC in gDNA. n=4 mice.
+b/ 5hmC in gDNA from cells treated with S-2HG. n=4 mice.
+c/ 5mC in gDNA from cells treated with S-2HG-. n=4 mice.
+d/ CD62L expression on CD8+ T-lymphocytes 7 days after transduction with shTet2 #3.
+e/ DIP-qPCR for 5mC and 5hmC around the TSS for CD62L. A pool of n=6 mice was used. 
+Error bars denote s.e.m.
+One-way ANOVA (b and c). Error bars denote s.d. and each dot in b and c represents a 
+mouse. ns= non-significant, *p<0.05, ***p<0.001. gMFI=geometric mean fluorescence 
+intensity.

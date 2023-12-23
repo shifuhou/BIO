@@ -1,0 +1,5 @@
+Figure 3 HIF-1a upregulation in response to low oxygen tension. Exposure of MSC to hypoxia resulted in a more than 3-fold increase of
+the HIF-1a expression as detected by semiquantitative RT-PCR. The relative index for HIF-1a was normalized against GAPDH relative intensity.
+Effect of reduced oxygen tension on MSC proliferation kinetics (A). Cell proliferation was measured by an increase in OD using the MTS assay
+after an incubation period of 7 days under 21% O2, 5% O2 (B), 3% O2 (C), and 1% O2 (D), respectively. Values indicate the mean and standard
+deviation for 3 cultures of each condition. Significance for all analysis was set at *** p < 0,001, ** p < 0,01, * p < 0,05 using student’s t-test.

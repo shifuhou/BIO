@@ -1,0 +1,34 @@
+HSCs in the Bone Marrow Are Positive for a Hypoxic Cell Marker. We
+and others have previously shown that bone marrow SP cells, as
+defined by their ability to efficiently efflux the Ho dye, are also
+highly enriched for HSC activity (20–24). In this case Ho staining
+is used in a very different manner to the in vivo dye perfusion study
+described above as the cells are exposed ex vivo to a constant
+concentration of Ho for a period of 90 min to allow for active dye
+exclusion. To detect hypoxic cells in SP and non-SP cells derived
+from bone marrow, we used the reductive 2-nitroimidazole com-
+pound pimonidazole (PIM) (a chemical marker for hypoxia) which,
+when administered in vivo, forms stable adducts in hypoxic regions
+that can then be subsequently identified with an anti-PIM antibody.
+We confirmed that this marker is indeed selective for hypoxic bone
+marrow cells by the in vitro treatment of isolated SP and non-SP cells
+with PIM (100 (cid:1)M) for 5 h. Positive staining with the anti-PIM
+antibody was observed only under conditions of exposure to anoxia
+(95% N2 with 5% CO2) (see SI Fig. 7) and therefore was not related
+to hypoxia-independent differences in PIM adduct formation.
+Because thymus has been reported to be an hypoxic organ (25), we
+used thymus as a positive control in tandem with bone marrow
+samples for the in vivo detection of hypoxia. PIM (120 mg/kg) was
+injected i.p. and bone marrow and thymocytes were harvested after
+3 h. Bone marrow cells were stained with Ho in vitro and SP and
+non-SP cells were isolated by fluorescence-assisted cell sorting
+(FACS). Thymocytes and sorted bone marrow populations were
+then stained with anti-PIM antibody and analyzed for PIM binding
+by flow cytometry. PIM binding was compared between saline-
+injected controls and PIM-injected samples. As shown in SI Figs. 5
+and 8A, the majority of thymocytes are both hypoperfused (given
+the low intensity of Ho staining after dye injection) and are hypoxic
+(given positive staining with the anti-PIM antibody). Microscopic
+evaluation of thymic tissue showed PIM binding in areas of low Ho
+staining (see SI Fig. 8B). These results confirm the overall hypoxic
+state of thymic tissue as shown previously (25).

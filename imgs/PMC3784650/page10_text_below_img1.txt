@@ -1,0 +1,12 @@
+Figure 2.
+Hypoxia induces a mesenchymal phenotype in primary renal epithelial cells. Primary cells
+were lineage-tagged with a lacZ reporter using Cre-loxP mediated recombination and de
+novo expression of fibroblast marker FSp1 was monitored by immunoflourescence. Hypoxia
+(5 days, 1% O2) increased the percentage of FSp1 expressing cells. (A–C) Shown is
+immunoflourescence staining for lacZ in red (A) and for FSp1 in green (B). Lineage-tagged
+epithelial cells, which stain for both lacZ and FSp1 and fluoresce in yellow are shown in
+(C). De novo expression of FSp1 indicates that these cells have undergone transition to a
+mesenchymal phenotype. (D and E) LacZ and FSp1 immunofluorescence stain of primary
+cells exposed to normoxia (D) and hypoxia (E). The percentage of epithelial cells that
+express FSp1 de novo increases under hypoxia (yellow fluorescence) as illustrated in (E).
+For technical details of this analysis see Higgins et al.,10 magnification ×400.

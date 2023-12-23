@@ -1,0 +1,9 @@
+Figure 1.
+(A) Population doubling of MSCs up to 52 days by actual enumeration (*<0.05 to 20%O2).
+Cell counts were expressed as a population doubling of the original cell number seeded in
+each well. (B) The level of p16INK4A mRNA transcript in day 52 by quantitative RT-PCR.
+(*p<0.05 to 20%O2 in day 0). The level of p16INK4A transcript in day 0 was normalized to
+1.0. (C and D) Effects of hypoxic exposure on primary MSC colony formation. 500 cells
+were seeded in 10 cm dish and the number of formed colonies was counted in day 14.
+(*p<0.05 to 20%O2 condition in D). In (C), shown are representative images of MSC colony
+formation under 1%O2, 20%O2, and 20%O2 after pretreatment with 1%O2 for 4 days.

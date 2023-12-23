@@ -1,0 +1,8 @@
+Figure 4. Induction of MYC in hypoxic culture. A) The expression of MYC in the exon-array data. Fold change (FC) compared to normoxic
+culture, *** = p,0.005. B) RT-PCR validation of the MYC expression in hESCs, *** = p,0.001. Data from two replicate cultures of hESC line H9. C)
+Western blot analysis of MYC, pMYC-Ser62 and HIF1a in hESC line HS360. D) Western blot analysis of HIF1a, HIF2a, MYC and pMYC-Ser62 in hESC lines
+H7 and H9 (individual experiments). E) Western blot analysis of HIF2a and MYC in hypoxia (4%) and F) in chemically induced (CoCl2) hypoxic
+conditions in embryocarcinoma cell line 2102Ep. G) Transcripts identified to change in response in to hypoxia in hESCs (exon array data) and reported
+to have MYC binding site in hESCs [23]. * = transcripts shared with the data presented on Figure 3C. H) Western blot analysis of HIF1a, HIF2a and MYC
+after small interfering (si) silencing (NT = negative control siRNA). Cells treated 48 h with siRNA before exposure to hypoxia for 2 h.
+doi:10.1371/journal.pone.0078847.g004

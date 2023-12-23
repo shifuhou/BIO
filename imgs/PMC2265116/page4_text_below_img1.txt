@@ -1,0 +1,22 @@
+Fig. 4. Notch ICD induces nuclear accumulation of FIH-1. (A) 293A cells were
+transfected with 0.4 (cid:2)g of YFP-fused FIH-1 alone or together with 0.6 (cid:2)g of
+plasmids encoding wild-type Notch ICD (WT) or ICD N1945A/N2012A (NNAA).
+Cells were analyzed by confocal microscopy, and intracellular distribution was
+categorized as described in ref. 17. Nuclear compartment was identiﬁed by
+DAPI staining. (B) Notch affects cellular localization of FIH-1 in vivo. Chick
+neural tubes were electroporated with FIH-1 alone or together with wild-type
+or NNAA mutant Notch1 ICD. Cellular localization of FIH-1 was determined by
+immunohistochemistry ((cid:1)-FIH-1). The zoom panels on each column corre-
+spond to magniﬁcation of the dashed yellow boxes. (C) Levels of FIH-1 mRNA
+in cells transfected with control siRNA and FIH-1-speciﬁc siRNA and analyzed
+by quantitative RT-PCR. (D) siRNA targeting FIH-1 produces a modest effect on
+Notch-dependent luciferase activity. 293T cells stably expressing full-length
+Notch and plated on IgG (ligand (cid:8)) or Jagged-1-coated plates (ligand (cid:7)) were
+ﬁrst transfected with 100 nM negative control or a FIH-1-speciﬁc siRNA and
+24 h later were transfected again with 0.5 (cid:2)g of 12(cid:6)CSL-Luc plasmid. (E)
+Inhibition of FIH-1 expression by siRNA mediates derepression of HIF-1(cid:1)CAD
+function. Twenty-four hours after transfection with siRNAs, a GAL4-driven
+luciferase plasmid (0.5 (cid:2)g) and an expression plasmid encoding GAL4-fused
+HIF-1(cid:1) C-TAD (50 ng) were transfected. Data are presented as luciferase
+activity relative to cells transfected with reporter gene alone. Values represent
+the mean (cid:2) SE of three independent experiments performed in duplicate.

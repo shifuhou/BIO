@@ -1,180 +1,252 @@
 {
+    "PubmedBookArticle": [],
     "PubmedArticle": [
         {
             "MedlineCitation": {
-                "OtherID": [],
-                "KeywordList": [
-                    [
-                        "cobalt chloride",
-                        "hypoxia",
-                        "mTOR",
-                        "mesenchymal stem cells",
-                        "metabolism"
-                    ]
-                ],
                 "OtherAbstract": [],
+                "GeneralNote": [],
+                "OtherID": [],
+                "SpaceFlightMission": [],
+                "KeywordList": [],
                 "CitationSubset": [
                     "IM"
                 ],
-                "SpaceFlightMission": [],
-                "GeneralNote": [],
-                "PMID": "35409106",
+                "PMID": "11007896",
                 "DateCompleted": {
-                    "Year": "2022",
-                    "Month": "04",
-                    "Day": "13"
+                    "Year": "2001",
+                    "Month": "02",
+                    "Day": "22"
                 },
                 "DateRevised": {
                     "Year": "2023",
-                    "Month": "03",
-                    "Day": "08"
+                    "Month": "11",
+                    "Day": "20"
                 },
                 "Article": {
-                    "ELocationID": [
-                        "3749",
-                        "10.3390/ijms23073749"
-                    ],
-                    "ArticleDate": [
-                        {
-                            "Year": "2022",
-                            "Month": "03",
-                            "Day": "29"
-                        }
-                    ],
+                    "ELocationID": [],
                     "Language": [
                         "eng"
                     ],
+                    "ArticleDate": [],
                     "Journal": {
-                        "ISSN": "1422-0067",
+                        "ISSN": "1529-2401",
                         "JournalIssue": {
-                            "Volume": "23",
-                            "Issue": "7",
+                            "Volume": "20",
+                            "Issue": "19",
                             "PubDate": {
-                                "Year": "2022",
-                                "Month": "Mar",
-                                "Day": "29"
+                                "Year": "2000",
+                                "Month": "Oct",
+                                "Day": "01"
                             }
                         },
-                        "Title": "International journal of molecular sciences",
-                        "ISOAbbreviation": "Int J Mol Sci"
+                        "Title": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+                        "ISOAbbreviation": "J Neurosci"
                     },
-                    "ArticleTitle": "Differential Oxygen Exposure Modulates Mesenchymal Stem Cell Metabolism and Proliferation through mTOR Signaling.",
+                    "ArticleTitle": "Enhanced proliferation, survival, and dopaminergic differentiation of CNS precursors in lowered oxygen.",
+                    "Pagination": {
+                        "StartPage": "7377",
+                        "EndPage": "7383",
+                        "MedlinePgn": "7377-83"
+                    },
                     "Abstract": {
                         "AbstractText": [
-                            "Mesenchymal stem cells reside under precise hypoxic conditions that are paramount in determining cell fate and behavior (metabolism, proliferation, differentiation, etc.). In this work, we show that different oxygen tensions promote a distinct proliferative response and affect the biosynthetic demand and global metabolic profile of umbilical cord-mesenchymal stem cells (UC-MSCs). Using both gas-based strategies and CoCl2 as a substitute for the costly hypoxic chambers, we found that specific oxygen tensions influence the fate of UC-MSCs differently. While 5% O2 potentiates proliferation, stimulates biosynthetic pathways, and promotes a global hypermetabolic profile, exposure to <1% O2 contributes to a quiescent-like cell state that relies heavily on anaerobic glycolysis. We show that using CoCl2 as a hypoxia substitute of moderate hypoxia has distinct metabolic effects, when compared with gas-based strategies. The present study also highlights that, while severe hypoxia regulates global translation via mTORC1 modulation, its effects on survival-related mechanisms are mainly modulated through mTORC2. Therefore, the experimental conditions used in this study establish a robust and reliable hypoxia model for UC-MSCs, providing relevant insights into how stem cells are influenced by their physiological environment, and how different strategies of modulating hypoxia may influence experimental outcomes."
+                            "Standard cell culture systems impose environmental oxygen (O(2)) levels of 20%, whereas actual tissue O(2) levels in both developing and adult brain are an order of magnitude lower. To address whether proliferation and differentiation of CNS precursors in vitro are influenced by the O(2) environment, we analyzed embryonic day 12 rat mesencephalic precursor cells in traditional cultures with 20% O(2) and in lowered O(2) (3 +/- 2%). Proliferation was promoted and apoptosis was reduced when cells were grown in lowered O(2), yielding greater numbers of precursors. The differentiation of precursor cells into neurons with specific neurotransmitter phenotypes was also significantly altered. The percentage of neurons of dopaminergic phenotype increased to 56% in lowered O(2) compared with 18% in 20% O(2). Together, the increases in total cell number and percentage of dopaminergic neurons resulted in a ninefold net increase in dopamine neuron yield. Differential gene expression analysis revealed more abundant messages for FGF8, engrailed-1, and erythropoietin in lowered O(2). Erythropoietin supplementation of 20% O(2) cultures partially mimicked increased dopaminergic differentiation characteristic of CNS precursors cultured in lowered O(2). These data demonstrate increased proliferation, reduced cell death, and enhanced dopamine neuron generation in lowered O(2), making this method an important advance in the ex vivo generation of specific neurons for brain repair."
                         ]
                     },
                     "AuthorList": [
                         {
-                            "Identifier": [
-                                "0000-0002-0381-4101"
-                            ],
                             "AffiliationInfo": [
                                 {
                                     "Identifier": [],
-                                    "Affiliation": "CNC-Centre for Neuroscience and Cell Biology, CIBB-Centre for Innovative Biomedicine and Biotechnology, University of Coimbra, Azinhaga de Santa Comba, Polo 3, 3000-548 Coimbra, Portugal."
+                                    "Affiliation": "Laboratory of Molecular Biology, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, Maryland 20892, USA."
                                 }
                             ],
-                            "LastName": "Moniz",
-                            "ForeName": "In\u00eas",
-                            "Initials": "I"
+                            "Identifier": [],
+                            "LastName": "Studer",
+                            "ForeName": "L",
+                            "Initials": "L"
                         },
                         {
-                            "Identifier": [
-                                "0000-0002-1172-4018"
-                            ],
-                            "AffiliationInfo": [
-                                {
-                                    "Identifier": [],
-                                    "Affiliation": "CNC-Centre for Neuroscience and Cell Biology, CIBB-Centre for Innovative Biomedicine and Biotechnology, University of Coimbra, Azinhaga de Santa Comba, Polo 3, 3000-548 Coimbra, Portugal."
-                                },
-                                {
-                                    "Identifier": [],
-                                    "Affiliation": "Department of Life Sciences, University of Coimbra, Cal\u00e7ada Martim de Freitas, 3000-456 Coimbra, Portugal."
-                                }
-                            ],
-                            "LastName": "Ramalho-Santos",
-                            "ForeName": "Jo\u00e3o",
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Csete",
+                            "ForeName": "M",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Lee",
+                            "ForeName": "S H",
+                            "Initials": "SH"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Kabbani",
+                            "ForeName": "N",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Walikonis",
+                            "ForeName": "J",
                             "Initials": "J"
                         },
                         {
-                            "Identifier": [
-                                "0000-0002-0415-3560"
-                            ],
-                            "AffiliationInfo": [
-                                {
-                                    "Identifier": [],
-                                    "Affiliation": "CNC-Centre for Neuroscience and Cell Biology, CIBB-Centre for Innovative Biomedicine and Biotechnology, University of Coimbra, Azinhaga de Santa Comba, Polo 3, 3000-548 Coimbra, Portugal."
-                                }
-                            ],
-                            "LastName": "Branco",
-                            "ForeName": "Ana F",
-                            "Initials": "AF"
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Wold",
+                            "ForeName": "B",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "McKay",
+                            "ForeName": "R",
+                            "Initials": "R"
                         }
                     ],
                     "GrantList": [
                         {
-                            "GrantID": "Stem@REST",
-                            "Agency": "Funda\u00e7\u00e3o para a Ci\u00eancia e Tecnologia",
-                            "Country": ""
+                            "GrantID": "AR40780-8",
+                            "Acronym": "AR",
+                            "Agency": "NIAMS NIH HHS",
+                            "Country": "United States"
+                        },
+                        {
+                            "GrantID": "AR42671-05",
+                            "Acronym": "AR",
+                            "Agency": "NIAMS NIH HHS",
+                            "Country": "United States"
                         }
                     ],
                     "PublicationTypeList": [
-                        "Journal Article"
+                        "Journal Article",
+                        "Research Support, U.S. Gov't, Non-P.H.S.",
+                        "Research Support, U.S. Gov't, P.H.S."
                     ]
                 },
                 "MedlineJournalInfo": {
-                    "Country": "Switzerland",
-                    "MedlineTA": "Int J Mol Sci",
-                    "NlmUniqueID": "101092791",
-                    "ISSNLinking": "1422-0067"
+                    "Country": "United States",
+                    "MedlineTA": "J Neurosci",
+                    "NlmUniqueID": "8102140",
+                    "ISSNLinking": "0270-6474"
                 },
                 "ChemicalList": [
                     {
-                        "RegistryNumber": "EC 2.7.1.1",
-                        "NameOfSubstance": "MTOR protein, human"
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Antigens, Differentiation"
                     },
                     {
-                        "RegistryNumber": "EC 2.7.11.1",
-                        "NameOfSubstance": "TOR Serine-Threonine Kinases"
+                        "RegistryNumber": "103107-01-3",
+                        "NameOfSubstance": "Fibroblast Growth Factor 2"
+                    },
+                    {
+                        "RegistryNumber": "11096-26-7",
+                        "NameOfSubstance": "Erythropoietin"
+                    },
+                    {
+                        "RegistryNumber": "G34N38R2N1",
+                        "NameOfSubstance": "Bromodeoxyuridine"
                     },
                     {
                         "RegistryNumber": "S88TT14065",
                         "NameOfSubstance": "Oxygen"
+                    },
+                    {
+                        "RegistryNumber": "VTD58H1Z2X",
+                        "NameOfSubstance": "Dopamine"
                     }
                 ],
                 "MeshHeadingList": [
                     {
                         "QualifierName": [],
+                        "DescriptorName": "Animals"
+                    },
+                    {
+                        "QualifierName": [
+                            "metabolism"
+                        ],
+                        "DescriptorName": "Antigens, Differentiation"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug effects",
+                            "physiology"
+                        ],
+                        "DescriptorName": "Apoptosis"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Bromodeoxyuridine"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug effects",
+                            "physiology"
+                        ],
                         "DescriptorName": "Cell Differentiation"
                     },
                     {
-                        "QualifierName": [],
+                        "QualifierName": [
+                            "drug effects",
+                            "physiology"
+                        ],
+                        "DescriptorName": "Cell Division"
+                    },
+                    {
+                        "QualifierName": [
+                            "physiology"
+                        ],
                         "DescriptorName": "Cell Hypoxia"
                     },
                     {
-                        "QualifierName": [],
-                        "DescriptorName": "Cell Proliferation"
+                        "QualifierName": [
+                            "physiology"
+                        ],
+                        "DescriptorName": "Cell Lineage"
                     },
                     {
-                        "QualifierName": [],
-                        "DescriptorName": "Cells, Cultured"
+                        "QualifierName": [
+                            "drug effects",
+                            "physiology"
+                        ],
+                        "DescriptorName": "Cell Survival"
                     },
                     {
-                        "QualifierName": [],
-                        "DescriptorName": "Humans"
+                        "QualifierName": [
+                            "cytology",
+                            "drug effects",
+                            "metabolism"
+                        ],
+                        "DescriptorName": "Central Nervous System"
                     },
                     {
                         "QualifierName": [
                             "metabolism"
                         ],
-                        "DescriptorName": "Hypoxia"
+                        "DescriptorName": "Dopamine"
                     },
                     {
                         "QualifierName": [
-                            "metabolism"
+                            "metabolism",
+                            "pharmacology"
                         ],
-                        "DescriptorName": "Mesenchymal Stem Cells"
+                        "DescriptorName": "Erythropoietin"
+                    },
+                    {
+                        "QualifierName": [
+                            "metabolism",
+                            "pharmacology"
+                        ],
+                        "DescriptorName": "Fibroblast Growth Factor 2"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "In Situ Nick-End Labeling"
                     },
                     {
                         "QualifierName": [
@@ -183,349 +255,345 @@
                         "DescriptorName": "Oxygen"
                     },
                     {
+                        "QualifierName": [],
+                        "DescriptorName": "Rats"
+                    },
+                    {
                         "QualifierName": [
+                            "cytology",
+                            "drug effects",
                             "metabolism"
                         ],
-                        "DescriptorName": "TOR Serine-Threonine Kinases"
+                        "DescriptorName": "Stem Cells"
                     }
-                ],
-                "CoiStatement": "The authors declare no conflict of interest exists."
+                ]
             },
             "PubmedData": {
                 "ReferenceList": [
                     {
+                        "ReferenceList": [],
                         "Reference": [
                             {
-                                "Citation": "Han Y., Li X., Zhang Y., Han Y., Chang F., Ding J. Mesenchymal Stem Cells for Regenerative Medicine. Cells. 2019;8:886. doi: 10.3390/cells8080886.",
+                                "Citation": "Bany-Mohammed FM, Slivka S, Hallman M. Recombinant human erythropoietin: possible role as an antioxidant in premature rabbits. Pediatr Res. 1996;40:381\u2013387.",
                                 "ArticleIdList": [
-                                    "10.3390/cells8080886",
-                                    "PMC6721852",
-                                    "31412678"
+                                    "8865272"
                                 ]
                             },
                             {
-                                "Citation": "Marino L., Castaldi M.A., Rosamilio R., Ragni E., Vitolo R., Fulgione C., Castaldi S.G., Serio B., Bianco R., Guida M., et al. Mesenchymal Stem Cells from the Wharton\u2019s Jelly of the Human Umbilical Cord: Biological Properties and Therapeutic Potential. Int. J. Stem Cells. 2019;12:218\u2013226. doi: 10.15283/ijsc18034.",
+                                "Citation": "Colton DA, Pagan F, Snell J, Colton JS, Cummins A, Gilbert DL. Protection from oxidation enhances the survival of cultured mesencephalic neurons. Exp Neurol. 1995;132:54\u201361.",
                                 "ArticleIdList": [
-                                    "10.15283/ijsc18034",
-                                    "PMC6657936",
-                                    "31022994"
+                                    "7720826"
                                 ]
                             },
                             {
-                                "Citation": "Galipeau J., Sens\u00e9b\u00e9 L. Mesenchymal Stromal Cells: Clinical Challenges and Therapeutic Opportunities. Cell Stem Cell. 2018;22:824\u2013833. doi: 10.1016/j.stem.2018.05.004.",
+                                "Citation": "Czyzyk-Krzeska MF, Furnari BA, Lawson EE, Millhorn DE. Hypoxia increases rate of transcription and stability of tyrosine hydroxylase mRNA in pheochromocytoma (PC12) cells. J Biol Chem. 1994;269:760\u2013764.",
                                 "ArticleIdList": [
-                                    "10.1016/j.stem.2018.05.004",
-                                    "PMC6434696",
-                                    "29859173"
+                                    "7903970"
                                 ]
                             },
                             {
-                                "Citation": "Carreau A., Hafny-Rahbi B.E., Matejuk A., Grillon C., Kieda C. Why Is the Partial Oxygen Pressure of Human Tissues a Crucial Parameter? Small Molecules and Hypoxia. J. Cell. Mol. Med. 2011;15:1239\u20131253. doi: 10.1111/j.1582-4934.2011.01258.x.",
+                                "Citation": "Danelian PS, McMahon AP. Engrailed-1 as a target of the Wnt-1 signalling pathway in vertebrate midbrain development. Nature. 1996;383:332\u2013334.",
                                 "ArticleIdList": [
-                                    "10.1111/j.1582-4934.2011.01258.x",
-                                    "PMC4373326",
-                                    "21251211"
+                                    "8848044"
                                 ]
                             },
                             {
-                                "Citation": "Lee S.-H., Golinska M., Griffiths J.R. HIF-1-Independent Mechanisms Regulating Metabolic Adaptation in Hypoxic Cancer Cells. Cells. 2021;10:2371. doi: 10.3390/cells10092371.",
+                                "Citation": "Echelard Y, Epstein DJ, St-Jacques B, Shen L, Mahler J, McMahon JA, McMahon AP. Sonic hedgehog, a member of a family of putative signaling molecules, is implicated in the regulation of CNS polarity. Cell. 1993;75:1417\u20131430.",
                                 "ArticleIdList": [
-                                    "10.3390/cells10092371",
-                                    "PMC8472468",
-                                    "34572020"
+                                    "7916661"
                                 ]
                             },
                             {
-                                "Citation": "Drela K., Sarnowska A., Siedlecka P., Szablowska-Gadomska I., Wielgos M., Jurga M., Lukomska B., Domanska-Janik K. Low Oxygen Atmosphere Facilitates Proliferation and Maintains Undifferentiated State of Umbilical Cord Mesenchymal Stem Cells in an Hypoxia Inducible Factor-Dependent Manner. Cytotherapy. 2014;16:881\u2013892. doi: 10.1016/j.jcyt.2014.02.009.",
+                                "Citation": "Ericson J, Muhr J, Placzek M, Lints T, Jessell TM, Edlund T. Sonic hedgehog induces the differentiation of ventral forebrain neurons: a common signal for ventral patterning within the neural tube. Cell. 1995;81:747\u2013756.",
                                 "ArticleIdList": [
-                                    "10.1016/j.jcyt.2014.02.009",
-                                    "24726658"
+                                    "7774016"
                                 ]
                             },
                             {
-                                "Citation": "Obradovic H., Krstic J., Trivanovic D., Mojsilovic S., Okic I., Kukolj T., Ilic V., Jaukovic A., Terzic M., Bugarski D. Improving Stemness and Functional Features of Mesenchymal Stem Cells from Wharton\u2019s Jelly of a Human Umbilical Cord by Mimicking the Native, Low Oxygen Stem Cell Niche. Placenta. 2019;82:25\u201334. doi: 10.1016/j.placenta.2019.05.005.",
+                                "Citation": "Freeman TB, Vawter DE, Leaverton PE, Godbold JH, Hauser RA, Goetz CG, Olanow CW. Use of placebo surgery in controlled trials of a cellular-based therapy for Parkinson's disease. N Engl J Med. 2000;341:988\u2013992.",
                                 "ArticleIdList": [
-                                    "10.1016/j.placenta.2019.05.005",
-                                    "31174623"
+                                    "10498497"
                                 ]
                             },
                             {
-                                "Citation": "Lee J.H., Yoon Y.M., Lee S.H. Hypoxic Preconditioning Promotes the Bioactivities of Mesenchymal Stem Cells via the HIF-1\u03b1-GRP78-Akt Axis. Int. J. Mol. Sci. 2017;18:1320. doi: 10.3390/ijms18061320.",
+                                "Citation": "Gemel J, Jacobsen C, MacArthur CA. Fibroblast growth factor-8 expression is regulated by intronic engrailed and Pbx1-binding sites. J Biol Chem. 1999;274:6020\u20136026.",
                                 "ArticleIdList": [
-                                    "10.3390/ijms18061320",
-                                    "PMC5486141",
-                                    "28635661"
+                                    "10026229"
                                 ]
                             },
                             {
-                                "Citation": "Park S.E., Kim H., Kwon S., Choi S., Oh S., Ryu G.H., Jeon H.B., Chang J.W. Pressure Stimuli Improve the Proliferation of Wharton\u2019s Jelly-Derived Mesenchymal Stem Cells under Hypoxic Culture Conditions. Int. J. Mol. Sci. 2020;21:7092. doi: 10.3390/ijms21197092.",
+                                "Citation": "Goda F, O'Hara JA, Liu KJ, Rhodes ES, Dunn JF, Swartz HJ. Comparisons of measurements of pO2 in tissue in vivo by EPR oximetry and microelectrodes. Adv Exp Med Biol. 1997;411:543\u2013549.",
                                 "ArticleIdList": [
-                                    "10.3390/ijms21197092",
-                                    "PMC7583852",
-                                    "32993025"
+                                    "9269471"
                                 ]
                             },
                             {
-                                "Citation": "Nekanti U., Dastidar S., Venugopal P., Totey S., Ta M. Increased Proliferation and Analysis of Differential Gene Expression in Human Wharton\u2019s Jelly-Derived Mesenchymal Stromal Cells under Hypoxia. Int. J. Biol. Sci. 2010;6:499\u2013512. doi: 10.7150/ijbs.6.499.",
+                                "Citation": "Gross J, Ungethum U, Andreeva N, Heldt J, Gao J, Marschhausen G, Altmann T, Muller I, Husemann B, Andersson K. Hypoxia during early developmental period induces long-term changes in the dopamine content and release in a mesencephalic cell culture. Neuroscience. 1999;92:699\u2013704.",
                                 "ArticleIdList": [
-                                    "10.7150/ijbs.6.499",
-                                    "PMC2945278",
-                                    "20877435"
+                                    "10408618"
                                 ]
                             },
                             {
-                                "Citation": "Zhang B., Ye H., Yang A. Mathematical Modelling of Interacting Mechanisms for Hypoxia Mediated Cell Cycle Commitment for Mesenchymal Stromal Cells. BMC Syst. Biol. 2018;12:35. doi: 10.1186/s12918-018-0560-3.",
+                                "Citation": "Gundersen HJG, Bendtsen TF, Korbo L, Marcussen N, Moller A, Nielsen K, Nyengaard JR, Pakkenberg B, Soerensen FB, Vesterby A, West MJ. Some new, simple and efficient stereological methods and their use in pathological research and diagnosis. APMIS. 1988;96:379\u2013394.",
                                 "ArticleIdList": [
-                                    "10.1186/s12918-018-0560-3",
-                                    "PMC5879778",
-                                    "29606139"
+                                    "3288247"
                                 ]
                             },
                             {
-                                "Citation": "Hussein A.M., Wang Y., Mathieu J., Margaretha L., Song C., Jones D.C., Cavanaugh C., Miklas J.W., Mahen E., Showalter M.R., et al. Metabolic Control over MTOR-Dependent Diapause-like State. Dev. Cell. 2020;52:236\u2013250.e7. doi: 10.1016/j.devcel.2019.12.018.",
+                                "Citation": "Guyton AC, Hall JE. Textbook of medical physiology. Saunders; Philadelphia: 1996."
+                            },
+                            {
+                                "Citation": "Hynes M, Rosenthal A. Specification of dopaminergic and serotonergic neurons in the vertebrate CNS. Curr Opin Neurobiol. 1999;9:26\u201336.",
                                 "ArticleIdList": [
-                                    "10.1016/j.devcel.2019.12.018",
-                                    "PMC7204393",
-                                    "31991105"
+                                    "10072377"
                                 ]
                             },
                             {
-                                "Citation": "Fenelon J., Lef\u00e8vre P., Banerjee A., Murphy B. Regulation of Diapause in Carnivores. Reprod. Domest. Anim. 2017;52:12\u201317. doi: 10.1111/rda.12835.",
+                                "Citation": "Hynes M, Poulsen K, Tessier-Lavigne M, Rosenthal A. Control of neuronal diversity by the floor plate: contact-mediated induction of midbrain dopaminergic neurons. Cell. 1995;80:95\u2013101.",
                                 "ArticleIdList": [
-                                    "10.1111/rda.12835",
-                                    "28025841"
+                                    "7813022"
                                 ]
                             },
                             {
-                                "Citation": "T\u00fcmpel S., Rudolph K.L. Quiescence: Good and Bad of Stem Cell Aging. Trends Cell Biol. 2019;29:672\u2013685. doi: 10.1016/j.tcb.2019.05.002.",
+                                "Citation": "Johe KK, Hazel TG, Muller T, Dugich-Djordjevic MM, McKay RD. Single factors direct the differentiation of stem cells from the fetal and adult central nervous system. Genes Dev. 1996;10:3129\u20133140.",
                                 "ArticleIdList": [
-                                    "10.1016/j.tcb.2019.05.002",
-                                    "31248787"
+                                    "8985182"
                                 ]
                             },
                             {
-                                "Citation": "Laplante M., Sabatini D.M. MTOR Signaling at a Glance.  [(accessed on 18 March 2022)];J. Cell Sci. 2009 122:3589\u20133594. doi: 10.1242/jcs.051011. Available online:  https://journals.biologists.com/jcs/article/122/20/3589/30940/mTOR-signaling-at-a-glance.",
+                                "Citation": "Joyner AL. Engrailed, Wnt, and Pax genes regulate midbrain-hindbrain development. Trends Genet. 1996;12:15\u201320.",
                                 "ArticleIdList": [
-                                    "10.1242/jcs.051011",
-                                    "PMC2758797",
-                                    "19812304"
+                                    "8741855"
                                 ]
                             },
                             {
-                                "Citation": "Correia B., Sousa M.I., Ramalho-Santos J. The MTOR Pathway in Reproduction: From Gonadal Function to Developmental Coordination. Reproduction. 2020;159:R173\u2013R188. doi: 10.1530/REP-19-0057.",
+                                "Citation": "Juul SE, Yachnis AT, Rojiani AM, Christensen RD. Immunohistochemical localization of erythropoietin and its receptor in the developing human brain. Pediatr Dev Pathol. 1999;2:148\u2013158.",
                                 "ArticleIdList": [
-                                    "10.1530/REP-19-0057",
-                                    "31786539"
+                                    "9949221"
                                 ]
                             },
                             {
-                                "Citation": "Coller H.A. The Paradox of Metabolism in Quiescent Stem Cells. FEBS Lett. 2019;593:2817\u20132839. doi: 10.1002/1873-3468.13608.",
+                                "Citation": "Koos BJ, Power GG. Predict fetal brain PO2 during hypoxaemia and anemia in sheep. J Dev Physiol. 1987;9:517\u2013526.",
                                 "ArticleIdList": [
-                                    "10.1002/1873-3468.13608",
-                                    "PMC7034665",
-                                    "31531979"
+                                    "3443723"
                                 ]
                             },
                             {
-                                "Citation": "Sousa M.I., Correia B., Rodrigues A.S., Ramalho-Santos J. Metabolic Characterization of a Paused-like Pluripotent State. Biochim. Biophys. Acta (BBA)\u2014Gen. Subj. 2020;1864:129612. doi: 10.1016/j.bbagen.2020.129612.",
+                                "Citation": "Lendahl U, Zimmerman LB, McKay RD. CNS stem cells express a new class of intermediate filament protein. Cell. 1990;60:585\u2013595.",
                                 "ArticleIdList": [
-                                    "10.1016/j.bbagen.2020.129612",
-                                    "32272203"
+                                    "1689217"
                                 ]
                             },
                             {
-                                "Citation": "Ferro F., Spelat R., Shaw G., Duffy N., Islam M.N., O\u2019Shea P.M., O\u2019Toole D., Howard L., Murphy J.M. Survival/Adaptation of Bone Marrow-Derived Mesenchymal Stem Cells After Long-Term Starvation Through Selective Processes. Stem Cells. 2019;37:813\u2013827. doi: 10.1002/stem.2998.",
+                                "Citation": "Liu KJ, Hoopes PJ, Rolett EL, Beerle BJ, Azzawi A, Goda F, Dunn JF, Swartz HM. Effect of anesthesia on cerebral tissue oxygen and cardiopulmonary parameters in rats. Adv Exp Med Biol. 1997;411:33\u201339.",
                                 "ArticleIdList": [
-                                    "10.1002/stem.2998",
-                                    "30835892"
+                                    "9269409"
                                 ]
                             },
                             {
-                                "Citation": "Bhandi S., Al Kahtani A., Mashyakhy M., Alsofi L., Maganur P.C., Vishwanathaiah S., Testarelli L., Del Giudice A., Mehta D., Vyas N., et al. Modulation of the Dental Pulp Stem Cell Secretory Profile by Hypoxia Induction Using Cobalt Chloride. J. Pers. Med. 2021;11:247. doi: 10.3390/jpm11040247.",
+                                "Citation": "Masuda S, Nagao M, Takahata K, Konishi Y, Gallyas F, Jr, Tabira T, Sasaki R. Functional erythropoietin receptors of cells with neural characteristics: comparison with receptor properties of erythroid cells. J Biol Chem. 1993;268:11208\u201311216.",
                                 "ArticleIdList": [
-                                    "10.3390/jpm11040247",
-                                    "PMC8066657",
-                                    "33808091"
+                                    "7684373"
                                 ]
                             },
                             {
-                                "Citation": "Valcourt J., Lemons J., Haley E., Kojima M., Demuren O., Coller H.A. Staying Alive: Metabolic adaptations to quiescence. Cell Cycle. 2012;11:1680\u20131696. doi: 10.4161/cc.19879.",
+                                "Citation": "Max SR, Bossio A, Iacovitti L. Co-expression of tyrosine hydroxylase and glutamic acid decarboxylase in dopamine differentiation factor-treated striatal neurons in culture. Dev Brain Res. 1996;91:140\u2013142.",
                                 "ArticleIdList": [
-                                    "10.4161/cc.19879",
-                                    "PMC3372394",
-                                    "22510571"
+                                    "8821486"
                                 ]
                             },
                             {
-                                "Citation": "Sengupta S., Peterson T.R., Sabatini D.M. Regulation of the MTOR Complex 1 Pathway by Nutrients, Growth Factors, and Stress. Mol. Cell. 2010;40:310\u2013322. doi: 10.1016/j.molcel.2010.09.026.",
+                                "Citation": "Maxwell PH, Wiesener MS, Chang GW, Clifford CS, Vaux EC, Cockman ME, Wykoff CC, Pugh CW, Maher ER, Ratcliffe PJ. The tumour suppressor protein VHL targets hypoxia-inducible factors for oxygen-dependent proteolysis. Nature. 1999;399:271\u2013275.",
                                 "ArticleIdList": [
-                                    "10.1016/j.molcel.2010.09.026",
-                                    "PMC2993060",
-                                    "20965424"
+                                    "10353251"
                                 ]
                             },
                             {
-                                "Citation": "So W.-K., Cheung T.H. Methods in Molecular Biologyl. Volume 1686. Springer; Berlin/Heidelberg, Germany: 2018. Molecular Regulation of Cellular Quiescence: A Perspective from Adult Stem Cells and Its Niches; pp. 1\u201325.",
+                                "Citation": "Mayer-Proschel M, Kalyani AJ, Mujtaba T, Rao MS. Isolation of lineage-restricted neuronal precursors from multipotent neuroepithelial stem cells. Neuron. 1997;19:773\u2013785.",
                                 "ArticleIdList": [
-                                    "10.1007/978-1-4939-7371-2_1",
-                                    "29030809"
+                                    "9354325"
                                 ]
                             },
                             {
-                                "Citation": "Mu\u00f1oz-S\u00e1nchez J., Ch\u00e1nez-C\u00e1rdenas M.E. The Use of Cobalt Chloride as a Chemical Hypoxia Model. J. Appl. Toxicol. 2019;39:556\u2013570. doi: 10.1002/jat.3749.",
+                                "Citation": "McKay RD. Stem cells in the central nervous system. Science. 1997;276:66\u201371.",
                                 "ArticleIdList": [
-                                    "10.1002/jat.3749",
-                                    "30484873"
+                                    "9082987"
                                 ]
                             },
                             {
-                                "Citation": "Zeng H.-L., Zhong Q., Qin Y.-L., Bu Q.-Q., Han X.-A., Jia H.-T., Liu H.-W. Hypoxia-Mimetic Agents Inhibit Proliferation and Alter the Morphology of Human Umbilical Cord-Derived Mesenchymal Stem Cells. BMC Cell Biol. 2011;12:32. doi: 10.1186/1471-2121-12-32.",
+                                "Citation": "Moreau E, Vilar J, Lelievre-Pegorier M, Merlet-Benichou C, Gilbert T. Regulation of c-ret expression by retinoic acid in rat metanephros: implication in nephron mass control. Am J Physiol. 1998;44:F938\u2013F945.",
                                 "ArticleIdList": [
-                                    "10.1186/1471-2121-12-32",
-                                    "PMC3166919",
-                                    "21827650"
+                                    "9843911"
                                 ]
                             },
                             {
-                                "Citation": "Ren H., Cao Y., Zhao Q., Li J., Zhou C., Liao L., Jia M., Zhao Q., Cai H., Han Z.C., et al. Proliferation and Differentiation of Bone Marrow Stromal Cells under Hypoxic Conditions. Biochem. Biophys. Res. Commun. 2006;347:12\u201321. doi: 10.1016/j.bbrc.2006.05.169.",
+                                "Citation": "Morrison SJ, Csete M, Groves AK, Melega W, Wold B, Anderson DJ. Culture in reduced levels of oxygen promotes clonogenic sympathoadrenal differentiation by isolated neural crest stem cells. J Neurosci. 2000;20:7370\u20137376.",
                                 "ArticleIdList": [
-                                    "10.1016/j.bbrc.2006.05.169",
-                                    "16814746"
+                                    "PMC6772795",
+                                    "11007895"
                                 ]
                             },
                             {
-                                "Citation": "Pacary E., Legros H., Valable S., Duchatelle P., Lecocq M., Petit E., Nicole O., Bernaudin M. Synergistic Effects of CoCl2 and ROCK Inhibition on Mesenchymal Stem Cell Differentiation into Neuron-like Cells. J. Cell Sci. 2006;119:2667\u20132678. doi: 10.1242/jcs.03004.",
+                                "Citation": "Nurse CA, Vollmer C. Role of basic FGF and oxygen in control of proliferation, survival, and neuronal differentiation in carotid body chromaffin cells. Dev Biol. 1997;184:197\u2013206.",
                                 "ArticleIdList": [
-                                    "10.1242/jcs.03004",
-                                    "16772336"
+                                    "9133430"
                                 ]
                             },
                             {
-                                "Citation": "Papandreou I., Cairns R.A., Fontana L., Lim A.L., Denko N.C. HIF-1 Mediates Adaptation to Hypoxia by Actively Downregulating Mitochondrial Oxygen Consumption. Cell Metab. 2006;3:187\u2013197. doi: 10.1016/j.cmet.2006.01.012.",
+                                "Citation": "Olanow CW, Tatton WG. Etiology and pathogenesis of Parkinson's disease. Annu Rev Neurosci. 1999;22:123\u2013144.",
                                 "ArticleIdList": [
-                                    "10.1016/j.cmet.2006.01.012",
-                                    "16517406"
+                                    "10202534"
                                 ]
                             },
                             {
-                                "Citation": "Semenza G.L. Dynamic Regulation of Stem Cell Specification and Maintenance by Hypoxia-Inducible Factors. Mol. Asp. Med. 2016;47\u201348:15\u201323. doi: 10.1016/j.mam.2015.09.004.",
+                                "Citation": "Olanow CW, Kordower JH, Freeman TB. Fetal nigral transplantation as a therapy for Parkinson's disease. Trends Neurosci. 1996;19:102\u2013109.",
                                 "ArticleIdList": [
-                                    "10.1016/j.mam.2015.09.004",
-                                    "26549347"
+                                    "9054056"
                                 ]
                             },
                             {
-                                "Citation": "Rodrigues A.S., Correia M., Gomes A., Pereira S.L., Perestrelo T., Sousa M.I., Ramalho-Santos J. Dichloroacetate, the Pyruvate Dehydrogenase Complex and the Modulation of MESC Pluripotency. PLoS ONE. 2015;10:e0131663. doi: 10.1371/journal.pone.0131663.",
+                                "Citation": "Panchision D, Hazel T, McKay R. Plasticity and stem cells in the vertebrate nervous system. Curr Opin Cell Biol. 1998;10:727\u2013733.",
                                 "ArticleIdList": [
-                                    "10.1371/journal.pone.0131663",
-                                    "PMC4493017",
-                                    "26147621"
+                                    "9914183"
                                 ]
                             },
                             {
-                                "Citation": "Kim J., Tchernyshyov I., Semenza G.L., Dang C.V. HIF-1-Mediated Expression of Pyruvate Dehydrogenase Kinase: A Metabolic Switch Required for Cellular Adaptation to Hypoxia. Cell Metab. 2006;3:177\u2013185. doi: 10.1016/j.cmet.2006.02.002.",
+                                "Citation": "Paulding WR, Czyzyk-Krzeska MF. Regulation of tyrosine hydroxylase mRNA stability by protein binding, pyrimidine-rich sequence in the 3\u2032 untranslated region. J Biol Chem. 1999;274:2532\u20132538.",
                                 "ArticleIdList": [
-                                    "10.1016/j.cmet.2006.02.002",
-                                    "16517405"
+                                    "9891025"
                                 ]
                             },
                             {
-                                "Citation": "Sart S., Song L., Li Y. Controlling Redox Status for Stem Cell Survival, Expansion, and Differentiation. Oxid. Med. Cell. Longev. 2015;2015:105135. doi: 10.1155/2015/105135.",
+                                "Citation": "Quelle FW, Wang J, Feng J, Wang D, Cleveland JL, Ihle JN, Zambetti GP. Cytokine rescue of p53-dependent apoptosis and cell cycle arrest is mediated by distinct Jak kinase signaling pathways. Genes Dev. 1998;12:1099\u20131107.",
                                 "ArticleIdList": [
-                                    "10.1155/2015/105135",
-                                    "PMC4530287",
-                                    "26273419"
+                                    "PMC316716",
+                                    "9553040"
                                 ]
                             },
                             {
-                                "Citation": "Scognamiglio R., Cabezas-Wallscheid N., Thier M.C., Altamura S., Reyes A., Prendergast \u00c1.M., Baumg\u00e4rtner D., Carnevalli L.S., Atzberger A., Haas S., et al. Myc Depletion Induces a Pluripotent Dormant State Mimicking Diapause. Cell. 2016;164:668\u2013680. doi: 10.1016/j.cell.2015.12.033.",
+                                "Citation": "Sakanaka M, Wen TC, Matsuda S, Masuda S, Morishita E, Nagao M, Sasaki R. In vivo evidence that erythropoietin protects neurons from ischemic damage. Proc Natl Acad Sci USA. 1998;95:4635\u20134640.",
                                 "ArticleIdList": [
-                                    "10.1016/j.cell.2015.12.033",
-                                    "PMC4752822",
-                                    "26871632"
+                                    "PMC22542",
+                                    "9539790"
                                 ]
                             },
                             {
-                                "Citation": "Saxena K., Jolly M.K. Acute vs. Chronic vs. Cyclic Hypoxia: Their Differential Dynamics, Molecular Mechanisms, and Effects on Tumor Progression. Biomolecules. 2019;9:339. doi: 10.3390/biom9080339.",
+                                "Citation": "Saucedo-Cardenas O, Quintana-Hau JD, Le WD, Smidt MP, Cox JJ, De Mayo F, Burbach JP, Conneely OM. Nurr1 is essential for the induction of the dopaminergic phenotype and the survival of ventral mesencephalic late dopaminergic precursor neurons. Proc Natl Acad Sci USA. 1998;95:4013\u20134018.",
                                 "ArticleIdList": [
-                                    "10.3390/biom9080339",
-                                    "PMC6722594",
-                                    "31382593"
+                                    "PMC19954",
+                                    "9520484"
                                 ]
                             },
                             {
-                                "Citation": "Bulut-Karslioglu A., Biechele S., Jin H., Macrae T.A., Hejna M., Gertsenstein M., Song J.S., Ramalho-Santos M. Inhibition of mTOR induces a paused pluripotent state. Nature. 2016;540:119\u2013123. doi: 10.1038/nature20578.",
+                                "Citation": "Scandurro AB, Beckman BS. Common proteins bind mRNAs encoding erythropoietin, tyrosine hydroxylase, and vascular endothelial growth factor. Biochem Biophys Res Commun. 1998;246:436\u2013440.",
                                 "ArticleIdList": [
-                                    "10.1038/nature20578",
-                                    "PMC5143278",
-                                    "27880763"
+                                    "9610379"
                                 ]
                             },
                             {
-                                "Citation": "Brewer J.H., Allgeier D.L. Safe Self-Contained Carbon Dioxide-Hydrogen Anaerobic System. Appl. Microbiol. 1966;14:985\u2013988. doi: 10.1128/am.14.6.985-988.1966.",
+                                "Citation": "Shamim H, Mahmood R, Logan C, Doherty P, Lumsden A, Mason I. Sequential roles for Fgf4, En1 and Fgf8 in specification and regionalisation of the midbrain. Development. 1999;126:945\u2013959.",
                                 "ArticleIdList": [
-                                    "10.1128/am.14.6.985-988.1966",
-                                    "PMC1058453",
-                                    "16349706"
+                                    "9927596"
                                 ]
                             },
                             {
-                                "Citation": "Divakaruni A.S., Paradyse A., Ferrick D.A., Murphy A.N., Jastroch M. Chapter Sixteen\u2014Analysis and Interpretation of Microplate-Based Oxygen Consumption and PH Data. In: Murphy A.N., Chan D.C., editors. Methods in Enzymology. Volume 547. Mitochondrial Function; Academic Press; New York, NY, USA: 2014. pp. 309\u2013354.",
+                                "Citation": "Silver I, Erecinska M. Oxygen and ion concentrations in normoxic and hypoxic brain cells. Adv Exp Med Biol. 1988;454:7\u201316.",
                                 "ArticleIdList": [
-                                    "25416364"
+                                    "9889871"
+                                ]
+                            },
+                            {
+                                "Citation": "Simone HH, Saueressig H, Wurst W, Goulding MG, O'Leary DD. En-1 and En-2 control the fate of the dopaminergic neurons in the substantia nigra and ventral tegmentum. Eur J Neurosci. 1998;10:389\u2013399."
+                            },
+                            {
+                                "Citation": "Smidt MP, van Schaick HS, Lanctot C, Tremblay JJ, Cox JJ, van der Kleij AA, Wolterink G, Drouin J, Burbach JP. A homeodomain gene Ptx 3 has highly restricted brain expression in mesencephalic dopaminergic neurons. Proc Natl Acad Sci USA. 1997;94:13305\u201313310.",
+                                "ArticleIdList": [
+                                    "PMC24304",
+                                    "9371841"
+                                ]
+                            },
+                            {
+                                "Citation": "Studer L, Psylla M, Buhler B, Evtouchenko L, Vouga CM, Leenders KL, Seiler RW, Spenger C. Non-invasive dopamine determination by reversed phase HPLC in the medium of free-floating roller tube cultures of rat fetal ventral mesencephalon. A tool to assess dopaminergic tissue prior to grafting. Brain Res Bull. 1996;41:143\u2013150.",
+                                "ArticleIdList": [
+                                    "8886383"
+                                ]
+                            },
+                            {
+                                "Citation": "Studer L, Tabar V, McKay R. Transplantation of expanded mesencephalic precursors leads to recovery in parkinsonian rats. Nat Neurosci. 1998;1:290\u2013295.",
+                                "ArticleIdList": [
+                                    "10195162"
+                                ]
+                            },
+                            {
+                                "Citation": "Tammela O, Song D, Olano M, Delivoria-Papadopoulos M, Wilson DF, Pastuszko A. Response of cortical oxygen and striatal extracellular dopamine to metabolic acidosis in newborn piglets. Adv Exp Med Biol. 1997;411:103\u2013111.",
+                                "ArticleIdList": [
+                                    "9269417"
+                                ]
+                            },
+                            {
+                                "Citation": "Wang MA, Jin P, Bumcrot DA, Marigo V, McMahon AP, Wang EA, Woolf T, Pang K. Induction of dopaminergic neuron phenotype in the midbrain by Sonic hedgehog protein. Nat Med. 1995;1:1184\u20131188.",
+                                "ArticleIdList": [
+                                    "7584992"
+                                ]
+                            },
+                            {
+                                "Citation": "Wurst W, Auerbach AB, Joyner AL. Multiple developmental defects in Engrailed-1 mutant mice: an early mid-hindbrain deletion and patterning defects in forelimbs and sternum. Development. 1994;120:2065\u20132075.",
+                                "ArticleIdList": [
+                                    "7925010"
+                                ]
+                            },
+                            {
+                                "Citation": "Yamada T, Placzek M, Tanaka H, Dodd J, Jessell TM. Control of cell pattern in the developing nervous system: polarizing activity of the floor plate and notochord. Cell. 1991;64:635\u2013647.",
+                                "ArticleIdList": [
+                                    "1991324"
+                                ]
+                            },
+                            {
+                                "Citation": "Ye W, Shimamura K, Rubenstein JL, Hynes MA, Rosenthal A. FGF and Shh signals control dopaminergic and serotonergic cell fate in the anterior neural plate. Cell. 1998;93:755\u2013766.",
+                                "ArticleIdList": [
+                                    "9630220"
+                                ]
+                            },
+                            {
+                                "Citation": "Zaman K, Ryu H, Hall D, O'Donovan K, Lin KI, Miller MP, Marquis JC, Baraban JM, Semenza GL, Ratan RR. Protection from oxidative stress-induced apoptosis in cortical neuronal cultures by iron chelators is associated with enhanced DNA binding of hypoxia-inducible factor-1 and ATF-1/CREB and increased expression of glycolytic enzymes, p21 (waf1/cip1), and erythropoietin. J Neurosci. 1999;19:9821\u20139830.",
+                                "ArticleIdList": [
+                                    "PMC6782985",
+                                    "10559391"
                                 ]
                             }
-                        ],
-                        "ReferenceList": []
+                        ]
                     }
                 ],
                 "History": [
                     {
-                        "Year": "2022",
-                        "Month": "2",
-                        "Day": "22"
-                    },
-                    {
-                        "Year": "2022",
-                        "Month": "3",
-                        "Day": "22"
-                    },
-                    {
-                        "Year": "2022",
-                        "Month": "3",
-                        "Day": "25"
-                    },
-                    {
-                        "Year": "2022",
-                        "Month": "4",
-                        "Day": "12",
-                        "Hour": "1",
-                        "Minute": "12"
-                    },
-                    {
-                        "Year": "2022",
-                        "Month": "4",
-                        "Day": "13",
-                        "Hour": "6",
+                        "Year": "2000",
+                        "Month": "9",
+                        "Day": "29",
+                        "Hour": "11",
                         "Minute": "0"
                     },
                     {
-                        "Year": "2022",
-                        "Month": "4",
-                        "Day": "14",
-                        "Hour": "6",
+                        "Year": "2001",
+                        "Month": "3",
+                        "Day": "3",
+                        "Hour": "10",
+                        "Minute": "1"
+                    },
+                    {
+                        "Year": "2000",
+                        "Month": "9",
+                        "Day": "29",
+                        "Hour": "11",
                         "Minute": "0"
                     }
                 ],
-                "PublicationStatus": "epublish",
+                "PublicationStatus": "ppublish",
                 "ArticleIdList": [
-                    "35409106",
-                    "PMC8998189",
-                    "10.3390/ijms23073749",
-                    "ijms23073749"
+                    "11007896",
+                    "PMC6772777",
+                    "10.1523/JNEUROSCI.20-19-07377.2000"
                 ]
             }
         }
-    ],
-    "PubmedBookArticle": []
+    ]
 }

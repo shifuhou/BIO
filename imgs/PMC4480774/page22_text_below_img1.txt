@@ -1,0 +1,9 @@
+Figure 4. HIF-1α Is an Essential Prerequisite for Aggregation, Motility, and Invasion of 
+Macrophages
+Macrophages were isolated from the peritoneum and plated at a concentration of 106/ml on 
+growth factor-reduced matrigel. Cells were allowed to aggregate for 24 hr: (A) WT, (B) 
+HIF-1α null macrophages. Invasive capacity of peritoneal macrophages was studied using 
+modified Boyden chambers. Cell culture inserts were coated with matrigel, (C) WT, or (D) 
+HIF-1α null cells added to the upper wells. Macrophages were allowed to invade toward 5% 
+FCS in the lower wells for 24 hr, stained with 0.1% Alcian blue, and photographed. Bound 
+stain was extracted with acetic acid and quantified spectophotometrically (E) WT levels 

@@ -1,0 +1,4 @@
+Fig. 3. PHD2 silencing upregulates HIF-1a in all of the human cell lines so far analysed. Immunoﬂuorescence staining showing cells transfected with
+20 nM of an irrelevant siRNA (Control or C) or the PHD2 siRNA (PHD2) using the anti-HIF-1a antibody. As a positive control, cells were incubated
+in the presence of Co2+ (200 mM) for 4 h. The following cells are shown: CAL51 (breast cancer cell line), RCC4/pVHL (RCC4 stably transfected with
+pCDNA3pVHL), WM9 (melanoma cell line) and FHN (primary ﬁbroblasts).

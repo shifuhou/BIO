@@ -1,0 +1,25 @@
+Figure 5. A. Tenocyte related gene expression by hTSCs under
+hypoxic and normaxic culture conditions. Total RNA extracted
+from hTSCs grown under hypoxic or normaxic conditions was used to
+synthesize cDNA, which was used as a template in qRT-PCR using
+primers specific to Collagen-1 and Tenascin C. GAPDH was used as an
+internal control. Y- axis represents relative gene expression when
+compared to GAPDH expression levels. Ct values were normalized
+against hTSCs cultured under 20% O2. At both oxygen conditions (5%
+and 20% O2), there was no significant difference in the expression of
+collagen type I, but the expression of tenascin C in the hypoxic group
+was significantly higher than in the normaxic group (*P,0.05). B. Non-
+tenocyte related gene expression by hTSCs under the above two
+oxygen conditions. Total RNA extracted from hTSCs grown under
+hypoxic or normaxic conditions was used to synthesize cDNA, which
+was used as a template in qRT-PCR using primers specific to PPARc,
+Sox-9 and Runx-2. GAPDH was used as an internal control. Y- axis
+represents relative gene expression when compared to GAPDH
+expression. Ct values were normalized against hTSCs cultured under
+20% O2. The cellular expression of PPARc, a marker for adipogenesis,
+was not significantly different in 5 and 20% O2 conditions. However,
+Sox-9 and Runx-2 (markers for chondrogenesis and osteogenesis,
+respectively) were expressed at significantly lower levels when hTSCs
+were cultured at 5% O2 condition in comparison to 20% O2 (*P,0.05,
+respective to hTSCs that were under normaxic conditions).
+doi:10.1371/journal.pone.0061424.g005

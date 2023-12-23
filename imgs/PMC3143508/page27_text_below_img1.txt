@@ -1,0 +1,9 @@
+Figure 1. Regulation and function of hypoxia inducible factor-α (HIFα) subunits
+In the presence of oxygen and α-ketoglutarate, HIF prolyl hydroxylase domain-containing
+enzymes (PHDs) and Factor Inhibiting HIF (FIH1) hydroxylate and inactivate HIFα. PHD
+and FIH1 activity are inhibited by hypoxia and certain intracellular metabolites, including
+reactive oxygen species, fumarate, succinate, and potentially 2-hydroxyglutarate, resulting in
+HIFα stabilization. HIFα expression and/or activity is also regulated post-translationally by
+sirtuins and intermittent hypoxia. HIFα stabilization results in the activation of a
+transcriptional program with effects on metabolism, redox homoeostasis, vascular
+remodeling, tumorigenesis, inflammation, and other processes.

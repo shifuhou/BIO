@@ -1,0 +1,6 @@
+Figure 6. Expression of miR-34a in renal tissue from patients with CKD. (A) Expression analysis of miR-34a in renal tissue from patients with
+DN, IgA nephropathy (IgAN) by real-time PCR. Shown are relative expression values normalized to U6. Pretransplant biopsies from living donor
+kidneys (LD) were used as control. *P,0.01. (B) Expression of E-cadherin and Snail in renal tissue from living donor (LD) kidneys and patients with IgA
+nephropathy (IgAN) by IHC (original magnification, 4006). (C) Scatter plot with fitted values intervals for tubular expression of miR-34a and E-
+cadherin (upper) or Snail (lower).
+doi:10.1371/journal.pone.0030771.g006

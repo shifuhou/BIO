@@ -1,0 +1,8 @@
+Figure 8.
+Effects of stable form of HIF-1α and HIF-2α (A, C, and E) or HIF-1β shRNA (B, D, and F)
+on the secretion of VEGF (A and B), HGF (C and D) and bFGF (E and F) from
+immortalized multipotential stromal cells (MSCs). Cells were incubated in the serum-
+reduced medium for 24 h under indicated O2 conditions, and the levels of growth factors in
+the conditioned media were determined by ELISA. Results were normalized by the amount
+of cellular proteins. (*p<0.05 and **p<0.01 to the control under 20%O2 condition in each
+figure for A, C, and E, whereas P-values were given in each figure for B, D, and F).

@@ -1,0 +1,12 @@
+Figure 2. Variation in BM pO2 according to vessel diameter and distance from the endosteal 
+surface
+(a) Average vessel diameter (green line, n = 38 vessels from 4 mice) and intravascular (red 
+line, n = 38 vessels from 4 mice) and extravascular (blue line, n = 39 locations from 3 mice) 
+pO2 are plotted as a function of the distance from the bone surface to the measurement 
+location. Error bars are the ± standard deviations. (b) The diameter of nestin+ (red circles, n 
+= 9 vessels from 3 mice) and nestin- vessels (blue squares, n = 12 vessels from 3 mice) are 
+plotted as a function of the distance from the endosteal surface. (c) The pO2 of the same 
+nestin+ and nestin- vessels are plotted as a function of vessel diameter. (d) Nestin+ (red 
+circles, n = 17 vessels from 7 mice) and nestin- (blue squares, n = 16 vessels from 5 mice) 
+vessel pO2. The mean (black line) and ± standard deviation (shaded box) for each data set is 
+shown.

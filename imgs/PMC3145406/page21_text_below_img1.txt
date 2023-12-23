@@ -1,0 +1,11 @@
+Figure 6.
+HIF-α effects on c-Myc activity correlate with differential c-Myc interactions with Sp1,
+Mizl and Max. A. Co-precipitation of Sp1, Mizl, and Max after c-Myc IP and Max after
+MadI IP in HCT116 and WT8 cells grown at 0.5% O2 for 4 and 20 hrs. B. Co-precipitation
+of c-Myc after Sp1, Mizl or Max IP in HCT116 and WT8 cells grown under hypoxia for 20
+hrs. C. HIF-1α and HIF-2α co-precipitation after Sp1, Mizl, and Max, or isotype control IP
+in HCT116 and WT8 cells treated DFX for 4 hrs. D. Vector control (V1) and HIF-1α
+overexpressing cell lines were cultured at 0.5% O2 for 20 hrs. and Max IP was performed
+and analyzed for co-precipitated HIF-1α, HIF-2α and c-Myc. E. Vector control (V1) and
+HIF-2α overexpressing cell lines were cultured at 0.5% O2 for 20 hrs. and Max IP was
+performed and analyzed for co-precipitated HIF-2α and c-Myc.

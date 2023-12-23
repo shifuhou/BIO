@@ -1,0 +1,8 @@
+Figure 2. TSCM cells possess attributes of conventional memory T cells
+a, TCR excision circle (TREC) copy number in sorted CD8+ T-cell subsets relative to TN 
+cells. Data are represented as mean ± s.e.m. of 4 donors. b, Intracellular cytokine staining of 
+PBMC from a representative healthy donor after stimulation with SEB. Graphs show naïve-
+like (NL) gated T cells. NL, CD45RO−CCR7+CD45RA+CD27+CD28+. Numbers represent 
+the percentage of CD95+ (TSCM) and CD95− (TN) cells producing a single cytokine. c, 
+Percentages of CD8+ T-cell subsets producing IFN-γ, IL-2 and TNF-α in 6 healthy donors 
+(obtained as described in panel b). d, Pie charts depicting the quality of the cytokine 

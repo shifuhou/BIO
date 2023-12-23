@@ -1,0 +1,10 @@
+Fig 2. Cell proliferation regionalization in 3D spheroids grown at 5% and 21% oxygen. HCT116
+spheroids grown in the indicated conditions for three (d3) and six days (d6) were incubated with EdU for 24
+hours prior to fixation and analysis. (A) Representative fluorescence microscopy images of cryosections from
+spheroids grown at the indicated oxygen concentrations for three and six days and labeled with EdU (green)
+and DAPI (blue). Scale bar, 100 μm. (B) Percentage of EdU-positive cells relative to the distance from the
+spheroid surface. The results are the mean +/-SD of five independent experiments with 4 to 5 spheroids
+analyzed per condition in each experiment. Data were extracted from the automated segmentation and
+quantification of images of cryosections cut along the spheroid center (see Methods). Arrows (blue: 5%,
+green: 21% oxygen) indicate the In Depth Proliferation 50% index (IDP50) that is the distance from the surface
+where 50% of cells are EdU-positive.

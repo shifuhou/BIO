@@ -1,0 +1,7 @@
+Figure 3. Acute and chronic HIF effects on c-Myc transcriptional activity
+When HIF-1α is induced (A), it acts immediately to disrupt c-Myc complexes. By inducing
+Mxi, it also causes transcriptional repression of some c-Myc target genes. Conversely (B),
+HIF-2α increases c-Myc transcriptional activity at specific targets, while inhibiting the
+expression of others via Mxi. By increasing c-Myc/Max interactions, HIF-2α promotes c-
+Myc mediated activation or repression of Cyclin D2, p21 and p27. However, Mxi induction
+inhibits expression of other c-Myc activated targets (e.g. CAD and ODC).

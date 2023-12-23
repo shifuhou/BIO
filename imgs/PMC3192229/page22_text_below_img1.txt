@@ -1,0 +1,8 @@
+Figure 5. Increased proliferative capacity, survival and antitumor activity of TSCM cells
+a, 3H-thymidine incorporation by sorted CD8+ T-cell subsets after stimulation with α-
+CD3/CD2/CD28-coated beads. Data are represented as means ± s.e.m of 10 donors. Results 
+are normalized to the number of seeded cells, as different cell numbers were obtained from 
+different sorts. * = P < 0.05; ** = P < 0.01; *** = P < 0.001 (t test) b, Flow cytometry 
+analysis of human T cells in the spleen, lymph nodes (LN) and liver of a representative NSG 
+mouse at 4 weeks following adoptive transfer of CD4+ T cells (5 × 106) with or without 
+sorted CD8+ T-cell subsets (106). Graphs show T cells after gating on human CD45+ cells. 

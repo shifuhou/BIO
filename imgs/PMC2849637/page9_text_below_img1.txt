@@ -1,0 +1,11 @@
+Fig. 1.
+Microbes and cells from multicellular organisms have similar metabolic phenotypes under
+similar environmental conditions. Unicellular organisms undergoing exponential growth often
+grow by fermentation of glucose into a small organic molecule such as ethanol. These
+organisms, and proliferating cells in a multicellular organism, both metabolize glucose
+primarily through glycolysis, excreting large amounts of carbon in the form of ethanol, lactate,
+or another organic acid such as acetate or butyrate. Unicellular organisms starved of nutrients
+rely primarily on oxidative metabolism, as do cells in a multicellular organism that are not
+stimulated to proliferate. This evolutionary conservation suggests that there is an advantage to
+oxidative metabolism during nutrient limitation and nonoxidative metabolism during cell
+proliferation.

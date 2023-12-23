@@ -1,0 +1,6 @@
+Fig 1. Effect of oxygen concentration reduction on the proliferation of 2D monolayers and 3D spheroids derived from HCT116 cells. (A) Growth
+curve of HCT116 cells grown in the presence of 21% or 5% oxygen. These data are the mean ± SD of four independent experiments. (B,C) Spheroids
+prepared from monolayers of HCT116 cells maintained at the targeted oxygen concentration (21% or 5%) were grown in 96-well plates. (B) Representative
+bright field microscopy images of spheroids grown at the indicated oxygen concentrations for three and six days. Scale bar is 100 μm. (C) Spheroids
+volume was determined after three and six days (d3 and d6) of culture. Results are the mean ± SD of the measurements made in five independent
+experiments: n = 88 spheroids (d3, 21%) n = 57 (d6, 21%), n = 80 (d3, 5%), n = 50 (d6, 5%).

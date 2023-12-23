@@ -1,0 +1,14 @@
+Figure 3.
+shRNA-mediated knockdown of HIF-1α (A and D), HIF-2α (B and E), and HIF-1β (C and
+F) of immortalized- multipotential stromal cell (MSC) evaluated by quantitative RT-PCR
+(A-C) or by immunoblotting (D-F). (A-C) The levels of HIF-1α (A), HIF-2α (B), and
+HIF-1β (C) mRNA transcripts were quantitated relative to RPLPO transcript expression
+(housekeeping gene) by using quantitative RT-PCR (*p<0.05 to Non-target (NT) control).
+(D-F) Nuclear protein lysates (5 μg each) were loaded in each lane and the protein levels of
+HIF-1α (D), HIF-2α (E), and HIF-1β (F) were assessed by immunoblotting. NT shRNA was
+used as a negative control. TATA binding protein (TBP) immunoblots were used as loading
+controls. (G) HIF reporter element (HRE) reporter activities in immortalized-MSCs with
+shRNA against HIF-1α, HIF-2α, and HIF-1β under 20%O2 and 1%O2 conditions.
+(*p<0.001, **p<0.0001 to Ctrl under 20%O2 counterpart in each shRNA condition; ¶
+p<0.001 to NT under 20%O2 condition; #p<0.01, ##p< p<0.0001 to NT under 1%O2
+condition).

@@ -1,0 +1,23 @@
+Figure 4. The Translational Defect in Cytokine Production Evident in the Absence of Aerobic
+Glycolysis Is Marked by Enhanced GAPDH Binding to IFN-γ mRNA
+(A) Polysome analysis of T cells that were activated with anti-CD3/28 for 3 days in media
+containing glucose and then differentially cultured in media with either glucose (Glc) or
+galactose (Gal) for an additional day. The 40, 60, and 80S ribosomal subunits and
+polysomes were fractionated and monitored with continuous A254 measurements. A
+representative polysome profile of cells in Glc (red) and in Gal (blue) is shown in the upper
+panel. Total RNA was extracted from each fraction, and IFN-γ (middle) and β-actin
+(bottom) expression was measured by qPCR and calculated as a percentage of total RNA
+collected in all fractions. The proportion of each mRNA between nontranslated (1–7) and
+translated (8–14) fractions is plotted. Data are representative results from two independent
+experiments.
+(B) GAPDH-specific antibodies were used to immunoprecipitate GAPDH from extracts of
+activated T cells differentially cultured in media with either Glc or Gal. Bound GAPDH and
+associated mRNA were analyzed by western blot (top) and qRT-PCR (bottom). Total input
+per immunoprecipitation is shown (top). Data show results from six independent
+experiments as mean ± SEM (error bar) and are normalized to Glc cells (*p = 0.025).
+(C) IFN-γ mRNA transcripts and housekeeping gene transcripts (GAPDH mRNA) that bind
+to GAPDH protein in cells cultured in galactose (Gal) versus cells cultured in glucose (Glc).
+Relative levels were calculated by subtracting background binding (no primary antibody
+control) from primary antibody-specific binding and then normalizing to transcripts levels
+bound to GAPDH in Glc cells.
+Mean ± SEM (error bar) of three independent experiments. See also Figure S4.

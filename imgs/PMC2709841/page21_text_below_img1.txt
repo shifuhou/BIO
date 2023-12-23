@@ -1,0 +1,10 @@
+Figure 6. Differentially expressed genes are correlated with histone methylation in CD8 TCM and
+TEM
+(A) Differential gene expression profiles in TCM and TEM were analyzed by Agilent human
+whole genome chip. Selected genes that differed between TCM and TEM by >3-fold are shown
+(a complete list of genes can be found in Table S6).
+(B) Differential gene expressions were positively correlated with the levels of H3K4me3 in
+TCM and TEM. The significantly differentially expressed genes between TCM and TEM were
+selected as described above and in the Experimental Procedures. The ratios of mRNA levels
+between TCM and TEM were compared to the ratios of H3K4me3 levels between TCM and
+TEM in their corresponding genes (N=137, R2=0.39). The Log10 values were used in the plot.

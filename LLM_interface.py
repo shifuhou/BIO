@@ -58,7 +58,7 @@ def gpt_3_turbo_completions(prompt):
    response = client.completions.create(
     model = "gpt-3.5-turbo-instruct",
     prompt = prompt,
-    max_tokens = 1500
+    max_tokens = 150
     )
 
    return response.choices[0].text.strip()
@@ -74,7 +74,7 @@ def gpt_3_turbo_chat(prompt):
             }
         ],
         model = "gpt-3.5-turbo",
-        max_tokens = 1500
+        max_tokens = 150
         )
 
     return response.choices[0].message.content
@@ -89,7 +89,7 @@ def gpt_4_turbo_chat(prompt):
             }
         ],
         model = "gpt-4",
-        max_tokens = 1500
+        max_tokens = 150
         )
     # print(response.choices[0])
     # print(response.choices[0].message.content)

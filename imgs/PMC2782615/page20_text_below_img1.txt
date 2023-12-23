@@ -1,0 +1,10 @@
+Figure 5.
+Validation of randomly selected mir-210 target genes identified by miRNP-IP. A) pGL3-
+promoter vector and B) CTGF 3′ UTR construct were used as negative controls. They are not
+responsive to expression of either wild type or mutant mir-210. C-G) Reporter luciferase
+activity are repressed or relieved by co-transfecting mir-210 wild type or mutant expression
+vector with HOXA1, HOXA9, TP53I11, PIM1, and FGFRL1 3′ UTR constructs. H) The
+mutations in mir-210 expression construct. The four-nucleotide mutation was introduced in
+the seed region of mir-210. Each reporter assay was repeated at least three times. Error bar
+indicates standard deviation. Student’s t-test was performed for statistical analysis, ** p< 0.001,
+* p<0.05.

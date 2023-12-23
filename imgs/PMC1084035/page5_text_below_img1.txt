@@ -1,0 +1,11 @@
+Fig. 3.  Identification of  a  novel γ-secretase-dependent  cleavage  site.  (A) Radiosequencing of  CTFγ. CTFγ  generated  in vitro from membrane  preparations  of
+[35S]methionine-labeled HEK 293 cells stably co-expressing swAPP and wild-type PS1 was subjected  to radiosequencing. A  major peak of radioactivity was
+observed at cycle 2 and a second peak at cycle 32 of the Edman degradation. The corresponding amino acid sequence of CTFγ starting at valine 50 is shown above.
+The same result was obtained in independent sequencing runs. (B) Mutation of valine 50 of the β-amyloid domain does not interfere with CTFγ generation. Upper
+and middle panel, membrane preparations of HEK 293 cells stably overexpressing swAPP or swAPP V50G were analyzed for the levels of βAPP holoprotein,
+CTFβ, CTFα and CTFγ by combined immunoprecipitation/immunoblotting with antibody 6687. The asterisk denotes the mature form of endogenous βAPP751.
+Lower  panel,  membrane  preparations  were  incubated at  37°C  for  1  h, and CTFγ  was  analyzed  from  S100  fractions by  immunoblotting  with  antibody  6687.
+(C) Detection of a truncated CTFγ in living HEK 293 cells stably overexpressing swAPP. Membrane fractions of HEK 293 cells stably overexpressing swAPP or
+cell lysates of HEK 293 cells transiently transfected with cDNA encoding a recombinant CTFγ starting either at amino acid 50 (rCTFγ50) or at amino acid 43
+(rCTFγ57) were analyzed by combined immunoprecipitation/immunoblotting with antibody 6687 to the C-terminus of βAPP. Note that the in vivo produced CTFγ
+migrates faster than rCTFγ57 recombinant fragment.

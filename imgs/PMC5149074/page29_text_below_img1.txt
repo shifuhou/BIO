@@ -1,0 +1,8 @@
+Figure 4. S-2HG treatment promotes in vivo homeostatic renewal, persistence and anti-tumour 
+capacity of transferred cells
+a/ Recovery of co-transferred CD45.1+ OT-I cells, from spleens (n=6).
+b/In vivo CFSE levels in cells from a.
+c/ % of cells in a that divided 0-9 times in vivo.
+d/ Representative flow cytometry plots and associated statistics of recovered cells from 
+spleens (n=6).
+e/ Representative analysis of cells, in d, relative to naïve cells (n=6).

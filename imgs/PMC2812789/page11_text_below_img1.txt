@@ -1,0 +1,14 @@
+Fig. 1.
+PKM2 is tyrosine phosphorylated and inhibited by FGFR1 in cancer cells with oncogenic or
+overexpressed FGFR1. (A) Schematic representation of PKM2. The six phosphorylated
+tyrosine residues identified in the proteomics studies are indicated. (B) Immunoblotting (WB)
+of 293T cell lysates for tyrosine phosphorylation of GST-PKM2 when coexpressed with the
+constitutively active fusion protein 8p11 ZNF198-FGFR1 PR/TK or with FGFR1 in the
+presence and absence of FGFR1 ligand (bFGF). (C) FGFR1 wild type (WT) but not a kinase
+dead (KD) mutant inhibits PKM2 enzyme activity in 293T cells (*0.01 < P < 0.05; n.s., not
+significant). The error bars represent the means ± SD from three independent experiments.
+Relative PKM2 activity was normalized to that in control 293T cells. (D) Inhibition of FGFR1
+by tyrosine kinase inhibitor TKI258 (1 μM for 2 hours) results in increased PKM2 enzyme
+activity in leukemia KG-1a (FOP2-FGFR1), breast cancer MDA-MB-134 (FGFR1), and lung
+cancer H1299 cells (FGFR1) (*0.01< P < 0.05; **P < 0.01). Relative PKM2 activity was
+normalized to that in control cells without TKI258 treatment.

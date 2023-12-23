@@ -1,0 +1,11 @@
+Trafﬁcking of tumor-reactive CD8(cid:1) T cells to 2° lymphoid tissues is required for antitumor treatment. (A) WT or LT(cid:4)(cid:2)/(cid:2) mice bearing 9-day s.c. B16 tumors
+Fig. 1.
+were left untreated as controls (F and E, respectively) or received 1 (cid:4) 106 pmel TEM, rFPhgp100 vaccination, and exogenous IL-2 (■ and (cid:1), respectively). (B) CD62L
+expression by adoptively transferred tumor-reactive CD8(cid:1) T cells is required for optimal antitumor treatment. WT mice bearing 9-day s.c. B16 melanoma tumors
+were treated with nothing (F), pmel-CD62L(cid:2)/(cid:2) cells ((cid:1)), or age-matched pmel-CD62L(cid:1)/(cid:1) cells (■
+) in combination with rFPhgp100 and exogenous IL-2. (C)
+Redundancy of lymphoid-homing molecules. Splenocytes from pmel-CD62L(cid:2)/(cid:2) or age-matched pmel-CD62L(cid:1)/(cid:1) controls were stimulated with 1 (cid:3)M hgp10025–33
+peptide and cultured under TEM conditions. Cells were cytoﬂuorometrically analyzed on day 6 for the expression of integrin (cid:4)E, integrin (cid:2)7, and CCR7. Numbers
+represent the percentage of gated cells in each quadrant after gating on propidium iodide-negative and CD8(cid:1) lymphocytes. (D) Tumor treatment fails in (cid:2)2M(cid:2)/(cid:2)
+hosts, but can be rescued by cotransfer of BM-derived DCs. WT or (cid:2)2M(cid:2)/(cid:2) mice bearing 9-day B16 tumors were left untreated as controls (F and E, respectively)
+or received 1 (cid:4) 106 TEM pmel, rFPhgp100, and exogenous IL-2 (■ and (cid:1), respectively) (cid:5) cotransfer of mature BM-derived DCs (Œ).

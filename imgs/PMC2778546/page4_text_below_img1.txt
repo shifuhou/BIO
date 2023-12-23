@@ -1,0 +1,5 @@
+Figure 2 Representative examples of immunohistochemistry in colon cancer showing membranous CA9 adjacent necrosis (A) and endothelial Dll4 (B)
+expression. Immunohistochemistry for Dll4 shows membranous and cytoplasmic endothelial expression in a colon adenoma (C) and epithelial expression
+associated with goblet cell differentiation in a neoplastic crypt ((D) black arrows indicate Dll4-positive goblet cells, and red arrows indicate Dll4-negative
+non-goblet cells). Dll4 is also weakly expressed by neoplastic cells without goblet cell differentiation in a colon adenocarcinoma (E). Endothelial cells lining
+vessels (arrows) adjacent to normal colonic crypts did not express Dll4 by immunohistochemistry (F).

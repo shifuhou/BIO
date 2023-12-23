@@ -1,0 +1,39 @@
+References
+1. Weijers EM, Van Den Broek LJ, Waaijman T, Van Hinsbergh VW, Gibbs S,
+Koolwijk P. The influence of hypoxia and fibrinogen variants on the
+expansion and differentiation of adipose tissue-derived mesenchymal stem
+cells. Tissue Eng A. 2011;17:2675–85.
+Zachar V, Duroux M, Emmersen J, Rasmussen JG, Pennisi CP, Yang S, Fink T.
+Hypoxia and adipose-derived stem cell-based tissue regeneration and
+engineering. Expert Opin Biol Ther. 2011;11:775–86.
+Forristal CE, Wright KL, Hanley NA, Oreffo RO, Houghton FD. Hypoxia inducible
+factors regulate pluripotency and proliferation in human embryonic stem cells
+cultured at reduced oxygen tensions. Reproduction. 2010;139:85–97.
+Gordan JD, Thompson CB, Simon MC. HIF and c-Myc: sibling rivals for control
+of cancer cell metabolism and proliferation. Cancer Cell. 2007;12:108–13.
+Gordan JD, Bertout JA, Hu C-J, Diehl JA, Simon MC. HIF-2α promotes
+hypoxic cell proliferation by enhancing c-myc transcriptional activity. Cancer
+Cell. 2007;11:335–47.
+Keith B, Johnson RS, Simon MC. HIF1α and HIF2α: sibling rivalry in hypoxic
+tumour growth and progression. Nat Rev Cancer. 2012;12:9–22.
+Eliasson P, Jönsson JI. The hematopoietic stem cell niche: low in oxygen
+but a nice place to be. J Cell Physiol. 2010;222:17–22.
+Holzwarth C, Vaegler M, Gieseke F, Pfister SM, Handgretinger R, Kerst G, Müller I.
+Low physiologic oxygen tensions reduce proliferation and differentiation of
+human multipotent mesenchymal stromal cells. BMC Cell Biol. 2010;11:1.
+Basciano L, Nemos C, Foliguet B, de Isla N, de Carvalho M, Tran N, Dalloul A.
+Long term culture of mesenchymal stem cells in hypoxia promotes a
+genetic program maintaining their undifferentiated and multipotent status.
+BMC Cell Biol. 2011;12:1.
+Lee J-S, Park J-C, Kim T-W, Jung B-J, Lee Y, Shim E-K, Park S, Choi E-Y, Cho K-S,
+Kim C-S. Human bone marrow stem cells cultured under hypoxic conditions
+present altered characteristics and enhanced in vivo tissue regeneration. Bone.
+2015;78:34–45.
+Semenza GL. Hypoxia. Cross talk between oxygen sensing and the cell cycle
+machinery. Am J Phys Cell Phys. 2011;301:C550–2.
+Ebbesen P, Eckardt K-U, Ciampor F, Pettersen EO. Linking measured
+intercellular oxygen concentration to human cell functions. Acta Oncol.
+2004;43:598–600.
+Ivanovic Z, Vlaski-Lafarge M: Anaerobiosis and Stemness: An Evolutionary
+Paradigm for Therpeutic Applications. Cambridge: Cambridge Academic
+Press; 2015.

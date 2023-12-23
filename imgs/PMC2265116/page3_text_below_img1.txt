@@ -1,0 +1,26 @@
+Fig. 2. Mutation of Notch 1 ICD N1945 and N2012 reduces the transactivation
+potency and impairs Notch-mediated repression of neuronal differentiation.
+(A) Notch N1945/N2012 is a very weak transcriptional activator. P19 cells were
+transfected with 0.5 (cid:2)g of a CSL-driven luciferase plasmid and 100 ng of CMX
+or plasmids encoding wild-type (WT), N1945A, or N1945A/N2012A (NNAA)
+mutant ICD. (B) Activity of Notch Asn mutants is rescued by expression of
+MAML1. HeLa cells were transfected with 0.5 (cid:2)g of 12(cid:6)CSL-Luc plasmid
+together with 100 ng of plasmids encoding WT or mutant forms of Notch 1 ICD
+in the presence of increasing concentrations of an expression vector (50 ng and
+200 ng) encoding MAML1. Data are presented as luciferase activity relative to
+cells transfected with 12(cid:6)CSL-Luc. Values represent the mean (cid:2) SE of three
+independent experiments performed in duplicate. (C) Schematic representa-
+tion of a harvested chicken embryo after electroporation. Transverse sections
+at the forelimb level (dashed line) were analyzed. In the electroporated spinal
+cord, only one of the sides was electroporated (red region). The analysis was
+focused on the most ventral region of the spinal cord (boxed region). Quan-
+tiﬁcation of the effect on motor neuron generation after expression of GFP or
+WT; N1945A, or NNAA Notch1 ICD is shown. The percentage of cells electro-
+porated with the indicated constructs and expressing the postmitotic motor
+neuron marker Isl1/2 (D), and the ratio of the total number of motor neurons
+between the electroporated vs. control (el/co) side (E) were determined. (F)
+Effect of wild-type and mutant forms of Notch on neurogenesis in the ventral
+spinal cord. Embryos were electroporated with GFP or with wild-type or
+mutant Notch1 ICD as indicated. The ability of the different constructs to
+maintain cells in a progenitor stage or to repress motor neuron generation
+was analyzed by immunohistochemistry using antibodies against Sox3 or

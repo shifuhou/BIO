@@ -1,0 +1,21 @@
+cortex can vary greatly but are estimated at 5% O2 (equivalent to 
+approximately 38 mmHg), with approximately 1%–2% O2 (8–15 
+mmHg) in the renal medulla. Although HIF-α stabilization can 
+occur at oxygen tensions lower than 5% O2, HIF proteins are typi-
+cally not detectable unless a substantial decrease in oxygen supply 
+has occurred (e.g., as a result of radiocontrast exposure or carbon 
+monoxide poisoning) or when HIF-α degradation is inhibited phar-
+macologically (e.g., by cobalt chloride) (36, 37). In the UUO model, 
+tubulointerstitial fibrosis becomes evident 4 days after ligation and 
+progresses so that by day 8, renal tissue is characterized by marked 
+expansion of the interstitial area due to increased fibroblast num-
+bers, enhanced ECM deposition, and increased mononuclear cell 
+infiltration, which is associated with tubular atrophy and apoptosis 
+(38). Tissue hypoxia was detected using pimonidazole hydrochlo-
+ride, which forms protein adducts in cells that experience an oxygen 
+level of approximately 1% O2. Pimonidazole staining revealed that 
+subcortical tubular epithelial cells in UUO kidneys experienced 
+a discrepancy between oxygen supply and demand as early as 24 
+hours after ligation (Figure 4A; 1d UUO), which was sustained 
+throughout the development of fibrosis (Figure 4A; 8d UUO). In 
+contrast, contralateral kidneys on day 1 after ligation did not show 

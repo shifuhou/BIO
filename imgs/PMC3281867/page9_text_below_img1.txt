@@ -1,0 +1,9 @@
+Figure 5. Jagged1 or Notch1 siRNA prevents miR-34a inhibitor-induced EMT via suppression Notch signal. (A) Jagged1 siRNA prevents
+hypoxia-induced HK2 cells EMT via suppression Notch signal. Western blots analysis of Zo-1, E-cadherin, a-SMA, vimentin and Snail expression in
+Jagged1-specific or scrambled siRNA transfected cells after 48 hours under hypoxic conditions. A representative blot from three independent
+experiments is shown (left). The histogram shows the average volume density normalized to the loading control, b-actin (right). (B) Jagged1 or
+Notch1 siRNA prevents miR-34a inhibitor-induced HK2 cells EMT via suppression Notch signal. Western blots analysis of Zo-1, E-cadherin, a-SMA,
+vimentin and Snail expression in Jagged1-specific or scrambled siRNA and miR-34a inhibitor cotransfected HK2 cells. A representative blot from three
+independent experiments is shown (left). The histogram shows the average volume density normalized to the loading control, b-actin (right).
+#p,0.05 and *p,0.01 compared with the parental cells and control cells.
+doi:10.1371/journal.pone.0030771.g005

@@ -1,0 +1,16 @@
+FIG. 3. Identification of a DNA-binding activity induced by hy-
+poxia. (A) Nucleotide sequence of wild-type (W18) and mutant (M18)
+double-stranded oligonucleotides. Nt 1 to 18 from the hypoxia-
+inducible enhancer are shown in uppercase letters, with the 3-nt site
+of mutation in M18 overlined and underlined. (B) An induced nuclear
+factor binds to wild-type, but not mutant, nucleotide 1 to 18 probe.
+Nuclear extracts from Hep3B cells, cultured for 4 h in 1% (+) versus
+20% (-) 02, were incubated with W18 probe, M18 probe, or a probe
+containing a USF binding site (USF) and analyzed by EMSA. Binding
+activities are labelled as follows: N, nonspecific; C, constitutive; I,
+induced; U, USF; F, free probe. (C) Competition experiments
+demonstrate specificity of binding. W18 probe (lanes 1 to 8) was
+incubated with nuclear extract from Hep3B cells cultured for 4 h in
+1% 02 (lanes 2 to 8) in the presence of no competitor (0) or 20-, 100-,
+or 500-fold molar excess of unlabelled W18 (lanes 3 to 5) and M18
+(lanes 6 to 8) competitor oligonucleotides and analyzed by EMSA.

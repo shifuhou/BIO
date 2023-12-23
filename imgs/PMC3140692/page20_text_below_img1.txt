@@ -1,0 +1,8 @@
+Figure 1.
+Genes activated by hypoxia-inducible factors (HIFs) involved in tumor progression. Genes
+encoding proteins involved in numerous aspects of tumor initiation, growth, and metastasis
+are transcriptionally activated by either encoding HIF-1α or HIF-2α. Examples include:
+inflammatory cell recruitment (SDF-1α, CXCR4), proliferation (cyclin-D2, IGF-2), survival
+(VEGF, erythropoietin), metabolism/mitochondrial function (glycolytic enzymes, PDK-1),
+extracellular matrix function (fibronectin-1, collagen type-5), motility (c-MET, SPF-1α),
+angiogenesis (VEGF, PDGF), and pH regulation (carbonic anhydrase-9).

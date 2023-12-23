@@ -1,0 +1,8 @@
+Extended Data Figure 8. S-2HG does not induce Bcl-2 or Bcl-xl that can explain the in vivo 
+persistence of adoptively transferred CD8+ T-lymphocytes.
+a/qPCR quantification of Bcl2 and Bclxl mRNA levels in response to 500 μM S-2HG-octyl 
+ester treatment for either 1 or 7 days. n=4 mice
+b/Immunnoblot analysis for Bcl-2 and Bcl-xl protein in response to increasing doses of 
+S-2HG-octyl ester for 9 days.
+c/qPCR quantification of Bcl2 and Bclxl mRNA levels in response to 300 μM S-2HG-octyl 
+ester treatment for either 1, 7 or 9 days. n=4 mice

@@ -1,0 +1,6 @@
+Figure 1. Efficiency of CRE Recombinase-Mediated Deletion in Myeloid Cells
+Genomic DNA was isolated from peritoneal macrophages (A) and neutrophils (B) from 
+HIF-1α-, VEGF-, and VHL-LysM-CRE mice and subjected to real-time PCR with primers 
+spanning the targeted region as well as primers for an undeleted control gene for 
+normalization. Efficiency of deletion was calculated by quantitative PCR. (C) Differential 
+leukocyte counts were performed on samples harvested by retinal bleeding.

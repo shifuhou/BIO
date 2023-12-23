@@ -1,0 +1,13 @@
+Figure 3. Learning from nature: The influence of oxygen tension during bone-cartilage tissue
+formation
+In vivo: During development, cartilage forms via the processes of mesenchymal condensation
+and carefully regulated chondrogenic differentiation in very hypoxic environments. Long bone
+formation occurs via endochondral ossification where hypertrophic chondrocytes upregulate
+angiogenic genes triggering vascular invasion (with consequent increases in oxygen tension)
+followed by new bone formation (green rectangles). Images adapted from Ref. 89, with
+permission from Nature Publishing Group. In vitro: Hypoxia enables the expansion of stem
+cells while maintaining their undifferentiated states. Cells are then seeded into 3D
+organizations to facilitate functional tissue development. Chondrogenic differentiation is
+enhanced under hypoxic conditions relative to 20% O2. Differentiation into osteogenic lineage
+and subsequent bone formation (green rectangles) in vitro is optimized at ambient (20%) O2
+tensions and inhibited under hypoxic conditions.

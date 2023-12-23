@@ -1,0 +1,11 @@
+FIG. 5. Model for activation of HIF-1 function. Both Arnt mRNA
+and protein are constitutively expressed. In contrast, hypoxia treat-
+ment results in dramatically elevated HIF-1(cid:97) protein levels generated
+from a constitutively expressed pool of mRNA. HIF-1(cid:97)–Arnt het-
+erodimers then form, and dimerization induces a conformational
+change that allows the HIF-1(cid:97)–Arnt complex to bind DNA. It is also
+possible that the structural change is propagated onto other functional
+domains of HIF-1(cid:97), most notably the transactivation domain. The
+present data indicate that the molecular chaperone hsp90 associates
+with de novo synthesized HIF-1(cid:97)and gives rise to a conformation that
+is critical for dimerization with Arnt.

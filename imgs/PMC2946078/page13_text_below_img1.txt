@@ -1,0 +1,19 @@
+Figure 3. Differentiation of hepatocytes from human iPS cells
+A) Hepatocyte differentiation from hiPS cells was followed by detecting OCT3/4, FOXA2,
+SOX17, GATA4, HNF4a, Alphafetoprotein (AFP), and Albumin (ALB) by
+immunocytochemistry at day 0, 5, 10, 15, and 20 days. Results are representative of three
+independent differentiation experiments. B) Representative flow cytometry profile showing
+the average number of Albumin positive hiPS–derived hepatocytes in three independent
+differentiation experiments = 81.0%±4.8. C) Albumin secretion by hiPS cell–derived
+hepatocytes was identified in the medium after 3–days of culture using ELISA. D)
+Hepatocyte–like cells derived from hiPS cells were shown to store glycogen by PAS
+staining (a); store lipids by Oil Red O staining (b); uptake LDL using Dil-LDL (c); and
+metabolize indocyanine green (d); have similar morphology to hepatocytes with some cells
+being bi-nucleated (black arrow) (e); and direct dichlorofluorescein diacetate to plasma
+membranes (white arrow) (f). E) Heat map of gene array analyses showing that expression
+of 40 liver–specific mRNAs 23 was increased (red) following differentiation (Hep)
+compared with undifferentiated (hiPS) cells where the majority of these mRNAs were
+expressed at relatively low levels (blue). F) Bar graphs showing the levels of mRNAs,
+determined by real-time qRT-PCR, encoding Phase I and II enzymes in hepatocyte–like
+cells derived from H9 huES cells (yellow) and C2 hiPS cells (orange) expressed as fold of
+levels found in cadaveric human liver samples.

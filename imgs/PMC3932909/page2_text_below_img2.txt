@@ -1,0 +1,15 @@
+Fig. 1. Enhanced angiogenic phenotypes in mice deficient for pVHL in
+hS100A8 myeloid cells. (A) Vhl mutant mice exhibited erythema (black
+arrowheads) compared with WT mice. (B) Red blood cell (RBC) or hemo-
+globin (HGB) levels in WT (n = 4) or Vhl mutant (n = 10) mice. Data are the
+mean ± SEM. (C) Antibody array analyses of the Vhl mutant or WT mice
+using bone marrow lysates. Note that Vegf levels (red arrowhead) were in-
+creased approximately twofold in Vhl mutant mice. Quantitative results are
+shown in Table S1. (D) Immunostaining of matrigel implanted in WT or Vhl
+mutant mice for CD31 endothelial cells (red). Hoechst 33342 (blue) was i.v.
+administered immediately before the matrigel harvest. (Scale bar: 100 μm.)
+Quantification of CD31 area density is shown in the bar graph. Data are the
+mean ± SEM (n = 7 for WT; n= 18 for Vhl mutant mice). *P < 0.05 determined
+by unpaired Student t test. (E) Western blot of matrigel lysates obtained
+from Vhl mutant or WT mice. (F) Immunostaining of matrigel in D for CD11b
+(red) or CD31 (green). (Scale bar and n numbers are as in D.)

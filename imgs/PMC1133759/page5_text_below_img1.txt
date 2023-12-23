@@ -1,0 +1,2 @@
+Figure 6 Sequence alignment of human D-2-hydroxyglutarate dehydrogenase (HsHd) and mouse D-2-hydroxyglutarate dehydrogenase (MmHd) with
+S.cerevisiae actin-interacting protein 2 (CsD2) and human D-lactate dehydrogenase (HsLd)

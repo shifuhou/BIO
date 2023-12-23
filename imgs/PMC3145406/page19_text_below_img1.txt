@@ -1,0 +1,11 @@
+Figure 4.
+HIF-α effects on p27 and Cyclin D2 levels require c-Myc. A. Western blot analysis showing
+siRNA inhibition of HIF-1α (H1), HIF-2α (H2) and c-Myc (M) expression, as well as a
+luciferase control (C) in HCT116 and WT8 cells. B. QRT-PCR analysis showing expression
+of p27 in siRNA treated cells after 20 hrs. at 0.5% O2. Results measured by QRT-PCR from
+4 experiments ate shown, error bars ±1 SEM. C. QRT-PCR analysis showing expression of
+Cyclin D2 in siRNA treated cells. Results measured as above. D. Cell cycle progression
+measured by BrdU incorporation in asynchronous HCT116 cells treated with control or
+HIF-1α siRNA and WT8 cells treated with control or HIF-2α siRNA at 21% O2 (N) or
+0.5% O2 (H) for 48 hrs. Results averaged from 3 experiments are shown, error bars ±1 SEM,
+* p < 0.05

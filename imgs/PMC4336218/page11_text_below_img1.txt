@@ -1,0 +1,9 @@
+Extended Data Figure 1. Pluripotent stem cells can proliferate in the absence of glutamine when 
+cultured in 2i/LIF medium
+a, Doubling time of ESC-V19 cells cultured in serum/LIF (S/L) or 2i/LIF (2i/L). b, Growth 
+curve of ESC-1 cells cultured in S/L or S/L/2i medium devoid of glucose. c, Samples of S/L 
+(left) and 2i/L (right) media with and without glutamine were analyzed by gas 
+chromatography-mass spectrometry. Representative chromatograms of the total ion count 
+reveal a clear glutamine (Q) peak in +Q media (grey) and no detectable glutamine in –Q 
+media (red). m, minutes. d, Teratoma formation from ESCs grown in 2i/L medium without 
+glutamine for three days. Representative images of haematoxylin and eosin staining reveal 

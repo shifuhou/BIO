@@ -1,0 +1,27 @@
+Figure 2. Expression of genes encoding glucose transporters
+and glycolytic enzymes. The glycolytic pathway is shown at
+left. Symbols for genes encoding the respective enzymes are
+coded by font according to the mRNA expression pattern (nor-
+malized to 18S rRNA) in ES cells cultured under nonhypoxic (N)
+or hypoxic (H) conditions for 16 hr (lanes 1–6 at right) as follows:
+(1) (bold) increased expression in hypoxic Hif1a+/+ cells, loss of
+induction in Hif1a+/− cells, and loss of basal and induced ex-
+pression in Hif1a−/− cells; (2) (bold and italicized) no effect of
+hypoxia on expression in Hif1a+/+ cells but decreased expression
+in hypoxic Hif1a+/− and Hif1a−/− cells; (3) (italicized) no effect of
+hypoxia on expression in Hif1a+/+ cells but decreased expression
+in hypoxic and nonhypoxic Hif1a−/− cells; (4) (plain) no effect of
+hypoxia or HIF-1(cid:97) deficiency on expression. mRNA expression
+in Hep3B cells was also assayed (lanes 7,8). The indicated genes
+encode the following proteins: (GLUT1 and GLUT3) glucose
+transporter 1 and 3; (HK1 and HK2) hexokinase 1 and 2; (GPI)
+(PFKL) phosphofructokinase L;
+glucosephosphate isomerase;
+(ALDA and ALDC) aldolase A and C; (TPI) triosephosphate
+(GAPDH) glyceraldehyde-3-phosphate dehydroge-
+isomerase;
+nase; (PGK1) phosphoglycerate kinase 1; (PGM) phosphogluco-
+mutase; (ENO1) enolase 1; (PKM) pyruvate kinase M; (LDHA)
+lactate dehydrogenase A. GLUCOSE (EXT) and GLUCOSE
+(INT) refer to extracellular and intracellular glucose, respec-
+tively.

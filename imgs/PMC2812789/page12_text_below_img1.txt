@@ -1,0 +1,13 @@
+Fig. 2.
+FGFR1 inhibits PKM2 by phosphorylation at Y105. (A) Mutational analysis revealed that
+substitution of Y105 results in a significant increase in PKM2 activity in 293T cells (n.s., not
+significant; *P < 0.05). Relative enzyme activity was normalized to that of cells expressing
+GST-PKM2 WT. (B) Left: Immunoblotting (WB) shows shRNA-mediated stable knockdown
+of endogenous hPKM2 in H1299 cells by lentiviral transduction, and “rescue” expression of
+Flag-tagged mPKM2 proteins including WT, Y105F, and Y390F mutants. Right: Y105F has
+significantly higher catalytic activity than mPKM2 WT or Y390F in rescue H1299 cells.
+Relative catalytic activity was normalized to that of mPKM2 WT. (C) GST-PKM2 WT or
+Y105F mutant was incubated with active recombinant FGFR1 (rFGFR1) in an in vitro kinase
+assay. Phosphorylation at Y105 in PKM2 was detected by specific antibody p-PKM2 (Y105).
+(D) Immunoblotting revealed that inhibition of FGFR1 by TKI258 treatment in H1299 cells
+results in decreased Y105 phosphorylation of endogenous PKM2.

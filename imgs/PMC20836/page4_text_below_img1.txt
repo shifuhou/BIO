@@ -1,0 +1,19 @@
+FIG. 3. HIF-1(cid:97) does not undergo an allosteric change in response
+to the GST–Arnt1-407 or GST–Arnt1-140 deletion mutants. (A) The
+Upper panel shows a schematic representation of full-length Arnt and
+the bacterially expressed Arnt bHLH and bHLH(cid:121)PAS fragments
+Arnt1-140 and Arnt1-407, respectively. Full-length, [35S]methionine-
+labeled HIF-1(cid:97)was expressed in reticulocyte lysate and incubated with
+either GST (lanes 2 and 4), full-length GST–Arnt (lanes 3 and 5),
+GST–Arnt1-407 (lanes 6 and 8), or GST–Arnt1-140 (lanes 7 and 9).
+Glu-C protease (0.5 (cid:109)g: lanes 2, 3, 6, and 7; or 2.0 (cid:109)g: lanes 4, 5, 8, and
+9) was added and the incubation continued for an additional 30 min
+before analysis by SDS(cid:121)PAGE and fluorography. (B) The bHLH and
+PAS regions of Arnt are sufficient for dimerization with HIF-1(cid:97). Ten
+microliters aliquots of in vitro synthetized and [35S]methionine-labeled
+HIF-1(cid:97) expressed in reticulocyte lysate were incubated with either
+purified GST (lane 2) or GST–Arnt fusion proteins (lanes 3–5) for 1 h
+at room temperature. Twenty microliters of glutathione-Sepharose
+was added, and the samples were incubated on ice for 1 h. The
+precipitated pellet was analyzed on a 7.5% SDS(cid:121)polyacrylamide gel.
+Lane 1 represents 10% of the HIF-1(cid:97) input.

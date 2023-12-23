@@ -1,0 +1,10 @@
+Figure 4.
+Forced expression of stable form of HIF-1α and HIF-2α in immortalized- multipotential
+stromal cell (MSC). (A and B) Immunoblot analysis of HIF-1α (A) or HIF-2α (B) in
+immortalized-MSC with stable HIF-1α or HIF-2α under indicated O2 condition. Nuclear
+protein lysates were loaded in 5 μg each. Puromycin-resistant blank expression vector (Ctrl)
+served as a control. TATA binding protein (TBP) immunoblots served as loading controls.
+(C) HIF reporter element (HRE) reporter activities in immortalized-MSCs with stable
+HIF-1α or HIF-2α expression vector under 20%O2 condition. Puromycin-resistant blank
+expression vector (Ctrl) was used as a control.(*p<0.005, **p<0.001 to Ctrl under 20%O2
+condition).

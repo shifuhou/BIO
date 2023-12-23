@@ -1,0 +1,10 @@
+Figure 3. Correspondence between computational target predictions and observed protein changes
+Analogous results were observed using the transfection data sets (Supplementary Fig. 8). a,
+Performance of programs that consider site conservation. Plotted is the average protein
+derepression (± standard error) of genes with ≥1 conserved or non-conserved 7-8mer 3′-UTR
+site (grey) and of genes predicted to be miR-223 targets. The number of quantified proteins in
+each set is in parenthesis. b, Recognition of an adenosine (A) opposite the first nucleotide of
+the miRNA. The cumulative plot of protein changes after miR-181 transfection compares
+proteins from messages with no seed-matched 3′-UTR site to those from messages with the
+indicated single 3′-UTR site. c, Relationship between the scores of predicted targets and protein
+derepression. Predictions corresponding to quantified proteins were divided into three equal-

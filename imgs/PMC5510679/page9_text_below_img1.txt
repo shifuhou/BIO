@@ -1,0 +1,18 @@
+(p38/MAPK) [25,31], JNK/SAP [25], AKT [25], and Notch
+[32,33], together with ﬁbronectin [34,35], ﬁbroblast growth
+factor [25,36], angiopoietin-1 (ANGPT1) [37], NGF [38],
+and insulin growth factor [25,39] signaling pathways, are
+all induced by HIF-1a. We examined Notch signaling
+since hypoxia can promote Notch pathway activation
+and HIF-1a is a key mediator in the adaptation of eu-
+karyotic cells to hypoxia. We ﬁrst compared Notch
+downstream target gene expression in HIF-MSCs and
+MSCs. Activation of Notch signaling in HIF-MSCs was
+observed when HIF-MSCs were cultured at conﬂuence
+or seeded at low density on Jagged1-coated plates, in-
+dicating that HIF-1a enhanced Notch signaling only
+after activation of the Notch receptor. This is in accor-
+dance with previous studies showing that hypoxia in-
+creases activation levels of Notch1 in different tumor
+cell lines only after coculture with a Jagged1-expressing
+cell line [27].

@@ -1,0 +1,8 @@
+Extended Data Figure 6. Ex vivo treatment of CD8+ T-lymphocytes with S-2HG promotes in vivo 
+homeostatic proliferation and recall of adoptively transferred cells.
+a/ Diagram outlining the homeostatic proliferation experiments in Figure 4a-c. 
+Representative flow cytometry plots are shown for each pool before and after adoptive 
+transfer. Flow cytometry plots show viable CD8+ cells.
+b/Diagram outlining the recall experiments in Figure 4f.
+c/ Representative flow cytometry plots of recalling CD45.1+ CD8+ T-lymphocytes in 
+indicated organs on day 7 post vaccination (day 37 post transfer).

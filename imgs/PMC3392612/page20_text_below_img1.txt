@@ -1,0 +1,12 @@
+Figure 4. KDM4B and KDM6B are required for MSC-mediated bone formation in vivo
+(A) Knock-down of KDM6B reduced MSC-mediated bone formation in vivo. Scale bar, 100
+μm. (B) Qualitative measurement of bone formation by MSC/KDM6Bsh and MSC/V in
+vivo. Values are mean ± s.d., n = 5. **P < 0.01. (C) Knock-down of KDM4B reduced MSC-
+mediated bone formation in vivo. Scale bar, 100 μm. (D) Qualitative measurement of bone
+formation by MSC/KDM4Bsh and MSC/V in vivo. Values are mean ± s.d., n = 5. **P <
+0.01. (E) Knockdown of KDM6B promoted adipogenic differentiation of MSCs. MSC/
+Scrsh, MSCs expressing scramble shRNA; MSC/KDM6Bsh1, MSCs expressing KDM6B
+shRNA1; MSC/KDM6Bsh2, MSCs expressing KDM6B shRNA2. (F) Knock-down of
+KDM6B promoted PPAR-γ expression as determined by Real-time RT-PCR. (G) Knock-
+down of KDM6B promoted CD36 expressing as determined by Real-time RT-PCR. (H)
+Knock-down of KDM4B promoted PPAR-γ expression as determined by Real-time RT-

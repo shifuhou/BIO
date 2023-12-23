@@ -1,0 +1,7 @@
+Fig. 4. Topologically similar PS-dependent γ-secretase/S3 protease cleavages of
+βAPP  and  Notch.  Human  βAPP  is  cleaved  by  γ-secretase  in  a  PS-dependent
+manner after positions 40, 42 and 49 of the β-amyloid domain. Mouse Notch1 is
+cleaved  PS-dependent at  S3 after  amino acid 1743 (Schroeter et al., 1998).
+Note the similar location of the γ-secretase cleavage site at position 49 of the
+β-amyloid domain and the S3 cleavage site of Notch. The gray box represents
+the transmembrane domain; the dashed line the proposed membrane border.

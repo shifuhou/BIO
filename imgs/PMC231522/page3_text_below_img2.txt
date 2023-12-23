@@ -1,0 +1,6 @@
+FIG. 2. Requirement of Arnt for hypoxic regulation of target genes. (A and B) RNA blot analysis of total RNA extracted from wild-type Hepa 1 or Arnt-deﬁcient
+Hepa 1C4 cells following simultaneous cultivation at either 20 or 1% oxygen for 4 and 16 h. The same ﬁlter was subsequently hybridized with the indicated cDNA probes
+following 32P labeling by random priming. The signal obtained with the ribosomal protein L28 probe was used to correct for differences in loading and blotting. (C)
+Electrophoretic gel mobility shift assay using nuclear extract prepared from HeLa, Hepa 1, or Hepa 1C4 cells cultured either in 20 or 1% oxygen for 4 h. An 18-bp
+HRE oligonucleotide from the EPO gene was used as a probe. (D) To identify Arnt in the HIF-1 complex, nuclear extracts from Hepa 1 and Hepa 1C4 cells were
+incubated with anti-Arnt antiserum prior to the DNA binding reaction. Note that the anti-Arnt antiserum recognized a single band in Hepa 1 cells.

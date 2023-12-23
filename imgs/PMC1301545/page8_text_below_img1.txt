@@ -1,0 +1,8 @@
+pO2 profiles for two-dimensional Kroghian models at the far
+FIGURE 6
+(A, j 5 0.819) and close (B, j 5 0.208) positions for mature granulocytes
+(GM) as the predominant cell type and erythrocytes (E) as the secondary
+5 0.652,
+cell type (R1
+f
+2

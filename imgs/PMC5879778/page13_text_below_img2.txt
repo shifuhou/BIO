@@ -1,0 +1,2 @@
+Fig. 8 Impact of n_deg inferred from 39,000 sets of QMC simulation results. a The effect of n_deg on the frequency of optimal oxygen levels.
+b The effect of n_deg on the frequency of minimum CT

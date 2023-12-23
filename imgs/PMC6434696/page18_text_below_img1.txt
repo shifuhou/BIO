@@ -1,0 +1,11 @@
+Figure 1. 
+MSC fitness, function, and fate theorem. Culture adapted “fit” MSCs express inflammation-
+suppressing paracrine factors that augment Treg function and M2-macrophage polarization 
+as well as suppress effector lymphoid cell function. MSCs are also habilitated to produce 
+morphogens and exosomes that promote tissular repair. The sum effect of these additive 
+functionalities is to drive tissue regeneration. MSCs progressing to apoptosis express “eat-
+me” signals such as phosphatidylserine (PtS) and are susceptible to the alternate 
+efferocytosis pathway where their engulfment by phagocytic macrophages leads to 
+expression of immune tolerance factors. The reciprocal relationship between fitness and 
+apoptosis dictates whether MSC metabolism or their efferocytosis, respectively, is 
+responsible for their in vivo biological effects.

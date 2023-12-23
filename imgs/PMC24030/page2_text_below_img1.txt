@@ -1,0 +1,14 @@
+FIG. 1. p300 binds HIF-1(cid:97)(28). (A) GST fusion proteins containing the indicated portions of p300 C(cid:121)H1 were constructed. 35S-Labeled HIF-1(cid:97)
+was transcribed and translated in vitro and mixed with the indicated GST fusion proteins immobilized on glutathione beads. Bead-bound proteins
+were visualized by SDS(cid:121)PAGE and autoradiography. (B) Full-length p300 (WT) and p300 deleted within the first cysteine(cid:121)histidine-rich region
+(C(cid:121)H1) were synthesized in insect cells using the baculovirus system. 35S-labeled HIF-1(cid:97) was synthesized in vitro, and translation products were
+mixed with the indicated baculo-p300 species and immunoprecipitated with a p300 antibody [RW128 (4)] using protein-A Sepharose beads.
+Radiolabeled bead-bound proteins were visualized by SDS(cid:121)PAGE and autoradiography. Lanes 1 in A and B each contain 20% of the input
+translation products analyzed in the other lanes. (C) U-2 OS cells were transfected with 10 (cid:109)g of pCMV(cid:98)-HA-HIF-1(cid:97) ((cid:49)) or vector alone ((cid:50)).
+Cells were labeled with [35S]methionine, and cellular extracts were prepared, mixed (where indicated) with the relevant baculovirus-p300 species,
+and then immunoprecipitated with either anti-p300 or anti-HA antibody, as in B. Bead-bound proteins were released by boiling, and
+reimmunoprecipitated with antibody to the hemagglutinin (HA) epitope (12CA5). Proteins bound to beads in this second round were visualized
+by SDS(cid:121)PAGE and autoradiography. The open arrowhead indicates HA–HIF-1(cid:97). The identity of the faster migrating band is not clear but may
+in vitro translate; pp, precipitation; IP,
+represent a degradation product. Standard molecular weights (kDa; Sigma) are indicated. IVT,
+immunoprecipitation.

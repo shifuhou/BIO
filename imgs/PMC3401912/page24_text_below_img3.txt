@@ -1,0 +1,12 @@
+Figure 2. HIF1α and HIF2α are post-translationally modified, and differentially regulated by
+multiple mechanisms
+(A) Multiple mechanisms differentially regulate HIF1α and HIF2α at the levels of
+transcription or mRNA stability (red), mRNA translation (green), and protein stability
+(blue). In most cases, these regulatory events have opposite effects on HIF1α and HIF2α
+expression, or appear to be specific for only one HIFα isoform. See text for details. (NE), no
+effect. (8) Summary of phosphorylations, acetylations, and hydroxylations of the two HIFα
+subunits by CK1, ARD1, PHDs, FIH, MAPK, SIRT1, PKD1, and ATM. It should be noted
+that ARD1 acetylates HIF1α, while SIRT1 deacetylates both HIF1α and HIF2α. (C)
+Sequence alignment of HIF2α residues 301-331 with a similar region of HIF1α; shaded
+residues are unique to HIF2α and allow the selective phosphorylation of HIF2α T324 by
+PKD1.

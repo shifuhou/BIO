@@ -1,0 +1,6 @@
+Figure 2. Hypoxic, HIF and c-Myc effects on protein translation
+While c-Myc promotes ribosome biogenesis and expression of components of the
+translational machinery, hypoxia and HIFs modulate growth factor signaling pathways that
+normally upregulate translation. c-Myc targets and c-Myc promoted processes are
+highlighted in red, while direct HIF targets and hypoxia promoted processes are shown in
+blue.

@@ -1,0 +1,11 @@
+and 4%), for instance 4.4% in brain, 5.4% in liver and 9.5% in kidney. The lower oxygen partial
+pressure values observed in tissues, compared to air, do not correspond to hypoxia, but to the
+tissue physiological condition to maintain its homeostasis and should be called physioxia [2].
+Hence, physioxia is the oxygen partial pressure in tissues that defines a threshold ensuring
+proper physiological function [2]. For instance, it is assumed that oxygen partial pressure
+above 35mmHg (4.6%) is sufficient to ensure normal oxygenation of the brain tissue. More-
+over, results from various studies clearly indicate that tumor hypoxia corresponds to an oxygen
+partial pressure that is lower relative to the physioxia of the respective normal tissue and not
+relative to atmospheric normoxia [3, 4]. Genuine hypoxia in tissues and tumors is usually
+detected by pimonidazole hydrochloride staining or EF5 reduction that occurs at oxygen par-
+tial pressure lower than 10 mmHg (1.32%) [5] [6] [7].

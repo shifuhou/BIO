@@ -1,0 +1,10 @@
+Figure 3. PKM2 Promotes HIF-1 Transactivation
+(A, B, G and I) HeLa cells were transfected with p2.1, pSV-Renilla, and empty vector (EV)
+or the indicated expression vector, and exposed to 20% or 1% O2 for 24 h. The ratio of
+FLuc:RLuc activity was normalized to EV (A, G and I) or shSC (B) at 20% O2 (mean ±
+SEM, n = 4). *p<0.05, **p<0.01, ***p<0.001 vs EV or shSC.
+(C) Immunoblot assays of HIF-1α, HIF-1β, PKM2-V5, and actin in HeLa cells transfected
+with EV or PKM2-V5 (M2) expression vector and exposed to 20% or 1% O2 for 4 h.
+(D) HeLa cells were transduced with a retrovirus encoding shSC or two retroviruses
+encoding different shRNAs targeting PKM2 (shM2), exposed to 20% or 1% O2 for 4 h, and
+WCLs were subjected to immunoblot assays.

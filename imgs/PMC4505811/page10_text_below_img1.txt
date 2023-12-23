@@ -1,0 +1,6 @@
+Fig. 2. 
+hARD1 does not regulate the stability of HIF-1α. (A) Overexpression of FLAG-hARD1 was 
+induced in a HeLa-Tet inducible cell line under normoxic (N) or hypoxic (H) conditions. 
+Cell lysates were analyzed by Western blotting with anti-HIF-1α. (B) hARD1 was knocked 
+down in HeLa cells by siRNAs in the presence or absence of CoCl2. The level of HIF-1α in 
+the cell lysates was analyzed by Western blotting.

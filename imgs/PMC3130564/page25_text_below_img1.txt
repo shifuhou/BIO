@@ -1,0 +1,8 @@
+Figure 7. PKM2 and PHD3 Promote HIF-1-dependent Glycolytic Metabolism
+(A) qRT-PCR analysis of indicated mRNAs in HeLa cells transfected with shSC or
+shPKM2-#1 vector and exposed to 20% or 1% O2 for 24 h (mean ± SEM, n =
+4). *p<0.05, **p<0.01, ***p<0.001.
+(B) HeLa cells were transduced with shSC or shPKM2-#1 and shPKM2-#2 retrovirus, and
+exposed to 20% or 1% O2 in the absence or presence of digoxin (100 nM) for 24 h. Levels
+of the indicated protein were determined by immunoblot assay, quantified by densitometry,
+and normalized to actin (mean ± SEM, n = 4). *p<0.05, ***p<0.001.

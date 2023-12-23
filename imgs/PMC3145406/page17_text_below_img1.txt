@@ -1,0 +1,12 @@
+Figure 2.
+HIF-1α and HIF-2α have antagonistic effects on cell cycle progression. A. HIF-α subunit
+expression in WT8 cells stably overexpressing HIF-1α (1.1, 1.2, 1.3) or HIF-2α (2.2) after
+24 hrs. at 0.5% O2. B. Summary of changes in BrdU incorporation in WT8 cells
+overexpressing HIF-1α or HIF-2α after 24 hrs. hypoxia. Results averaged from at least 3
+experiments, error bars ±1 SEM, * p < 0.05, ** p < 0.01. C. Proliferation measured by serial
+cell counts under normoxia (N) or hypoxia (H); data from one representative experiment.
+Error ±1 SD. D. HIF-α subunit expression in pVHL rescued RCC4 cells transduced with
+empty vector (p1, p2), shRNA against HFF-1α (142, 144) or HIF-2α (241, 242) after 24 hrs.
+at 0.5% O2. E. Proliferation in clones with HIF-1α or HIF-2α knockdown, measured by
+serial cell counts under normoxia (N) or hypoxia (H); data from one representative
+experiment. Error ±1 SD.

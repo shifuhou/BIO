@@ -1,0 +1,2 @@
+Figure 3. Hypoxia activated transcriptome. A) Number of statistically significantly (p,0.01, Fold change .1.5) upregulated and downregulated
+genes detected at various time points (2h, 24h, 7d) in response to hypoxia. Data from three hESC lines analysed with GeneChip Human Exon 1.0 ST

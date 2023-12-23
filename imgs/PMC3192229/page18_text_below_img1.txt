@@ -1,0 +1,9 @@
+Figure 3. TSCM cells represent a distinct, less differentiated T-cell memory subset
+a, Heat map of differentially expressed genes (P < 0.01 One-Way Repeated Measures 
+ANOVA, FDR < 5% Benjamini-Hochberg's method) among CD8+ T-cell subsets. Red and 
+blue colors indicate increased and decreased expression respectively. b, Robust Multichip 
+Analysis (RMA)-normalized intensity of selected display of genes progressively 
+downregulated (naïve associated genes) or upregulated (effector associated genes) from TN 
+cells →TSCM cells →TCM cells →TEM cells. Data are represented as means ± s.e.m of 3 
+donors. c) Multidimensional scaling (MDS) analysis of differentially expressed genes (P < 
+0.01, FDR < 5%). Numbers represent the differentially regulated genes among each CD8+ 

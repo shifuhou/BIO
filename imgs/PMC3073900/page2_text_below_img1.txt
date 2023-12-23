@@ -1,0 +1,5 @@
+Figure 1 The effect of oxygen tension on CFU-F size and numbers. Cells were plated at 1000 (plain histograms) and 10000 MNC/60 cm2
+(dotted histograms) from total BM for P0. For the next passages, 100 (plain histograms) and 1000 cells/cm2 (dotted histograms) were seeded.
+Cells were incubated under hypoxic (5% O2, black histograms) or normoxic conditions (21% O2, white histograms) respectively and colonies
+were counted and their size evaluated (A & B). Mean +/- of 3 to 5 independent experiments. Numbers above the histograms (A & B) represent
+the significance calculated using bilateral paired Student’s t test. A representative aspect of colonies at various passages is shown (C).

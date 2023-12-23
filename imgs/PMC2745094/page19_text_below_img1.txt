@@ -1,0 +1,14 @@
+Figure 4. Comparison of protein and mRNA changes accompanying miR-223 loss
+a, Protein and mRNA changes for quantified proteins deriving from messages with at least one
+8mer 3′-UTR site (blue, n = 55) or at least one 7mer (orange, an additional 250 proteins). The
+least-squares best fit to the 8mer data are shown (blue line), as are reference lines (grey), which
+both have slope of 1.0. Vertical error bars indicate 25th and 75th percentiles for independent
+measurements of protein changes. Horizontal error bars indicate standard errors of mRNA
+changes from three biological replicates, one of which was also used for the SILAC
+experiments. b, Protein and mRNA changes for quantified proteins deriving from messages
+without 7-8mer 3′-UTR sites, plotted as in a. One of seven random cohorts is plotted here; the
+other six are in Supplementary Fig. 6. c, Distribution of the indicated reference-set mRNAs
+and quantified proteins with respect to mRNA expression, as indicated by the array signals
+from cultured neutrophils. d, Response of quantified proteins and their respective mRNAs to
+mir-223 deletion, considering those messages with 7-8mer 3′-UTR sites, grouped by mRNA
+expression.

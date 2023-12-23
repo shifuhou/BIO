@@ -1,0 +1,9 @@
+Figure 3. A. The expression of stem cell markers by hTSCs under hypoxic and normaxic culture conditions. hTSCs grown under hypoxic
+or normaxic conditions were analyzed by immunocytochemistry using specific antibodies to determine stem cell marker expression (See materials
+and methods for details). Compared to normaxic condition (20% O2), more hTSCs at hypoxic condition (5% O2) expressed nucleostemin (NS), Oct-4,
+Nanog, and SSEA-4, all of which are known stem cell markers. Insets indicate NC proteins in the nuclei of hTSCs. Nuclei were stained with Hoechst
+33342. Scale bars: 100 mm. B. Semi-quantification of stem cell markers by staining. hTSCs specifically stained for NS, Oct-4, Nanog and SSEA-4 by
+immunocytochemical staining were counted to calculate percentage staining. As indicated, significantly higher percentages of hTSCs cultured under
+5% O2 conditions expressed the stem cell markers (NS, Oct-4, Nanog, and SSEA-4) compared to those cultured under 20% O2 conditions (*P,0.05,
+with respect to hTSCs under 20% O2 culture conditions). Scale bars: 100 mm.
+doi:10.1371/journal.pone.0061424.g003

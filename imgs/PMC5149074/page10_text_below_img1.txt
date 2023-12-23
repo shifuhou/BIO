@@ -1,0 +1,8 @@
+Extended Data Figure 2. HIF-1α-dependent metabolic alterations underlie S-2HG production in 
+CD8+ T-lymphocytes.
+a/ Example calculation of intracellular 2HG concentration.
+b/ 1H-NMR analysis for 2HG from CD8+ T-lymphocytes cultured as in Fig. 2b.
+c/ Deletion efficiency of Hif1α or Hif2α in CD8+ T-lymphocytes, isolated from 
+Hif1αfl/fldlckcre or Hif2αfl/fldlckcre mice. n=4 mice.
+d/ Total 2HG levels, normalized to viable cell count or protein content, in Hif1αfl/fl and 
+Hif1αfl/fldlckcre CD8+ T-lymphocytes cultured as in Fig. 2b. n=4 mice per genotype.

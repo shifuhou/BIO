@@ -1,0 +1,8 @@
+Figure 2. HIFα Control of Cell Metabolism
+HIFs modulate cellular metabolism to faciliate cellular adaptation to low oxygen
+environments. Glucose consumption and glycolysis are promoted primarily by HIF1α, while
+fatty acid storage is promoted by HIF2α. Both factors inhibit mitochondrial consumption
+and oxidation of carbon, leading to a decreased production of ATP through oxidative
+phosphorylation and less reactive oxygen species (ROS) as a by-product. Instead, glycolysis
+makes a larger contribution to ATP synthesis in the cell. HIF2α, furthermore, inhibits ROS
+production through SOD2 and other targets.

@@ -1,0 +1,5 @@
+Figure 2 Correlation between gene expression and histone methylation in signature genes. (A) Heat map of signature genes (defined as those
+specific to at least one of the T-cell subsets using an ANOVA test at BH-adjusted P ,5 0.01). Genes with similar patterns across the cell types are
+grouped using k-means algorithm and marked by colors alongside the rows. (B) Scatterplot showing H3K4me3 correlation with median signature
+gene expression and H3K27me3 correlation with median signature gene repression in a population of naı¨ve (red), stem cell memory (green),
+central memory (blue), and effector memory (purple) CD81 T cells.

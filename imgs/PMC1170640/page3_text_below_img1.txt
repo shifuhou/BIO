@@ -1,0 +1,6 @@
+Fig. 2. Northern blot analysis of several HIF-1 target genes from cells cultured under hypoxia (A) or low glucose (B) conditions. Thirty m g of total
+RNA was loaded per lane and hybridized to cDNA probes from the following genes: PGK, ALDA, LDH, PK, GLUT1, VEGF, EPO, ARNT and
+HIF-2a
+. Equal loading was monitored by ethidium bromide staining of 28S rRNA. (C) Phosphorimage analysis of HIF-1 target genes from cells
+cultured under hypoxic conditions. Ten m g of total RNA was loaded per dot, hybridized to cDNA probes and quantiﬁed with a phosphorimager and
+ImageQuaNT software (both Molecular Dynamics).

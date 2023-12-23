@@ -1,0 +1,8 @@
+Extended Data Figure 4. Generation of JMJD3 mutant cells
+a, Schematic of targeting strategy for gRNAs to mouse Jmjd3 exon 17. gRNA sequences are 
+highlighted in blue. b. Representative sequences from two clones used in this study. Sanger 
+sequencing revealed indels as shown in schematic. Red dashes, deleted bases; red bases, 
+insertions. gRNA is highlighted in blue and protospacer adjacent motif (PAM) sequences 
+identified in green. Predicted cut site indicated by red triangle. Location of in-frame 
+downstream stop is indicated on the right. c, An example chromatogram for clone 
+JMJD3Δ/Δ-2 showing single base-pair insertions at predicted Cas9 cleavage site.

@@ -1,0 +1,12 @@
+Figure 3. Coexpression of SA lineage markers. All panels are from cul-
+tures grown in decreased oxygen plus 1 ng/ml BMP2 plus 5 mM forskolin.
+Cultures were double-labeled with anti-TH (A, B) and anti-DBH ( C) or
+anti-SA1 ( D). E and F show the merged images in A, C and B, D,
+respectively. Thus, A, C, and E represent the same ﬁeld of one colony, and
+B, D, and F represent the same ﬁeld of a second colony. C and D were
+contrast-adjusted to subtract out background attributable to “bleed
+through” of R-phycoerythrin secondary antibody (A, B) into the FITC
+channel (C, D); this underestimates the number of DBH
+cells.
+Arrowheads in E and F indicate double-labeled cells. A–F, 403 objective
+magniﬁcation.

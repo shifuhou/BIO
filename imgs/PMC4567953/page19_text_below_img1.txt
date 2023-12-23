@@ -1,0 +1,18 @@
+Figure 3. Glycolysis Modulates the Ca2+-NFAT1 Signaling Pathway in CD4+ T Cells
+(A) Naive CD4+ T cells from Nur-77-eGFP mice were left unstimulated or stimulated with 
+anti-CD3/anti-CD28 mAbs for 5 hr in the indicated conditions and GFP fluorescence was 
+measured by flow cytometry. Glc.: glucose; 2-DG: 2-deoxy-D-glucose.
+(B and C) Intracellular Ca2+ levels were measured in Fluo-4- and Fura-Red-labeled TH1 
+CD4+ T cells cultured in 10 mM glucose or 0.1 mM glucose before and after activation with 
+anti-CD3 crosslinking antibodies (B) or ionomycin (C). The ratio of Fluo-4 and Fura-Red 
+fluorescence was measured using flow cytometry.
+(D) Intracellular Ca2+ levels were measured as above in naive CD4+ T cells isolated from 
+wild-type (Wt) or GLUT-1-knockout (Glut1-KO) mice.
+(E) TH1 CD4+ T cells were stimulated with anti-CD3/anti-CD28 in the indicated conditions 
+and amounts of phospho-PLCγ1 were measured by flow cytometry.
+(F) TH1 cells were stimulated with ionomycin in medium containing 10 mM or 0.1 mM 
+glucose for 10 min and the cytoplasmic versus nuclear distribution of NFAT1 and NFAT2 
+was determined by Amnis Imagestream. Representative histograms and images show the 
+similarity profiles of NFAT1 (yellow, left) or NFAT2 (red, right) with DAPI staining to 
+measure nuclear localization. The percentage of T cells with nuclear NFAT1 or NFAT2 is 
+shown.

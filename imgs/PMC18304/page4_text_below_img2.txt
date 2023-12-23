@@ -1,0 +1,11 @@
+Effect of deletion or missense mutations on HIF-1a-mediated reporter
+Fig. 5.
+gene transcription. Hep3B cells were transfected with 5 mg of pSVbgal, 10 mg
+of p2.1 (containing a hypoxia response element upstream of an SV40 promot-
+er-luciferase reporter gene), and 125 ng of expression vectors encoding either
+no protein (EV), full-length HIF-1a(FL), full-length HIF-1awith S551GyT552A
+missense mutations (MIS), or HIF-1a(1–391y521– 826) (DEL). Transfected cells
+were incubated under 20% O2 for 24 h. The luciferase:b-gal activity ratio was
+determined and normalized to the value obtained from cells transfected with
+empty vector (EV) to obtain the relative luciferase activity. Results shown
+represent the mean and standard error for three plates of transfected cells.

@@ -1,0 +1,6 @@
+Figure 1. HIF1α and HIF2α exhibit antagonistic functions in nitric oxide (NO) production
+Under low IFNy conditions, HIF2α is more abundant and induces arginase1 expression,
+resulting in NO production. Under high IFNy conditions, HIF2α is diminished and HIF1α
+dominates so that iNOS can utilize arginine for NO generation. These physiologically
+antagonistic functions allow the HIFα subunits to coordinately regulate NO production in a
+cytokine-induced and transcription-dependent fashion.

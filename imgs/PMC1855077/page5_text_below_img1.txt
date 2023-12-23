@@ -1,0 +1,7 @@
+Figure 4. Effect of hypoxia on the chemotactic response of MSCs to SDF-1a and fractalkine. (A) Cells were cultured for 22 h in normoxic (Nor) or
+hypoxic (Hyp) conditions. Migration of MSCs was assayed by chemotaxis microchamber technique. Effect of hypoxia on the chemotactic response of
+MSCs to increasing concentrations of SDF-1a (0–300 ng/mL) and fractalkine (0–300 ng/mL) was assessed by counting the total number of cells in 5
+power fields. For inhibition studies of MSCs migration, MSCs were preincubated with 10 mg/mL of anti-CXCR4 or fractalkine-containing medium was
+preincubated with 10 mg/mL of anti-fractalkine. (B) Results are mean6SD of five power fields. (*, p,0.01, **, p,0.05 as compared with control
+without cytokine, #, p,0.01 as compared with that with cytokine added at 300 ng/mL, Student’s t test).
+doi:10.1371/journal.pone.0000416.g004

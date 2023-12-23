@@ -1,0 +1,9 @@
+translation modiﬁcations to HIF-1a [29]. To question the
+potential role of SUMO in HIF-1a-mediated proliferation
+in MSCs, we repeated the BrdU incorporation study using 50 mM
+AA, an inhibitor of SUMO ligase. As expected, cell proliferation
+was signiﬁcantly higher in HIF-MSCs than in MSCs; however,
+the HIF-1a-mediated increase in cell proliferation was com-
+pletely abolished by AA treatment, demonstrating the relevance
+of the SUMO pathway for HIF-1a-induced MSC proliferation
+(Fig. 4B).

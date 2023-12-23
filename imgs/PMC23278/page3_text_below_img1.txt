@@ -1,0 +1,4 @@
+FIG. 1. Comparison of FACS profiles of marrow cells from NOD(cid:121)SCID mice transplanted 6 and 8 weeks previously with 300 CD34(cid:49)CD38(cid:50)
+cells (A and B) (i.e., at limiting dilution) and 3 (cid:51) 103 CD34(cid:49)CD38(cid:50) cells (C) from the same original CB sample. In A the cells were stained with
+an irrelevant (control) isotype-matched mouse IgG. In B and C, the cells were stained with anti-human CD34–CY5 (cyanine-5-succinimidyl) and
+anti-human CD19–PE. Evidence of human cells of all three phenotypes examined in these analyses is seen in both mice (B and C).

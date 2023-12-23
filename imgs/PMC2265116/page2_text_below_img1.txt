@@ -1,0 +1,7 @@
+Fig. 1. Hydroxylation of Notch ICD at 2 asparagine residues by FIH-1. (A) Schematic diagram showing key features of Notch. (B) Notch 1 ICD, ANK 1–7, and RAM
+proteins were analyzed in a 14CO2 capture assay. Data are mean relative activity (cid:2) range (n (cid:3) 2) and are representative of (cid:4)3 independent experiments. (C)
+Puriﬁed wild-type (WT) or Asn mutant ANK 1–7 proteins or (D) mNotch 1– 4 ANK 1–7 proteins were compared for their abilities to promote FIH-1-mediated
+2-oxoglutarate turnover. Data are presented as mean (cid:2) range (n (cid:3) 2) and are representative of three independent experiments. (E) Kinetic CO2 capture assay
+with varying HIF-CAD or mNotch1 substrate concentrations, with data ﬁtted to a hyperbolic curve using PRISM software. The HIF-CAD apparent Km is 36 (cid:2)M,
+and the apparent Vmax is 4.7 nmol/mg per min, whereas Notch hydroxylation rate is near-maximal ((cid:1)0.7 nmol/mg per min), and the apparent Km cannot be
+determined accurately ((cid:5)4 (cid:2)M). Data are mean nmol/mg per min (cid:2) range (n (cid:3) 2), representative of (cid:4)3 independent experiments.

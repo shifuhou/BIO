@@ -1,0 +1,13 @@
+Figure 4. Growth of ES cells under nonhypoxic and hypoxic
+culture conditions. Hif1a+/+ (+) or Hif1a−/− (−) cells (6 × 105)
+were plated per 10-cm dish. After 24 hr, one plate of each geno-
+type was removed for cell counting (0 hr). The remaining plates
+were cultured under nonhypoxic (N; 20% O2) or hypoxic (H; 1%
+O2) conditions. The medium was changed after 24 hr and, for
+each condition, three plates each were removed after 24 or 48 hr
+for cell counts, which were normalized to the 0-hr cell count.
+Four fields were counted from each plate, and the experiment
+was performed three times. The mean (n = 36) and S.D. (bar) for
+each experimental condition were calculated, and results for
+Hif1a−/− cells that were significantly different from Hif1a+/+
+cells are indicated: (*) P < 0.05; (**) P < 0.01 (Student’s t-test).

@@ -1,0 +1,18 @@
+FIG. 2. Alignment of bHLH/PAS and PAS protein sequences in the bHLH
+motif and PAS domain (A) and phylogenetic tree constructed from the se-
+quences of PAS regions (B). (A) Alignment of the sequences was done by the
+method of Gotoh (24). Basic region (d), helix 1 (
+), loop ((cid:104)), helix 2
+), and two of the repeated sequences (s) in the PAS domain are shown
+(
+by the bars above the alignment. Completely conserved amino acids are indicated
+by the single-letter code beneath the sequences, and conserved hydrophobic (o),
+hydrophilic (j), small aliphatic (.), large aliphatic (@), aromatic ($), positive ((cid:49)),
+and negative ( ) sites are also indicated. Amino acids identical to those of mouse
+Arnt2 and mouse Sim are enclosed by solid lines and shadowed, respectively. (B)
+The phylogenetic tree was constructed by the method of Saitou and Nei (41).
+Sequences have been reported so far for human Arnt (28), mouse Arnt (39), rat
+Arnt (3), Drosophila Per (29), human AhR (9, 12), mouse AhR (2, 13), rat AhR
+(3), Drosophila Sim (7, 34), mouse Sim (14), and human Hif-1(cid:97) (48). Abbrevi-
+ations: m, mouse; h, human; r, rat; d, Drosophila; PAM, accepted point mutations
+per 100 sites.

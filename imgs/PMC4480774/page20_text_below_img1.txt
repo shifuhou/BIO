@@ -1,0 +1,9 @@
+Figure 3. Glycolysis and Energy Generation in Myeloid Cells Are Severely Affected by the Loss 
+of HIF-1α
+(A) Lactate concentrations in macrophage supernatant were quantified under either control 
+conditions (open bars) or after the addition of LPS (closed bars). Values were normalized to 
+total protein content.
+(B) Peritoneal macrophages were isolated from WT, HIF-1α-, VEGF-, and VHL-LysM-
+CRE mice and cultured under ambient conditions for 24 hr. Cell lysates were harvested and 
+intracellular ATP concentrations measured by means of a luciferase-based 
+chemiluminescent assay. Values were normalized to total protein content.

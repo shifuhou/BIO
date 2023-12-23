@@ -1,0 +1,17 @@
+Effect of internal deletions and missense mutations on HIF-1a ex-
+Fig. 4.
+pression. (A) Expression vectors encoding HIF-1a deletion constructs, consist-
+ing of residues 1–391 fused to 429 – 826, 494 – 826, or 508 – 826, either wild type
+(WT) or containing the S551GyT552A missense mutations (MUT), were trans-
+fected into 293 cells and exposed to 20% or 1% O2 for 4 h. Nuclear extracts
+were prepared, and 15-mg aliquots were subjected to immunoblot assay,
+which detected both endogenous full-length (FL) and recombinant deleted
+(D) HIF-1a. The expression of the deleted HIF-1a proteins was quantiﬁed by
+densitometry. (B) Cells were cotransfected with pSVbgal and vectors encoding
+HIF-1a(1–391y512– 826) (lanes 1–2), His6-HIF-1a(1–391y512– 826) (lanes 3– 4),
+His6-HIF-1a(1–391y512– 826yS551GyT552A) (lanes 5– 6), or His6-HIF-1a(1–391y
+512– 826yS551DyT552D) (lanes 7– 8). Transfected cells were exposed to 20% or
+1% O2 for 4 h, and His-tagged proteins were puriﬁed from lysates by metal-
+afﬁnity resin binding. Aliquots of puriﬁed protein (normalized to b-gal ex-
+pression) were subjected to immunoblot assay by using an anti-HIF-1a poly-
+clonal Ab, and protein expression was quantiﬁed by densitometry.

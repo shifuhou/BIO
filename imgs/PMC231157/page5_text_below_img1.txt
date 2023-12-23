@@ -1,0 +1,10 @@
+FIG. 5. Heterodimerization of AhR with Arnt2 and Arnt in vitro. 35S-labeled
+Arnt2 (lanes 1 to 5) and Arnt (lanes 6 to 10) were synthesized by in vitro
+transcription-translation, incubated with extracts from Sf21 cells infected with
+recombinant baculovirus expressing human AhR (lanes 3, 4, 8, and 9) or unin-
+fected Sf21 whole-cell extract (lanes 5 and 10) in the presence (lanes 4 and 9) or
+absence (lanes 3 and 8) of 3-MC (1 (cid:109)M), and coimmunoprecipitated with
+anti-AhR antibody (lanes 3 to 5 and 8 to 10) or nonimmune serum (lanes 2 and
+7). Precipitated proteins were denatured in an SDS gel-loading buffer by boiling
+and then subjected to SDS-PAGE on an 8% gel. Lanes 1 and 6 contained 1/100
+volume of 35S-labeled proteins used in those reactions.

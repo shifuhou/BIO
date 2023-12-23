@@ -1,0 +1,17 @@
+Figure 3. Histone demethylation is regulated by intracellular α-ketoglutarate in embryonic stem 
+cells
+a, GC-MS analysis of the αKG/succinate ratio in four ESC lines (ESC-1-4) grown in either 
+S/L or 2i/L medium. b, Western blot of ESC-1 and ESC-2 cells grown in 2i/L medium with 
+or without glutamine for three days. Molecular weight marker (in kDa) is shown. c, 
+Simplified schematic of the reaction mechanism of αKG-dependent dioxygenases. d, ESC-1 
+cells grown in S/L in the presence of increasing amounts of GSK-J4 for 24 hours. e, 
+H3K27me3 ChIP-PCR of ESC-1 cells cultured in S/L or 2i/L containing 30 μM of GSK-J4 
+for five hours. Values represent fold-change (GSK-J4/control) at individual bivalent domain 
+genes (n=14). f, H3K27me3 ChIP-PCR of CRISPR/Cas9 edited cells JMJD3Δ/Δ-1 (left) and 
+JMJD3Δ/Δ-2 (right) cultured in S/L or 2i/L. Values represent fold-change (JMJD3Δ/Δ cells 
+relative to control cells) at individual bivalent domain genes (n=10). Bars represent mean 
+values. p values determined by unpaired two-tailed Student’s t-test (e,f). g, The ratio of 
+αKG/succinate in ESC-1 cells grown in S/L or 2i/L medium with 1 μM or 5 μM of GSK-J4 
+or GSK-J5 for three hours. **, p < 0.001; ***, p < 0.0001 as determined by 2-way ANOVA 
+with Sidak’s multiple comparisons post-test (a,g). Data are presented as the mean ± s.d (a) 
+or s.e.m. (g) of triplicate wells from a representative experiment.

@@ -1,0 +1,4 @@
+Fig. 10 Comparative simulation results on the effect of ROS-mediated protein deactivation and Hif2α. The green dots indicate the nominal model
+parameter setting condition with ROS-mediated protein deactivation and the effects of Hif2α. The black dots account for Hif2α but not ROS-mediated protein
+deactivation. The blue and red simulations do not account for Hif2α. Simulations in red account for ROS-mediated deactivation, whereas simulation in blue
+does not. Note that in all cases Hif1α was assumed to function normally. The results were simulated with nominal parameter settings unless stated otherwise

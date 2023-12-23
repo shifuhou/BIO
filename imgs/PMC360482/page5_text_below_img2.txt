@@ -1,0 +1,8 @@
+FIG. 4. Cycloheximide inhibits formation of induced binding
+complex. Hep3B cells were preincubated for 2 h in the presence (+)
+or absence (-) of 100 FM cycloheximide (CHX) and then placed in
+1% (+) or 20% (-) 02 for 4 h prior to nuclear extract preparation.
+Extracts were mixed with wild-type (W18; lanes 1 to 4), mutant
+(M18; lanes 5 to 8), and USF probes (lanes 9 to 12) and analyzed by
+EMSA. I, cycloheximide-sensitive binding activity induced by hy-
+poxia; C, constitutive binding activities; U, USF.

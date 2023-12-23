@@ -1,0 +1,4 @@
+FIGURE 4
+pO2 profiles for the multilayer Kroghian model with granu-
+locytic progenitors (GP) and mature granulocytes (GM). The cell types in
+the various combinations are listed with the first cell layer first, etc.

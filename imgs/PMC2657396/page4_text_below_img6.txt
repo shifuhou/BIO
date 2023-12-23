@@ -1,0 +1,14 @@
+Fig. 4. Hypoxia- and HIF-dependent up-regulation of JHDMs. (A) GSEA analysis
+of mRNA expression proﬁles for hypoxic (12 h) vs. normoxic cells with gene set
+containing all known JmjC histone demethylases in HepG2 and U87 cells. (B) Gene
+expression changes under hypoxia in HepG2 cells. (C) Expression dataset for
+Grade IV glioblastoma was interrogated for changes in mRNA levels of the JmjC
+family. The most highly up-regulated JmjC family member is shown for normal
+tissue (N) vs. tumor (T) samples. Known HIF-1 targets are on the left. Data
+represented as the median (bar), 25–75th percentiles (box), and range (whiskers).
+(D) Quantitative RT-PCR veriﬁcation of up-regulated expression of HIF-1-bound
+JmjC genes under different levels of hypoxia. Results are expressed as mean (cid:9) SD
+after normalization to (cid:2)-actin. (E) shRNA depletion of HIF-1(cid:1), HIF-2(cid:1), HIF1(cid:1)and
+2(cid:1), or ARNT was used to determine HIF-dependent up-regulation of JmjC pro-
+teins. Data represent fold change comparing hypoxic with normoxic samples
+(mean (cid:9) SD).

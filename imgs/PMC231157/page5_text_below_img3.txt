@@ -1,0 +1,5 @@
+FIG. 6. Gel mobility shift assay of the XRE and the heterodimeric complexes of AhR with Arnt2 and Arnt. Human AhR produced in Sf21 cells with a baculovirus
+expression system was incubated in the presence or absence of 3-MC (1 (cid:109)M) with either Arnt2 (lanes 3 to 7) or Arnt (lanes 8 to 12) synthesized in vitro. A 32P-labeled
+XRE probe was added to the solution with or without a 100-fold excess of unlabeled XRE probes (W) or mutated XRE probes (M) and then electrophoresed on a
+4.5% nondenaturing polyacrylamide gel after an additional 30 min of incubation. Only the labeled probe was electrophoresed in lane 1. One of the heterodimeric
+subunits was used in lanes 2, 3, and 8. Arrowheads indicate the retarded bands. NS, nonspeciﬁc bands.

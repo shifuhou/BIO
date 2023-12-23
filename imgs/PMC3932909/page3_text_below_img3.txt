@@ -1,0 +1,9 @@
+Fig. 3. Bone marrow-derived cells mediate neovascularization in matrigel.
+(A) A picture (Upper) and Western blots (Lower) of matrigel in WT mice
+reconstituted with WT bone marrow (WT + WT BMT, n = 8) or with Vhl
+mutant mice bone marrow (WT + Vhl BMT, n = 8). (B) Immunofluorescent
+staining of matrigels in WT + WT BMT, WT + Vhl BMT, or Vhl + WT BMT for
+CD31 or CD11b. Nuclei were counterstained by DAPI. (Scale bar: 100 μm.)
+Quantification of CD31 or CD11b area density is shown in the bar graphs.
+Data are the mean ± SEM with *P < 0.05 determined by one-way ANOVA
+(n = 10 for WT + WT BMT; n = 8 for WT + Vhl BMT; n = 5 for Vhl + WT BMT).

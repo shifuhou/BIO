@@ -1,0 +1,12 @@
+Figure 3. Effect of ambient oxygen on the inverse relationship between respiration and oxidative
+DNA damage and DNA damage response
+(a) Visualization of oxidized DNA marker 8-oxoguanine (8-oxoG) by immunofluorescence
+(secondary antibody labelled with Alexa red) in respiring (SCO2 +/+) versus non-respiring
+(SCO2 –/–) cells incubated in 1.5%, 5 or 20% oxygen condition. Nuclei are counterstained
+with 4,6-diamidino-2-phenylindole (DAPI) (blue). Scale bar, 50 μm. (b) Relative
+quantification of two DNA damage response proteins, γ-H2AX and p53, by western blotting
+in response to increasing ambient oxygen. All cells were incubated for 48 h in the indicated
+oxygen condition before analysis. Lentivirus-mediated re-introduction of exogenous SCO2
+into SCO2 –/– cells: (c) rescues respiration; (d) reverses the increase in ROS; and (e)
+reduces DNA damage response (n = 3). Values are shown as mean and s.e.m.; P-values
+determined by Student's t-test.

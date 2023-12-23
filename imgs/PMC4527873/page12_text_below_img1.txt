@@ -1,0 +1,15 @@
+Figure 2. Hypoxia-Induced L-2HG Originates from Glutamine-Derived α-Ketoglutarate
+(A and B) Isotope tracing was performed in SF188 cells cultured in medium containing 
+either [U-13C]glucose or [U-13C]glutamine. The graph depicts the fraction of intracellular 
+2HG labeled by 13C at the indicated time. A similar labeling pattern was observed in RCC4 
+and CS-1 cells (data not shown).
+(C) SF188 cells were cultured for 48 hr in 21% or 0.5% O2 in the presence of vehicle 
+(DMSO) or 5 mM dimethyl-α-KG. Total intracellular 2HG was assessed by GC-MS. Graph 
+shows mean +/- SD of triplicate samples. Representative data from 1 of 3 independent 
+experiments are shown.
+(D and E) SF188 cells were cultured as in (C), then chiral derivatization of metabolites was 
+performed to allow separation of 2HG enantiomers by GC-MS. (D) shows an overlay of 
+GC-MS histograms for 2HG on the same scale. (E) shows individual GC-MS histograms for 
+2HG. The color code of the graphs for (D) and (E) is the same as shown in (C). L-2HG (left) 
+elutes at a shorter retention time than D-2HG (right) as in (1D). Representative data from 1 
+of 5 independent experiments are shown.

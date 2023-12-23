@@ -102,7 +102,6 @@ def extract_images_and_text_below(pdf_path, output_folder):
         for element in page_layout:
             if isinstance(element, LTFigure):
                 for item in element:
-                    print(item)
                     if isinstance(item, LTImage):
                         images.append(item.bbox)
             elif isinstance(element, LTTextBox):
@@ -144,34 +143,7 @@ def extract_images_and_text_below(pdf_path, output_folder):
 
     pdf.close()
 
-def extract_paragraph_from_pdf(pdf_path,start_word,end_word):
-    pdf = fitz.open(pdf_path)
-    abstract_texts = []
 
-    for page_num in range(pdf.page_count):
-        page = pdf.load_page(page_num)
-        text = page.get_text("text")
-
-        # 搜索 'Abstract' 关键字的位置
-        start_idx = text.lower().find(start_word)
-        if start_idx != -1:
-            # 如果找到了 'Abstract'，那么继续搜索 'Introduction' 作为结束位置
-            end_idx = text.lower().find(end_word, start_idx)
-            if end_idx == -1:
-                # 如果没有找到 'Introduction'，则提取从 'Abstract' 开始的其余文本
-                end_idx = len(text)
-            
-            abstract = text[start_idx:end_idx].strip()
-            abstract_texts.append(abstract)
-            # text_filename = os.path.join(output_folder, f"abstract.txt")
-            # with open(text_filename, "w", encoding="utf-8") as text_file:
-            #     text_file.write(abstract)
-    if len(abstract_texts) ==0 :
-        page = pdf.load_page(0)
-        text = page.get_text("text")
-        abstract_texts.append(text)
-    pdf.close()
-    return abstract_texts[0]
 
 # 定义一个函数来插入一行数据并将其追加到 Excel 文件
 def insert_and_save(df, row_data, excel_filepath):
@@ -228,10 +200,10 @@ if __name__ == '__main__':
 
             # print(conclusion)
             conclusion = "No"
-            if result.lower().rfind('yes') > result.lower().rfind('no'):
-                conclusion = "Yes"
-            # if 'yes' in result.lower():
+            # if result.lower().rfind('yes') > result.lower().rfind('no'):
             #     conclusion = "Yes"
+            if 'yes' in result.lower():
+                conclusion = "Yes"
 
             row1 = {'filename': p, 'abstract': abstract, 'result': result, 'conclusion': conclusion}
 

@@ -1,0 +1,12 @@
+FIG. 9. Analysis of HIF-1 and VEGF expression in wild-type, mutant, and
+derivative Hepa1 cells. (A) Expression of HIF-1. Nuclear extracts were prepared
+from the following nonhypoxic ((cid:50)) or hypoxic ((cid:49)) cells: WT, wild-type Hepa1
+cells; c4, mutant cells that do not express HIF-1(cid:98) (ARNT); VT2, c4 cells trans-
+fected with a plasmid expressing HIF-1(cid:98) (ARNT); and RB13, revertant c4 cells.
+Nuclear extracts were assayed for HIF-1(cid:97) (top panel) and HIF-1(cid:98) protein
+(middle panel) by immunoblot assay using afﬁnity-puriﬁed antibodies and for
+HIF-1 DNA-binding activity by EMSA (bottom panel). (B) Expression of VEGF
+mRNA. Total RNA was isolated from wild-type Hepa1 (lanes 1 and 2), mutant
+c4 (lanes 3 and 4), or corrected VT2 (lanes 5 and 6) cells incubated for 16 h under
+nonhypoxic ((cid:50)) or hypoxic ((cid:49)) conditions. Blot hybridization analysis of 15-(cid:109)g
+aliquots was performed with a rat VEGF cDNA probe.

@@ -1,0 +1,6 @@
+The term diapause describes a reversible, environmentally inducible state of suspended 
+embryonic development that is associated with delayed blastocyst implantation. Diapause 
+has been described in more than 130 mammalian species, indicating an exceptional degree 
+of evolutionary conservation in the coordination between birth and favorable environmental 
+conditions (Fenelon et al., 2014). However, the molecular controls of the entry and exit of 
+this reversible dormant stage are poorly understood.

@@ -1,0 +1,5 @@
+Figure 3.
+Molecular mechanism of action of drugs that inhibit HIF-1. The steps required for the
+transactivation of target genes by HIF-1 are shown in the colored ovals and the drugs that
+inhibit each step are shown below. Abbreviations: AF, aminoflavone, MSC, Se-
+methylselenocysteine.

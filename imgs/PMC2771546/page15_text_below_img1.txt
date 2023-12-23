@@ -1,0 +1,12 @@
+Figure 2. Effect of hypoxia on in vitro stem cell phenotype
+(A and B) Human ESCs (H1) cultured on MEF feeder layers under normoxic (21% O2) and
+hypoxic (5% O2) conditions. Normoxic cells display extensive regions of differentiation (dark
+circles surrounded by bright rings) compared with hypoxic cultures. (C and D) Further
+comparison of H1 hESCs grown at 21% O2 and 3% O2, respectively, showing fewer
+differentiated (darker, nonuniform) regions under hypoxic conditions. Images adapted from
+Ref. 50, with permission from National Academy of Sciences. (E–H) Comparisons of bone
+marrow-derived hMSCs grown under normoxic (21% O2) or hypoxic (2% O2) conditions: (E
+and F) Significantly higher connexin-43 expression is observed in hypoxic hMSCs grown in
+monolayer culture for 11 days using expansion medium. (G and H) Phase contrast images
+demonstrate the maintenance of uniform spindle morphology at late stages of passage under
+hypoxic conditions. Images adapted from Ref. 61, with permission from Academic Press.

@@ -1,0 +1,22 @@
+Figure 2. The proteomic impact of deleting mir-223 in mouse neutrophils
+a, Schematic of neutrophil labelling and analysis. Haematopoietic progenitors were isolated
+from wild-type (WT) or mir-223-/Y (KO) male mice and cultured in SILAC media containing
+granulocyte colony-stimulating factor (G-CSF) and stem cell factor (SCF) for six days. To
+enhance differentiation, SCF was withdrawn over the next 42 h. Mature neutrophils were
+mixed, and proteins were size-fractionated for quantitative MS analysis. mRNA was also
+collected from the cultures and directly from mice for expression profiling. b, mir-223
+expression detected with RNA blots probing for miR-223. One blot analysed total RNA from
+sorted subpopulations of cells cultured in vitro (left, with sorting profiles shown at the far left).
+The other blot analysed total RNA from cells cultured in vitro for eight days and from
+neutrophils isolated directly from bone marrow (right). As a loading control, blots were re-
+probed for U6 small nuclear RNA. Below each blot are the relative expression levels,
+normalized using the loading control. Radio-labelled RNA markers (M) are also shown. c,
+Analysis of neutrophils isolated directly from mice (left) and those derived in vitro from
+haematopoietic precursors (right), monitoring the effects of miR-223 loss on messages with
+single miR-223 sites in their 3′ UTRs. Plotted is the fraction of messages that changed at least
+to the degree indicated on the x axis, otherwise as in Fig. 1c. d, The fraction of upregulated
+proteins deriving from messages with miR-223 7-8mer 3′-UTR sites, plotted as in Fig. 1b. e,
+The impact of deletion of mir-223 on neutrophil proteins, considering proteins from messages
+with single miR-223 sites in their 3′ UTRs, plotted as in Fig. 1c. f, Targeting efficacy in ORFs
+(n = 69) and 3′ UTRs (n = 50), plotted as in Fig. 1e. g, Efficacy of single 7-8mer sites and
+multiple sites, plotted as in f.

@@ -1,0 +1,16 @@
+Figure 2. Generation of hepatocytes from human ES cells
+A) Flow diagram outlining the procedure used to control hepatocyte differentiation. B)
+Hepatocyte differentiation from huES cells was monitored by immunocytochemistry at day
+0, 5, 10, 15, and 20 using antibodies that recognized OCT3/4, FOXA2, SOX17, GATA4,
+HNF4a, Alphafetoprotein (AFP), and Albumin. Results are representative of three
+independent differentiation experiments. C) Albumin secretion by huES cell–derived
+hepatocytes was identified after 3–days of culture in medium by ELISA. D) Representative
+flow cytometry profile showing the average number of Albumin positive hepatocytes in
+three independent differentiation experiments = 80.9%±0.75. E) hES cell–derived
+hepatocytes were shown to store glycogen by PAS staining (a); store lipids by Oil Red O
+staining (b); to display hepatocyte morphology including bi-nucleated cells (black arrow)
+(c); efficiently uptake LDL using Dil-LDL (d); metabolize indocyanine green (e); and
+localize dichlorofluorescein diacetate to their plasma membranes (white arrow) (f). F) Heat
+map of gene array analyses demonstrating that a series of 40 mRNAs that are solely
+expressed in livers 23 were increased (red=high, blue=low) following differentiation (Hep)
+compared with undifferentiated (ES) cells.

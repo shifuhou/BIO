@@ -1,0 +1,8 @@
+FIG. 3.-Po2 in the centre of 20 EMT6/Ro (closed
+circles) and 20 V-79-171B (open circles) spheroids
+size. EMT6/Ro:
+as a function
+y=exp (-0-0027 X +5 257); O<X<1137; r=
+-091. V-79-171B: y=exp(-0(0103X +7 862);
+376 < X < 681; r = -096. Beyond these limits the
+curves are hand-fitted.

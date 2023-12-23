@@ -1,0 +1,16 @@
+Figure 2. PKM2 Interacts with HIF-1α
+(A) GST pull-down assays were performed with GST or GST-HIF-1α (531–826) and lysate
+prepared from HEK293 cells grown in media containing light isotopes (12C6-14N2-Lys
+and 12C6-14N4-Arg) or heavy isotopes (13C6-15N2-Lys and 13C6-15N4-Arg), respectively.
+The precipitated proteins were analyzed by Q-TOF mass spectrometry (Luo et al., 2010).
+The mass spectrum of a tryptic PKM2 peptide is shown. Monoisotopic peaks derived from
+PKM2 bound to GST-HIF-1α (531–826) are 4 Da greater in their mass/charge ratio (m/z)
+and have higher relative intensity compared to the corresponding peaks due to non-specific
+binding of PKM2 to GST.
+(B) Co-IP was performed in HeLa cells exposed to 1% O2 for 24 h.
+(C) Co-IP was performed using nuclear lysates (NL) prepared from HeLa cells transfected
+with PKM2-V5 vector and exposed to 1% O2 for 24 h.
+(D and E) GST pull-down assays were performed with GST or GST fusion protein
+containing the indicated amino acid residues of HIF-1α (upper panels) and whole cell lysates
+(WCLs) from HeLa cells expressing PKM2-V5. bHLH, basic helix-loop-helix; PAS, Per-
+ARNT-Sim; TAD, transactivation domain; ID, inhibitory domain.

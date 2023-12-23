@@ -1,0 +1,7 @@
+Figure 1. Scheme for genome-wide parallel analysis of histone methylation by ChIP-Seq and gene
+expression by microaray in CD8 T cell subsets
+Naïve and memory CD8 T cell subsets were isolated by cell sorting. ChIP-seq experiments for
+H3K4me3 and H3K27me3 was carried out from two individuals and subsequent confirmations
+of the findings by PCR were done in 3 additional individuals. Microarray gene expression
+analyses used RNA from 9 individuals in 3 pools and subsequent confirmations by RT-PCR
+were done with 3 additional individuals.

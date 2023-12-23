@@ -1,0 +1,10 @@
+EF5 binding occurs maximally in the presence of hypoxia
+at partial pressures below 10 mmHg [18]. Thus, we may
+assume that the partial pressure at the interface between the
+proliferating and hypoxic regions is approximately 10 mmHg.
+The distance from the spheroid centre at which this transi-
+tion occurs can be estimated from the images and compared
+to the model prediction from equations (4.3) and (4.4) for
+p ¼ 10 mmHg, using the experimentally obtained value for con-
+sumption rate a. These can be compared in order to investigate
+and validate the model and estimate its predictive power.

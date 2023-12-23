@@ -1,0 +1,15 @@
+Fig. 1. Identification of in vivo produced CTFγ in human cells and mouse brain. (A) Membrane fractions of HEK 293 cells stably transfected with Swedish mutant
+βAPP695 (swAPP) were analyzed by combined immunoprecipitation/immunoblotting with antibody 6687 to the C-terminus of βAPP. Three βAPP CTFs were
+detected (CTFβ, CTFα and the ∼6 kDa CTFγ). The same βAPP CTFs including the ∼6 kDa CTFγ were also observed in mouse brain as well as in N2a cells
+transiently transfected with swAPP. (B) The γ-secretase inhibitor DAPT inhibits CTFγ production. HEK 293 cells stably transfected with swAPP were treated with
+the indicated concentrations of DAPT for 4 h. Upper and middle panel, membrane fractions were prepared and analyzed for βAPP CTFs as in (A). Increasing
+concentrations of DAPT led to a build up of CTFβ and CTFα (upper panel) with a concomitant significant block of CTFγ generation (middle panel). Note that
+exposure time for CTFβ and CTFα (upper panel) was shorter than that for CTFγ (middle panel). Lower panel, conditioned media were analyzed for secreted Aβ
+by  combined  immunoprecipitation/immunoblotting  with  antibodies  3926/6E10.  Note  the  dose-dependent  reduction  of  Aβ  generation  by  DAPT  treatment.
+(C) Quantitation of CTFγ and Aβ generation in the presence of γ-secretase inhibibitor DAPT. HEK 293 cells stably transfected with swAPP were treated with the
+indicated concentrations of DAPT and analyzed for CTFγ and Aβ as in (B). Bars represent the mean ± SE of three independent experiments. Note that error bars
+within the symbols are too small to be displayed. (D) CTFγ production is dependent on biologically active presenilins. Upper panel, membrane fractions from
+control  cells  expressing  wild-type PS1  or  cells stably  expressing  PS1 D385N  were  analyzed  as  in  (A).  Expression  of  the  non-functional  PS1  D385N  variant
+increases  CTFβ  and  CTFα  and  significantly  reduces  CTFγ  production.  Lower  panel,  conditioned  media  were  analyzed  for  secreted  Aβ  as  described  in  (B).
+Expression of the non-functional PS1 D385N variant severely reduces Aβ production. (E) Reduced CTFγ production in the absence of PS1. Membranes from PS1+/+
+or PS1–/– mouse embryonic fibroblasts transiently transfected with swAPP were analyzed for CTFγ as in (A).

@@ -1,0 +1,4 @@
+Figure 1.
+Regulation of HIF-1 activity by oncoproteins and tumor suppressors. HIF-1 activity is
+stimulated by oncoprotein (red) gain-of-function. HIF-1 activity is inhibited by tumor
+suppressors (green) and their loss-of-function therefore stimulates HIF-1 activity.

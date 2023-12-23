@@ -1,0 +1,7 @@
+Figure 4. Characterization of the developmental potential of 9 hiPSC lines generated from different donor tissues. (A) Percentage of
+positive cells for the indicated marker in the differentiating culture. Total culture at day 6 of differentiation, or floating cells at day 14 were analyzed.
+Standard errors are indicated (n = 10 H1, n = 3 FFiPSC 6.6, n = 2 FFiPSC 6.1, n = 3 BliPSC CK, n = 4 BliPSC NL, n = 2 KiPSC2, n = 3 KiPSC5, n = 6 SiPSC, n = 2
+TiPSC 1b, n = 3 TiPSC 1ee). (B) FFiPSC 6.1-derived hematopoietic progenitors isolated at day 10 of differentiation generated CD41a+CD42b+
+megakaryocytes in culture, as indicated by flow cytometry analysis, cytospins stained for GPIIb/IIIa (CD41a), and megakaryocytes colonies in collagen-
+based assay. The megakaryocytes were able to produce pro-platelets (arrow) visible both in culture and in collagen-based colony assay.
+doi:10.1371/journal.pone.0017829.g004

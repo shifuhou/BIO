@@ -1,0 +1,7 @@
+Summary of the effect of internal deletions on the O2-dependent
+Fig. 2.
+regulation of HIF-1a expression. Expression of deletion constructs that were
+wild type (WT) or contained S551GyT552A missense mutations is summarized
+(Right). Regulation refers to the presence of increased protein expression
+under hypoxic as compared with nonhypoxic conditions. Experimental results
+are shown in Figs. 3 and 4.

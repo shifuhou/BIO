@@ -1,0 +1,17 @@
+Figure 5. Respiration is inversely related to DNA damage response in genetically unmodified
+cancer cells and primary fibroblasts
+(a) Respiration in HCT116 SCO2 +/+ cells was inhibited by acutely targeting each of the
+three respiratory complexes with the indicated agents for 24 h (I = rotenone, 0.1 μM; III =
+antimycin A, 3 mM; IV = potassium cyanide, 0.1 mM). DNA damage responses under
+indicated ambient oxygen conditions were monitored by γ-H2AX western blotting. As
+negative control, note the lack of DNA damage response in non-respiring SCO2 –/– cells.
+(b) SCO2 +/+ cells maintained under indicated oxygen conditions were FACS sorted by
+mitochondrial membrane potential using potentiometric dye JC-1 and divided into a low (L),
+medium (M) or high (H) mitochondrial membrane potential sub-population (~5 to 10% of
+the total population). The viability of all three fractions was greater than 96–99% by Trypan
+blue dye exclusion. (c) The stability of the mitochondrial membrane potential of postsorted
+cells was confirmed by FACS at the same setting. (d) Whole-cell oxygen consumption
+measurements in L, M and H mitochondrial membrane potential sub-populations (nmol per
+min per 106 cells) (n = 3). (e) Relative ROS levels in the respective fractions quantified by
+DCF FACS (n = 3). (f) Relative DNA damage response in the respective fractions
+determined by γ-H2AX western blotting. (g) DNA damage response of primary mouse

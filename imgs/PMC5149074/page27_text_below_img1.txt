@@ -1,0 +1,19 @@
+Figure 2. Hypoxic induction of 2-hydroxyglutarate depends on HIF-1α in CD8+ T-lymphocytes
+a/ 2HG in naïve and activated cells, n≥4 mice per time point.
+b/ 2HG in cells cultured at 21% or 1% oxygen 48 h; n=12 mice.
+c/ 2HG in cells cultured at 21% (n=15), 10% (n=6), 5% (n=10) or 1% (n=6) oxygen for 48 
+h.
+d/ Enantioselective MS for S- and R-2HG.
+e/ 2HG in human cells( n=4 healthy donors).
+f/ Enantioselective MS for S- and R-2HG from cells in e.
+g-h/ 2HG in Hif1αfl/fl and Hif1αfl/fl dlckcre (g) or Hif2αfl/fl and Hif2αfl/fl dlckcre (h) cells, 
+cultured as in b; n=4 mice per genotype.
+i/ 2HG in splenic extracts from Hif1αfl/fl (n=20) and Hif1αfl/fl dlckcre (n=15) mice.
+j/ 2HG in urine from Hif1αfl/fl (n=49) and Hif1αfl/fl dlckcre (n=25) mice.
+k/. S-2HG in cells with shLdha. n=4 individual transductions.
+l/ Ldha-FLAG (n=6) or Pdk1-FLAG (n=4) over-expression in Hif1αfl/fl dlckcre cells. The 
+dotted line represents S-2HG levels in Hif1αfl/fl cells n=4/6 individual tranductions.
+m/ 13C-isotopologue profile of 2HG in cells cultured as in b ; n=7 mice per condition.
+Unpaired t-test ( i, j). Paired t-test (b, l, m). One-way ANOVA (c, k) and two-way ANOVA 
+(g, h). Error bars denote s.d.; each dot in a, b, c, i and j represents a. ns = non-significant, 
+*p<0.05, **p<0.01, ***p<0.001.

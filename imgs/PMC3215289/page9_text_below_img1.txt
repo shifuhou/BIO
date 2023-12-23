@@ -1,0 +1,6 @@
+Figure 1. Schematic of HIF and c-Myc effects on carbon metabolism
+Both HIF and c-Myc act on multiple targets to regulate carbon utilization. HIF targets are
+shown in blue, c-Myc targets in red, and targets regulated by both HIF and c-Myc in green.
+Arrows are included to designate effects on flux through cellular pathways, with blue arrows
+showing pathways promoted by HIF, red arrows those promoted by c-Myc and green arrows
+by both.

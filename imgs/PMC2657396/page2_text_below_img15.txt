@@ -1,0 +1,11 @@
+Fig. 2. Distribution of HIF-1-bound sites and association with transactivation.
+(A) Distribution of HIF-1 ChIP hits relative to the TSS of associated genes. (B)
+Distribution of core HRE-containing HIF-1 hits (HRE(cid:8)) relate to the annotated
+structure of associated genes. (C) GSEA analysis of mRNA expression proﬁles for
+hypoxic (0.5%O2, 12 h) vs. normoxic cells. Relative expression was rank-ordered by
+signal-to-noise (S2N) ratios of triplicate hypoxic samples vs. triplicate normoxic
+samples. Genes associated with HRE(cid:8) HIF-1-binding sites were strongly corre-
+lated with the hypoxic phenotype. In contrast, no such enrichment was evident
+for the ChIP-chip fragments without identiﬁable core HREs (HRE(cid:4)). The color bar
+indicates up-regulated (red, positive S2N) and down-regulated (blue, negative
+S2N) genes.

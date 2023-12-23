@@ -1,0 +1,13 @@
+Figure 6.
+Mir-210 represses tumor growth in a mouse xenograft model. A) FaDu cells with ectopic
+expression of mir-210 and parental cells were injected s.c in nude mice at a density of 106 cells.
+N=6 for parental group and N=7 for 210E group. B) SU86.86 cells with ectopic expression of
+mir-210 and parental cells were injected s.c in nude mice at a density of 107 cells. N=5 for the
+each group. Tumor volumes are represented as average ± SEM. C) Tumor growth in the first
+four weeks of FaDu cell xenograft implants. D) Tumor growth in the first seven weeks of
+SU86.86 cell xenograft implants. Left panel, cells without ectopic mir-210 expression; right
+panel, cells with ectopic mir-210 expression. E) Expression of mir-210 was measured by
+TaqMan RT-PCR from xenograft tumor samples with/without ectopic expression of mir-210.
+Expression of mir-210 was also measured from the same tumor cells left after tumor injection.
+RNA input was normalized on small nuclear RNA RNU48. There is a significant difference
+of mir-210 expression between the parental and 210E groups (student’s t-test, p=0.025). F)

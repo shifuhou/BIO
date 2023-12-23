@@ -1,0 +1,35 @@
+To globally assess HIF-1(cid:97) expression during embryonic
+development, protein lysates were prepared from
+Hif1a+/+ conceptuses, including both embryo and extra-
+embryonic membranes, at various stages between E8.5
+and E18. Lysate aliquots were assayed for expression of
+HIF-1(cid:97) (Fig. 9, top panel) and HIF-1(cid:98) protein (Fig. 9,
+middle panel). In addition, the lysates were assayed for
+expression of topoisomerase I as a control nuclear pro-
+tein (Fig. 9, bottom panel). Proteins were detected by
+chemiluminescence and quantitated by laser densitom-
+etry. For each sample, HIF-1(cid:97) and HIF-1(cid:98) protein levels
+were normalized to the expression of topoisomerase I. In
+contrast to the high level of expression in Hif1a+/+ ES
+cells, expression of HIF-1(cid:97) was considerably lower in
+E8.5 Hif1a+/+ embryos. Compared with expression at
+E8.5, HIF-1(cid:97) levels increased 7- to 8-fold at E9.5–E10 and
+12- to 18-fold at E11–E12. At E18, HIF-1(cid:97) expression was
+10-fold higher than at E8.5. Between E8.5 and E18, HIF-
+1(cid:98) levels varied by less than twofold when normalized to
+topoisomerase I. HIF-1(cid:97) protein was not detected in ly-
+sates of E10 Hif1a−/− embryos, and HIF-1(cid:98) levels were
+decreased by 75% relative to E10 Hif1a+/+ embryos. In
+contrast, topoisomerase I was expressed at normal levels
+in Hif1a−/− embryos, demonstrating that loss of HIF-1(cid:97)
+and HIF-1(cid:98) expression was not an artifact of sample
+preparation or loading. These studies demonstrate devel-
+opmental regulation of HIF-1(cid:97) expression in Hif1a+/+
+embryos and complete absence of HIF-1(cid:97) expression in
+Hif1a−/− embryos. Decreased HIF-1(cid:98) levels in HIF-1(cid:97)-
+null ES cells and embryos complement previous findings
+of increased HIF-1(cid:98) levels in HIF-1(cid:97)-overexpressing cells
+(Jiang et al. 1996a) and decreased HIF-1(cid:97) levels in HIF-
+1(cid:98)-null cells (Forsythe et al. 1996), suggesting that these
+proteins may have decreased stability in the absence of
+their dimerization partner.

@@ -1,0 +1,18 @@
+FIG. 4. Arnt requires both the bHLH and PAS motifs to interact with HIF-
+1(cid:97). (A) Schematic representation of full-length Arnt and Arnt deletion mutants.
+The bHLH and PAS motifs are indicated. (B) In vitro-translated [35S]methi-
+onine-labeled full-length HIF-1(cid:97) was incubated with equal concentrations of in
+vitro-translated unlabeled full-length Arnt (lanes 1 and 2), the indicated Arnt
+deletion mutants (lanes 4 to 6), or blank reticulocyte lysate (lane 3) as described
+in Materials and Methods. Coimmunoprecipitation was carried out with Arnt-
+speciﬁc antiserum (lanes 2 to 6) or preimmune control serum (P.I.S.; lane 1).
+Resulting coimmunoprecipitated products were visualized by SDS-PAGE and
+ﬂuorography. Lanes 7 to 10 represent [35S]methionine-labeled control transla-
+tions of full-length Arnt and Arnt deletion mutants. (C) Equal concentrations of
+in vitro-translated [35S]methionine-labeled full-length HIF-1(cid:97) (lanes 1 and 2)
+and dioxin receptor (DR; lanes 3 and 4) were incubated with 5 (cid:109)l in vitro-
+translated unlabeled full-length Arnt (lanes 2 and 4) or blank reticulocyte lysate
+(lanes 1 and 3) as described in Materials and Methods. Coimmunoprecipitation
+was carried out with Arnt-speciﬁc antiserum, and the precipitated material was
+analyzed as described above. Lanes 5 and 6 represent control in vitro translations
+of full-length HIF-1(cid:97) and dioxin receptor in the presence of [35S]methionine.

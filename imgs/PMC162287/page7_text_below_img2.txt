@@ -1,0 +1,13 @@
+Figure 5
+Hypoxia regulates the expression of HIF target genes in BM progeni-
+tors and stem cells. (a) Representative histograms of cell surface
+expression of angiogenic and hematopoietic cytokine receptors in BM
+Lin–CD34+ cells after 4 days in culture under normoxic (dashed lines)
+or hypoxic (1.5% O2, solid lines) conditions. (b) The conditioned
+medium from BM Lin–CD34+ cells cultured overnight in normoxia or
+hypoxia (1.5% O2) was assayed for lactate and human VEGF. Bars rep-
+resent the fold increase in lactate and VEGF concentrations measured
+in hypoxic cultures relative to normoxic conditions. Error bars show
+SD. (c) Effect of VEGF, angiopoietin-1 (Ang-1), and angiopoietin-2
+(Ang-2) on cell surface expression of VEGFR2 in Lin–CD34+ cells after
+4 days in culture under normoxic conditions (N).

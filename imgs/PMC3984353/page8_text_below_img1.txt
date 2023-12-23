@@ -1,0 +1,4 @@
+where n is the number of photon counts and nBD is the background count determined using 
+the background value described above. nBD is the combined signal from dark counts and 
+background from stray light with the majority arising from dark counts. Phosphorescent 
+measurements with a SNR below 20 were excluded from this study.

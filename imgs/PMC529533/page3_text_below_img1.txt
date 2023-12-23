@@ -1,0 +1,11 @@
+Figure 3. Notch signal activation is required in endothelial cells.
+The Rbpsuh gene was conditionally inactivated in the endothelial
+cell lineage by crossing mice containing a floxed Rbpsuh allele
+to mice expressing Cre recombinase under control of the Tek
+promoter. (a,b) Whole mounts of E9.5 embryos. (b) The Tek-Cre
+Rbpsuhfl/null embryo exhibits growth retardation and pericardial
+effusion. (c,d) PECAM-1-stained E9.5 embryos and yolk sacs. (d) The
+Tek-Cre Rbpsuhfl/null mutant yolk sac has failed to remodel the
+primary vascular plexus to form large vitelline blood vessels. (e,f)
+Sections of PECAM-1-stained E9.5 embryos. The dorsal aortae (ar-
+rows) of the Tek-Cre Rbpsuhfl/null mutant are reduced in diameter.

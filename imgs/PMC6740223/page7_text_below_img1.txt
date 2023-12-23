@@ -1,0 +1,8 @@
+Fig. 2 Schematic model depicting adult stem cell differentiation. Uncommitted MSCs undergo two stages, occur-
+ring in the stem cell compartment and the committed cell compartment, prior to acquiring specific phenotypes. In the
+stem cell compartment, multipotent MSCs give rise to a less potent cell population via asymmetric cell division (A),
+which then generate more precursor cells with less self-renewal capacity and more restricted differentiation potential
+via  symmetric  division  (S).  In  the  committed  cell  compartment,  these  tri-or  bi-potent  precursor  cells  continue  to
+divide symmetrically and generate bi- or unipotent progenitor cells with pre-determined cell fate, which eventually
+give rise to fully differentiated cells. Recent studies also suggest that the fully committed cells are able to dedifferen-
+tiate into more potent cells, and acquire a different phenotype under inductive cues (open arrows).

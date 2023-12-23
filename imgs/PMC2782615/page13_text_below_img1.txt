@@ -1,0 +1,15 @@
+Figure 1.
+Mir-210 is the predominant hypoxia-responsive miRNA. A) Microarray analysis of miRNAs
+induced during the cellular response to hypoxia. SU86.86 and SU86.86/shHIF1α cells were
+split into two plates 24 hours before the hypoxic treatment, respectively. One plate stayed in
+normoxia and the other was exposed to 2% O2 for 16 hours. Then RNAs were harvested at the
+same time and used to conduct microarray analysis. Data are presented on a scatter plot showing
+log10-transformed signal intensities for each probe on both channels for the Cy3-labeled
+normoxic control and for the Cy5-labeled hypoxic sample (top panel). In the parallel dye swap
+experiment, normoxic sample was labeled with cy5 and hypoxic sample was labeled with cy3
+(bottom panel). mir-210 is identified as the most robustly induced miRNA and its induction is
+dependent on HIF1α. B) Western blot confirms efficient HIF1α knock-down by the shRNA
+construct in SU86.86 cells used in the microarray experiment; C) mir-210 is induced under
+different hypoxic stringencies by Northern blot. SU86.86 cells were split into four plates 24
+hours before treatment. Then each plate was exposed to normoxia, 2%, 0.5%, or < 0.02%
+(anoxia) O2 for 24 hours. Small nuclear RNA U6 was used as a loading control; D) The kinetics

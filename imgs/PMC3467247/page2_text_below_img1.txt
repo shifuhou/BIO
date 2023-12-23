@@ -1,0 +1,7 @@
+Figure 1. Experimental procedure and culture systems. (A) Schematic diagram of the experimental procedure and each culture system. Air-
+Oven experiment: the bag was filled with air and kept in an oven at 37uC. DeO2-Oven experiment: the deoxidizing agent was put into the bag, which
+was then kept in the oven. MixG-Oven experiment: the bag was filled with a gas mixture (see methodology) and kept in the oven. DeO2-WP
+experiment: the deoxidizing agent was put into the bag, which was then placed on a warming plate at 37uC. (B) The hermetically sealed plastic bag
+with a deoxidizing agent is indicated by an arrow. (C) The O2 concentration was regulated by the deoxidizing agent and measured using the oxygen
+meter (arrowhead). (D) After removal of the deoxidizing agent from the plastic bag.
+doi:10.1371/journal.pone.0047512.g001

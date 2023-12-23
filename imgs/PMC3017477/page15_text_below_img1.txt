@@ -1,0 +1,15 @@
+Figure 1.
+Characterization of mesenchymal stem cells (MSC). Human MSC were cultured from bone
+marrow aspirates in complete medium. They were selected by adherence to plastic while
+hematopoietic contamination was excluded by fluorescent-conjugated antibody staining of
+the MSC for CD45 and CD34. The phenotypic markers CD105, CD90, and CD73 were
+assessed by flow cytometry. (A): Representative plots of the fluorescence-activated cell
+sorting analysis of unlabeled MSC. (B): Antibody-labeled samples. Assessment of the lack
+of CD34 and CD45 was performed with all cell cultures used for Western blot experiments,
+whereas three MSC cultures derived from three separate donors were analyzed for CD105,
+CD90, and CD73. When cultured in defined differentiation medium, MSC differentiated
+into the adipogenic lineage, shown here by oil red O stain (C), the osteogenic lineage,
+shown by alizarin red stain (D), and the chondrogenic lineage, shown by Alcian Blue stain
+(E). Abbreviations: APC, allophycocyanin; FL1, fluorescence channel 1, detecting FITC;
+FL2, fluorescence channel 2, detecting PE; FL4, fluorescence channel 4, detecting APC; PE,
+phycoerythrin.

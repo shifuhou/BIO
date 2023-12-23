@@ -1,0 +1,8 @@
+Figure 4.
+Identification of mir-210 target genes by miRNP-IP. A) A schematic view of the strategy to
+identify mir-210 targets. B) Venn diagram shows potential mir-210 target genes predicted by
+four computational programs, TargetSacn, PicTar, miRanda, and PITA and genes enriched in
+miRNP-IP experiments. C) Fifty potential mir-210 target genes were identified. The four genes
+used in validation were highlighted in gray. The FGFRL1 gene with a little less than 2-fold
+enrichment in array 2 was also included at the bottom of the list. The values shown are
+normalized log2(R/G).

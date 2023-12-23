@@ -1,0 +1,9 @@
+Figure 6. A. Multi-differentiation capacity of hTSCs under hypoxic and normaxic culture conditions. hTSCs were separately grown under
+both hypoxic or normaxic conditions in adipogenic, chondrogenic and osteogenic induction media for 21 days followed by staining with Oil red O for
+adipogenesis, Safranin O for chondrogenesis and Alizarin red S for osteogenesis. It is apparent that compared to hTSCs at 20% O2 condition, cells
+grown at 5% O2 culture condition formed more extensive lipids, proteoglycan accumulation, and calcium deposition, as revealed by Oil red O assay,
+Safranin O assay, and Alizarin red S assay, respectively. Positively stained cells are indicated by arrows. Scale bars: 100 mm. B. Semi-quantification of
+the staining results by three assays. Positively stained cells were counted to calculate percentage staining. More hTSCs at 5% O2 condition were found
+to differentiate into adipocytes, chondrocytes and osteocytes than hTSCs at 20% O2 condition (*P,0.05, with respect to hTSCs that were under
+normaxic condition).
+doi:10.1371/journal.pone.0061424.g006

@@ -1,0 +1,10 @@
+Figure 7. A HAT inhibitor modulates chromatin structure and gene transcription in memory CD8
+T cells
+(A) High levels of gene expression were not associated with H3K4me3 but with H3K9ac in
+the TNFRSF9 gene in memory CD8 T cell subsets.
+(B) High levels of gene expression were associated with both H3K4me3 and H3K9ac in the
+SLAMF1 gene in memory CD8 T cell subsets.
+(C) Complete reductions in mRNA levels were associated with reductions in H3K9ac levels
+alone in the TNFRSF9 gene with curcumin treatment in memory CD8 T cell subsets. Partial
+reductions in mRNA levels were associated with reductions in H3K9ac levels but not
+H3K4me3 levels in the SLAMF1 gene with curcumin treatment in memory CD8 T cell subsets.

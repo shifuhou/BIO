@@ -1,0 +1,6 @@
+Figure 7. In vivo AIH increases Pax6 expression in SVZ tissue
+SVZ tissue was harvested immediately following AIH treatment and analyzed for Pax6
+expression via Western blot (panel A). C1-C4 indicates replicates of control (normoxic)
+animals; H1-H4 indicates replicates of AIH-treated animals. Densitometry data shown in
+panel B and are expressed as ratio of Pax6 expression to Cyclophilin A expression (*,
+p<0.05).

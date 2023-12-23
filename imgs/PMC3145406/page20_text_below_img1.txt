@@ -1,0 +1,12 @@
+Figure 5.
+ChIP demonstrates altered c-Myc promoter occupancy in hypoxic cells. A. HCT116 and
+WT8 cells were grown at 21% O2 (N) or 0.5% O2 (H) for 20 hrs., and then assayed by ChIP.
+Following IP with antibody against c-Myc or isotype control, extracts were assessed by
+QRT-PCR using SYBR green. The graphs show the fold difference between c-Myc IP and
+Rabbit IgG control (background) with results from 4 separate experiments, error bars ±1
+SEM. B. Time course of HIF-α protein induction in HCT116 and WT8 at 1, 2, and 20 hrs. at
+0.5% O2. * indicates a non-specific band. C. QRT-PCR time course of HIF target gene
+induction at the same time points as above. Results averaged from 3 experiments, error bars
+±1 SEM. D. c-Myc promoter binding in HCT116 and WT8 cells incubated at 0.5% O2 for 1
+or 2 hrs., then analyzed by ChIP as above. Results from 4 independent experiments are
+shown, error bars ±1 SEM.

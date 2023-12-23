@@ -1,0 +1,8 @@
+Extended Data Figure 9. S-2HG induces global histione H3 methylation changes in CD8+ T-
+lymphocytes.
+a/ Immunoblot analysis on nuclear extracts for histone H3 methylation marks in activated 
+CD8+ T-lymphocytes treated with the indicated doses of S-2HG for 7 days.
+b/Representative flow cytometry histograms of H3K27me3 staining as a function of 
+increasing S-2HG-octyl ester concentration.
+c/ H3K27me3 staining in CD8+ T-lymphocytes treated with or without 500 μM S-2HG-octyl 
+ester and stained with or without fluorophore conjugated C36B11 antibody.

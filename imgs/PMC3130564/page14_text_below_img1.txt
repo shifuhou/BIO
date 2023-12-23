@@ -1,0 +1,8 @@
+Figure 1. HIF-1 Regulates Hypoxia-Induced Expression of PKM1 and PKM2
+(A) qRT-PCR analysis of Pkm1, Pkm2 and Slc2a1 mRNA in wild-type (WT) and HIF-1α
+knockout (KO) mouse embryo fibroblasts (MEFs) exposed to 20% or 1% O2 for 24 h (mean
+± SEM, n = 3–5). ***p<0.001 vs 20% O2. ###p<0.001 vs WT MEFs.
+(B) Immunoblot assays of HIF-1α, PKM2, histone H3, and α-tubulin protein in nuclear and
+cytosolic lysates prepared from HeLa cells exposed to 20% or 1% O2 for 24 h. The intensity
+of PKM2 was quantified by densitometry and normalized to 20% O2 (mean ± SEM, n = 3–
+4). *p<0.05, **p<0.01 vs 20% O2.

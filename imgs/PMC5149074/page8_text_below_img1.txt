@@ -1,0 +1,5 @@
+Extended Data Figure 1. VHL-HIF-1α regulate central carbon metabolism and 2HG levels in 
+CD8+ T-lymphocytes.
+a/ Illustration of central carbon metabolism in CD8+ lymphocytes, including glycolysis and 
+the tricarboxylic acid cycle, depicting relative levels of detected metabolites between Vhlfl/fl 
+(n=5), Vhlfl/fldlckcre (n=5) and Hif1αfl/fl Vhlfl/fldlckcre (n=3) CD8+ T-lymphocyte groups.

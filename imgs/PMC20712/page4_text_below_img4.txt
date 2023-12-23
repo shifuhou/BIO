@@ -1,0 +1,7 @@
+FIG. 4. RNA blot analysis using HIF1(cid:97) and HLF cDNA probes.
+poly(A)-RNAs (3 (cid:109)g) prepared from various tissues of mice, as
+described, were electrophoresed in a 0.8% agarose gel containing 2.2
+M formaldehyde and then transferred to a nylon membrane. The
+membrane was probed with 32P-labeled mHIF1(cid:97) cDNA (A), mHLF
+cDNA (B), mVEGF (C), and hG3PDH (D). Tissues from which
+poly(A)-RNAs were prepared are indicated across the top.

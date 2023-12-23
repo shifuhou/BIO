@@ -1,0 +1,4 @@
+Figure 3. Result of semi-automatic detection on the boundary between prolif-
+erating and hypoxic regions on a day 17 spheroid. The dashed orange line
+indicates the best estimate of the boundary r10, relative to the spheroid centroid.
+When no line is present, the algorithm was unable to reliably detect the boundary.
